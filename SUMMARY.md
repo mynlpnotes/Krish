@@ -12,3 +12,8 @@
     * [Types of ML techniques](complete-ml-nlp-mlops-and-deployment/introduction-to-ml/types-of-ml-techniques.md)
     * [Equation of line, 3d and Hyperplane](complete-ml-nlp-mlops-and-deployment/introduction-to-ml/equation-of-line-3d-and-hyperplane.md)
     * [Distance of a point from a plane](complete-ml-nlp-mlops-and-deployment/introduction-to-ml/distance-of-a-point-from-a-plane.md)
+    * [Instance based learning vs Model based learning](complete-ml-nlp-mlops-and-deployment/introduction-to-ml/instance-based-learning-vs-model-based-learning.md)
+* [Linear Regression](linear-regression/README.md)
+  * [Simple Linear Regression Introduction](linear-regression/simple-linear-regression-introduction.md)
+  * [Simple Linear Regression Equations](linear-regression/simple-linear-regression-equations.md)
+  * [Cost Function](linear-regression/cost-function.md)

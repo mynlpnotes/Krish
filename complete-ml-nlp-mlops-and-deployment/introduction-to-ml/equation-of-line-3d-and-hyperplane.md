@@ -7,7 +7,7 @@
 * if x = 0 then where does the straight line meet y, that value will be our c
 *
 
-    <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
 * if there are many dimension
 *
 
