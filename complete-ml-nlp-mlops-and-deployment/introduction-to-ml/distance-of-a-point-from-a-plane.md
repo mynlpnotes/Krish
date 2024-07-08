@@ -6,7 +6,7 @@
 * Lets consider one more point S'
 *
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Since the distance angle between w and d will be less than 90, so d will be +ve
 * So for all the points on top of the plane the distance will be +ve
 * For S'

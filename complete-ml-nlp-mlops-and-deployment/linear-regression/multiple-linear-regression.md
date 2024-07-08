@@ -6,4 +6,4 @@
 * if we plot cost function with 2 input features, then it will look like a inverted mountain
 *
 
-    <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>

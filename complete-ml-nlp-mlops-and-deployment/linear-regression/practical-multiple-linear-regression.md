@@ -67,7 +67,7 @@
     ```
 *
 
-    <figure><img src="../../.gitbook/assets/image (26).png" alt="" width="270"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (26) (1).png" alt="" width="270"><figcaption></figcaption></figure>
 * Output of reg plot
 *
 

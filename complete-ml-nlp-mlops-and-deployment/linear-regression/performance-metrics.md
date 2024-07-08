@@ -10,7 +10,7 @@
 * If we get 0.9 then we will say it is 90% accurate
 *   The bigger the number, the higher the accuracy
 
-    <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -26,7 +26,7 @@
 * So in adj r squared, it penalizes wrt every insignificant features
 *
 
-    <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 *
 
-    <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
