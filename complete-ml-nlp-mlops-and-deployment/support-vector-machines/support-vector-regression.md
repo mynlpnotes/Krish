@@ -9,5 +9,5 @@
 * C is also hyper parameter, As C increases loss function decreases,&#x20;
 *   &#x20;
 
-    <figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption></figcaption></figure>
 *

@@ -21,7 +21,7 @@
 * This +2/ ||W|| is the cost function
 *
 
-    <figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 * We need to maximize this cost function by changing the values of w,b
 * We will be adding one more constraint
 * y will be +1 if wTx + b >= 1&#x20;
@@ -30,4 +30,4 @@
 * 2nd constraint, For all correct points y \* (wTx + b) >= 1
 *
 
-    <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>

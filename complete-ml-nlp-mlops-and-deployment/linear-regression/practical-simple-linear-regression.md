@@ -70,17 +70,17 @@ regression.predict(scaler.transform([[72]])) -> array([155.97744705])
 * Using seaborn
 *
 
-    <figure><img src="../../.gitbook/assets/image (9) (1).png" alt="" width="197"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt="" width="197"><figcaption></figcaption></figure>
 * We have to do standardization because, the different features can be in different units, as we have to use gradient descent, so if one of the feature is having big blue then it will long time to reach global minima
 * We need to do it for independent features, not required for dependent features
 * While using standardization, we use train data only, coz we dont want our model to see the test data, otherwise it will be data leakage
 * Plot of prediction
 *
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * y\_pred\_test =156.470 + 17.29(X\_test)
 * OLS Model summary
 *
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 *

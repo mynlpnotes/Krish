@@ -6,4 +6,4 @@
 * If it clearly seperabale and there is no overlapping then it will be called as hard margin
 *
 
-    <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
