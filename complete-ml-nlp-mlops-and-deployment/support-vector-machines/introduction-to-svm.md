@@ -10,6 +10,6 @@
 * In 3D cordinates, we will be create a plane, and it wil 2 marginal planes above and below it
 *
 
-    <figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * &#x20;
 *

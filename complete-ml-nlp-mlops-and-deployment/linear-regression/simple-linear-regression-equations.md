@@ -2,7 +2,7 @@
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * The equation of line can be written in different manners
 * if x = 0, then h(x) = theta0
 * Slope basically tells us for every unit change in x axis what is the movement in y axis

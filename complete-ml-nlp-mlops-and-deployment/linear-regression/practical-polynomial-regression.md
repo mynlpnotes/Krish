@@ -34,7 +34,7 @@ print(regression.intercept_) # [1.84676477]
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption><p>Dataset</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (32) (1).png" alt=""><figcaption><p>Dataset</p></figcaption></figure>
 *
 
-    <figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption><p>Best fit line with degree = 2</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (33) (1).png" alt=""><figcaption><p>Best fit line with degree = 2</p></figcaption></figure>

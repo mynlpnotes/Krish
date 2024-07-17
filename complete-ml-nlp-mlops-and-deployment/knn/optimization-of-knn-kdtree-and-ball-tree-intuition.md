@@ -15,10 +15,10 @@
 * From the point, we will traverse back and find the nearest points
 *
 
-    <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
 * &#x20;Group all the nearest point together
 * So we group 1,2 and then 3,4 and then 5,6,7 and 8, 9
 * Now combine nearest groups
 *
 
-    <figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>

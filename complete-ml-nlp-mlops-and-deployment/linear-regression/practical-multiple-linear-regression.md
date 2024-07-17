@@ -13,7 +13,7 @@
 * Inverse relation between unemplyment\_rate and interest\_rate
 *
 
-    <figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (28) (1).png" alt=""><figcaption></figcaption></figure>
 
     ```python
     #drop unneccessary columns
@@ -67,9 +67,9 @@
     ```
 *
 
-    <figure><img src="../../.gitbook/assets/image (26) (1).png" alt="" width="270"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (26) (1) (1).png" alt="" width="270"><figcaption></figcaption></figure>
 * Output of reg plot
 *
 
-    <figure><img src="../../.gitbook/assets/image (27).png" alt="" width="206"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (27) (1).png" alt="" width="206"><figcaption></figcaption></figure>
 

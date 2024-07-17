@@ -22,7 +22,7 @@
 * The variables which are not correlated to output, it will decrease its value also, so that the unrelated variables wont have much impact on output
 *
 
-    <figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (36) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

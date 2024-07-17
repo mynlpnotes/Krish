@@ -3,10 +3,10 @@
 * &#x20;Input data:
 *
 
-    <figure><img src="../../.gitbook/assets/image (40).png" alt="" width="250"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (40) (1).png" alt="" width="250"><figcaption></figcaption></figure>
 *
 
-    <figure><img src="../../.gitbook/assets/image (42).png" alt="" width="193"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (42) (1).png" alt="" width="193"><figcaption></figcaption></figure>
 * We can also create different kernels - for example for power of 2 and then apply linear kernel also
 * OR we can directly use kernel = poly
 

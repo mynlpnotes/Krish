@@ -11,11 +11,11 @@
 
 *   &#x20;
 
-    <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
 * The nearest neighbors can be found using - Eucledian distance, Manhattan distance
 *   &#x20;
 
-    <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Regression:**
 
@@ -23,7 +23,7 @@
 * We will take the average of the outputs of the neighbours
 *   &#x20;
 
-    <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -31,4 +31,4 @@
 * So we use variants of KNN like KD Tree , Ball Tree, we basically optimize this entire distance calculation
 *
 
-    <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>

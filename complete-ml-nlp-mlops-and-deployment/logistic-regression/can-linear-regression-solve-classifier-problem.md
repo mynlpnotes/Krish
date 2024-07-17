@@ -14,5 +14,5 @@
 * We want to squash our line between 0 and 1, and this can be done only using logistic regression
 *   &#x20;
 
-    <figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (39) (1).png" alt=""><figcaption></figcaption></figure>
 *

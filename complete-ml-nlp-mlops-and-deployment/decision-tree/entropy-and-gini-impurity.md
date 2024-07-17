@@ -6,11 +6,11 @@
 * Entropy will have value between 0 and 1
 *
 
-    <figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (43) (1).png" alt=""><figcaption></figcaption></figure>
 * &#x20;For impure node, maximum gini will be 0.5
 * For pure it will be 0
 * So its range is between 0 and 0.5
 *
 
-    <figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (44) (1).png" alt=""><figcaption></figcaption></figure>
 * Which feature to use for split, this will be understood using information gain

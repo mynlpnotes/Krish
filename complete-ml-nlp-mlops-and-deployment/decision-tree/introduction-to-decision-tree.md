@@ -6,7 +6,7 @@
 * DT also works like if elseif&#x20;
 *
 
-    <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 * &#x20;Outlook as 3 different categories
 * w.r.t outlook how many Y/N are there
 * w.r.t sunny how many Y/N are there
@@ -16,9 +16,9 @@
 * We will continue this split, till we get leaf node
 *
 
-    <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 * &#x20;Purity is checked using entropy and gini impurity
 *   What information to use for splitting is decided using information gain
 
-    <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption></figcaption></figure>
 *

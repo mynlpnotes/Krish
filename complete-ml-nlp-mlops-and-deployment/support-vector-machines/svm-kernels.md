@@ -8,14 +8,14 @@
 * And we can use linear SVC&#x20;
 *   &#x20;
 
-    <figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (24) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 * We can use linear SVC here
 * Suppose we apply a transformation y = x2 and then we will be able to use linear SVC
 *
 
-    <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (25) (1).png" alt=""><figcaption></figcaption></figure>
 * Polynomial Kernel
 * RBF kernel
 * Sigmoid kernel

@@ -4,17 +4,17 @@ Metrics for error w.r.t each and every point
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (17) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **MSE:**
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (19) (1) (1).png" alt="" width="368"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (19) (1) (1) (1).png" alt="" width="368"><figcaption></figcaption></figure>
 * Its a quadratic equation
 *
 
-    <figure><img src="../../.gitbook/assets/image (18) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (18) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 * If we see the image of graph of a quadratic equation, then it will help us to reach minima
 
 | Advantage                                                                            | Disadvantage                                                                                                  |
@@ -28,10 +28,10 @@ Metrics for error w.r.t each and every point
 
 **MAE:**
 
-* &#x20;![](<../../.gitbook/assets/image (34).png>)
+* &#x20;![](<../../.gitbook/assets/image (34) (1).png>)
 *
 
-    <figure><img src="../../.gitbook/assets/image (35).png" alt="" width="199"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (35) (1).png" alt="" width="199"><figcaption></figcaption></figure>
 * If we check the plot of MAE, then it will be passing through 0
 * And at 0 it wont be differentiable
 * So we create sub gradients, we will be taking a part of plot and get gradient
