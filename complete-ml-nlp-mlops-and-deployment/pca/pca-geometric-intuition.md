@@ -21,8 +21,8 @@
 * PC1 will always carry maximum variance, followed by PC2 and so on
 *
 
-    <figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 * &#x20;Final aim is to get the best principal component, which captures maximum variance
 *
 
-    <figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>

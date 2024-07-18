@@ -8,11 +8,11 @@
 * Weak learner means it hasn't learnt much from the training dataset
 *
 
-    <figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 * &#x20;In Adaboost we assign weights to the weak learner
 *
 
-    <figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
 * Decision tree stump means we will be creating a decision tree whose depth will be just 1
 * Since its having just 1 level so its a weak learner
 * It will lead to underfitting (Train accuracy is low, and test accuracy can be low or more) -> High bias and low variance

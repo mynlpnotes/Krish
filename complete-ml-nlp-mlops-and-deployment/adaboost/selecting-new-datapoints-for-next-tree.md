@@ -11,8 +11,8 @@
 * This will be our new dataset which will be passed for training to next DT stump
 *
 
-    <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 * &#x20;Again weights will get calculated, performance of stump will be calculated and so on
 *
 
-    <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>

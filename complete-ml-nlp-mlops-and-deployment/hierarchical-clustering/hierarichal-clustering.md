@@ -3,7 +3,7 @@
 * &#x20;Here we will be having same number of clusters, but there wont be any centroids
 *
 
-    <figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
 * &#x20;2 Types - Agglomerative and Divisive clustering
 * Agglomerative - Combining
 * Divising - Division
@@ -16,7 +16,7 @@ Steps for agglomerative:
 
 *   &#x20;
 
-    <figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 * Creation of dendogram - Plot eucledian distance vs points
 * Each point is a separate cluster
 * Combine the point which are nearest - so we combine P4P5
@@ -28,4 +28,4 @@ Steps for agglomerative:
 *
 *
 
-    <figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>

@@ -66,10 +66,10 @@ plt.show()
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption><p>View the clusters</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption><p>View the clusters</p></figcaption></figure>
 *
 
-    <figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption><p>Elbow plot</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (60).png" alt=""><figcaption><p>Elbow plot</p></figcaption></figure>
 *
 
-    <figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption><p>Silhoutte score plot</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption><p>Silhoutte score plot</p></figcaption></figure>

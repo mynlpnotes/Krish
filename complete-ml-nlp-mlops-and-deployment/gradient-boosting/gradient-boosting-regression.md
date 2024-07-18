@@ -2,7 +2,7 @@
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 Steps:
 
@@ -34,11 +34,11 @@ Steps:
 * Here input will be X and output will be R3
 *
 
-    <figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 8. Again we will calculate ypred, then calculate R4 and construct next DT
 9. Final output:
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>

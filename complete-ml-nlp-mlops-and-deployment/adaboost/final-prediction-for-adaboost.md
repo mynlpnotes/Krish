@@ -6,4 +6,4 @@
 * Then take the one which is having maximum value
 *
 
-    <figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (40).png" alt=""><figcaption></figcaption></figure>

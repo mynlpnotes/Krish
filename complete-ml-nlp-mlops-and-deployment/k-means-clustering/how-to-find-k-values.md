@@ -9,8 +9,8 @@
 * That point will be selected as K
 *
 
-    <figure><img src="../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 * &#x20;Eucledian distance or manhattan distance can be used to calculate distance between centroid and data points
 *
 
-    <figure><img src="../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>

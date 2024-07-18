@@ -8,7 +8,7 @@
 * Similarly w.r.t regression, we basically calculate the average of all the models output
 *
 
-    <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 **Why should we use RF instead of DT?**
 
@@ -19,4 +19,4 @@
 * And as majority voting is done so it will have good accuracy for test data
 *
 
-    <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>

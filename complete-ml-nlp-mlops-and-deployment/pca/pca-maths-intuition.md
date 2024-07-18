@@ -12,13 +12,13 @@
 * We giving notations in x for convenience
 *
 
-    <figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 * Our main is here to find the best unit vector which will give us the maximum variance
 * So this variance basically becomes our cost function
 * We use eigen decomposition - eigen vectors and eigen values to find the unit vector
 *
 
-    <figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 * &#x20;Steps in eigen decomposition
 
 1. Covariance matrix between features
@@ -27,4 +27,4 @@
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>

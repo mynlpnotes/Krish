@@ -25,7 +25,7 @@ Why Dimensionality Reduction?
 * The more it is towards -1 the more negatively correlated it is&#x20;
 *
 
-    <figure><img src="../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 * House size and fountain size are independent features
 * Fountain size does not contribute to price of the house
 * If we plot this features against price
@@ -33,7 +33,7 @@ Why Dimensionality Reduction?
 * Since fountain size is not important, we can drop the feature
 *
 
-    <figure><img src="../../.gitbook/assets/image (76).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
 
 **Feature Extraction:**
 
@@ -41,4 +41,4 @@ Why Dimensionality Reduction?
 * We cannot use feature selection, coz both the features are important
 *   So here we perform feature extraction, we take this 2 dimension and apply some transformation to extract some new feature(House size)
 
-    <figure><img src="../../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>

@@ -5,5 +5,5 @@
 * When dataset is small then we can use entropy -> About 10k records
 *   When dataset is huge use Gini impurity
 
-    <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 

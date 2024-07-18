@@ -10,5 +10,5 @@
 * If we have million of records, then time complexity is very high
 *
 
-    <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 *

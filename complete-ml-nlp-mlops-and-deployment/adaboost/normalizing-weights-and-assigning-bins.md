@@ -9,4 +9,4 @@
 * So we will send records having big bins to next DT stump
 *
 
-    <figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>

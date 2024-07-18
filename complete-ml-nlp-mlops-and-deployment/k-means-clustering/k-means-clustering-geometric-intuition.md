@@ -7,7 +7,7 @@
 * Aim is to cluster similar points together
 *
 
-    <figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 Steps:
 
@@ -21,4 +21,4 @@ Steps:
 * &#x20;Again we repeat steps 2 and 3
 *
 
-    <figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>

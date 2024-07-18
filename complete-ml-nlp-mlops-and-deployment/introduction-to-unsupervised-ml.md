@@ -12,4 +12,4 @@
 3. DBSCAN clustering
 4. Silhoutte scoring
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>

@@ -7,4 +7,4 @@
 * From below DT we can see that DT 2 will be giving us better entropy/GI
 *
 
-    <figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>

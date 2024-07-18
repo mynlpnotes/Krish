@@ -13,13 +13,13 @@
 * Since model is getting trained on features which are not important then it might led to confusion so performance will decrease
 *   &#x20;
 
-    <figure><img src="../../.gitbook/assets/image (68).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
 
 * Model performance will degrade as calculations will happen for that many dimensions
 *   Person keeps on adding requirement while buying house, so price will increase, some parameters might not be much important, so for that price wont increase much, so as keep adding parameters then price wont be able to predict correctly
 
-    <figure><img src="../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
 Ways to remove curse of dimensionality:
 

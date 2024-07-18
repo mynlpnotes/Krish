@@ -10,4 +10,4 @@
 * Pass this wrong predicted records to the next DT stump
 *
 
-    <figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>

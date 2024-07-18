@@ -7,7 +7,7 @@
 * P(B/A) -> Probability of B given A has occured
 *   &#x20;
 
-    <figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
 * &#x20;P( A and B) is same as P(B and A)
 *
 
