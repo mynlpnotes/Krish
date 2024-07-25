@@ -11,7 +11,7 @@
 * &#x20;P( A and B) is same as P(B and A)
 *
 
-    <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * &#x20;The algorithm that uses this bayes theorem is called naive bayes algorithm
 *
 

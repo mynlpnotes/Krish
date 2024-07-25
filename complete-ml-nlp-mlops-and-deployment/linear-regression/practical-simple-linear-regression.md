@@ -77,7 +77,7 @@ regression.predict(scaler.transform([[72]])) -> array([155.97744705])
 * Plot of prediction
 *
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * y\_pred\_test =156.470 + 17.29(X\_test)
 * OLS Model summary
 *

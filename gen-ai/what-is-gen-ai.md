@@ -24,7 +24,7 @@
     <figure><img src="../.gitbook/assets/image (11) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 *   &#x20;
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * If the output is number, class, probability, category -> Not GenAI
 * If the output is Text, audio, image, video grames -> GenAI
 
