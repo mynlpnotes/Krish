@@ -5,13 +5,13 @@
 * We ML and DL we learned about supervised and unsupervised learning
 *
 
-    <figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Gen AI is subset of DL
 * LLM model is subset of DL and it also has some properties merged with Gen AI
 * DL has Discriminative and generative techniques
 *   &#x20;
 
-    <figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Train gen model on huge wikipedia database, then it will be able to answer different questions, sentence completion, it can generate new data itself
 * ChatGPT is able to explain based on some input and context
 * Discriminative is basically based on supervised, unsupervised and semi supervised
@@ -24,7 +24,7 @@
     <figure><img src="../.gitbook/assets/image (11) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 *   &#x20;
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * If the output is number, class, probability, category -> Not GenAI
 * If the output is Text, audio, image, video grames -> GenAI
 
@@ -37,9 +37,9 @@
 * **GenAI:**&#x20;
 *   &#x20;
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * If we give book related to Cat, then GenAI can respond to any questions
 *
 
-    <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

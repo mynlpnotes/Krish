@@ -8,7 +8,7 @@
 * When we convert features into 0 and 1, then it will have sparse representation (maximum 0s and few 1s)
 *   For NLP problems we can use multinomial as well as bernoulli naives bayes as well
 
-    <figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. **Multinomial Naive Bayes:**
 
