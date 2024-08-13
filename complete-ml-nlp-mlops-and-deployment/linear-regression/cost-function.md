@@ -14,7 +14,7 @@
     <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * For now lets consider the intercept Θ0 as 0
 * We have a dataset
-* Lets initialize theta1 = 1 -> we find the values of h(x) for different values of x
+* Lets initialize Θ1 = 1 -> we find the values of h(x) for different values of x
 * This best fit line, will pass all the points
 * Lets apply cost function to this, here its 0 as there are no errors
 * Not lets consider theta1 as 0.5 and repeat the same procedure

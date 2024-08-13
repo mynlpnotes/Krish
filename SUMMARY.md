@@ -248,3 +248,5 @@
     * [Adv and Disadv of Perceptron](complete-ml-nlp-mlops-and-deployment/deep-learning/adv-and-disadv-of-perceptron.md)
     * [ANN Intuition and Learning](complete-ml-nlp-mlops-and-deployment/deep-learning/ann-intuition-and-learning.md)
     * [Back Propagation and Weight updation](complete-ml-nlp-mlops-and-deployment/deep-learning/back-propagation-and-weight-updation.md)
+    * [Chain rule of Derivatives](complete-ml-nlp-mlops-and-deployment/deep-learning/chain-rule-of-derivatives.md)
+    * [Vanishing Gradient Problem and Sigmoid](complete-ml-nlp-mlops-and-deployment/deep-learning/vanishing-gradient-problem-and-sigmoid.md)

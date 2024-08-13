@@ -1,6 +1,6 @@
 # Introduction
 
-AL vs ML vs DL vs DS:
+**AL vs ML vs DL vs DS:**
 
 *
 
@@ -22,10 +22,9 @@ AL vs ML vs DL vs DS:
 
 * Subset of ML
 * Make the machine learn the same way as humans
-* Mimic the human brain
+* <mark style="color:purple;background-color:purple;">Mimic the human brain</mark>
 * Used multi layer neural network
 
 **DS:**
 
 * Used in every sector of this, so its overlapped
-
