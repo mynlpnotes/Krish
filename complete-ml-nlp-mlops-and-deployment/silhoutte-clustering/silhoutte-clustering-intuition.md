@@ -5,7 +5,7 @@
 * Take the nearest cluster C2, for the same point find the average distance of the point to all the points in C2 -> b(i)
 *
 
-    <figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * &#x20;if a(i) << b(i) -> clustering is done well
 *   &#x20;if a(i) >> b(i) -> clustering is not done well
 

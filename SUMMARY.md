@@ -44,6 +44,8 @@
     * [Magic Methods](complete-ml-nlp-mlops-and-deployment/oops/magic-methods.md)
     * [Operator Overloading](complete-ml-nlp-mlops-and-deployment/oops/operator-overloading.md)
     * [Custom Exception Handling](complete-ml-nlp-mlops-and-deployment/oops/custom-exception-handling.md)
+  * [Advance Python](complete-ml-nlp-mlops-and-deployment/advance-python/README.md)
+    * [Iterators](complete-ml-nlp-mlops-and-deployment/advance-python/iterators.md)
   * [Introduction to ML](complete-ml-nlp-mlops-and-deployment/introduction-to-ml/README.md)
     * [Introduction](complete-ml-nlp-mlops-and-deployment/introduction-to-ml/introduction.md)
     * [Types of ML techniques](complete-ml-nlp-mlops-and-deployment/introduction-to-ml/types-of-ml-techniques.md)
