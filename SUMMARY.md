@@ -258,3 +258,6 @@
     * [Back Propagation and Weight updation](complete-ml-nlp-mlops-and-deployment/deep-learning/back-propagation-and-weight-updation.md)
     * [Chain rule of Derivatives](complete-ml-nlp-mlops-and-deployment/deep-learning/chain-rule-of-derivatives.md)
     * [Vanishing Gradient Problem and Sigmoid](complete-ml-nlp-mlops-and-deployment/deep-learning/vanishing-gradient-problem-and-sigmoid.md)
+    * [Sigmoid Activation](complete-ml-nlp-mlops-and-deployment/deep-learning/sigmoid-activation.md)
+    * [Tanh Activation](complete-ml-nlp-mlops-and-deployment/deep-learning/tanh-activation.md)
+    * [Relu](complete-ml-nlp-mlops-and-deployment/deep-learning/relu.md)
