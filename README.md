@@ -5,7 +5,7 @@
 * We ML and DL we learned about supervised and unsupervised learning
 *
 
-    <figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Gen AI is subset of DL
 * LLM model is subset of DL and it also has some properties merged with Gen AI
 * DL has Discriminative and generative techniques

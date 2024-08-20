@@ -261,3 +261,8 @@
     * [Sigmoid Activation](complete-ml-nlp-mlops-and-deployment/deep-learning/sigmoid-activation.md)
     * [Tanh Activation](complete-ml-nlp-mlops-and-deployment/deep-learning/tanh-activation.md)
     * [Relu](complete-ml-nlp-mlops-and-deployment/deep-learning/relu.md)
+    * [Leaky Relu and Parametric Relu](complete-ml-nlp-mlops-and-deployment/deep-learning/leaky-relu-and-parametric-relu.md)
+    * [Exponential Relu](complete-ml-nlp-mlops-and-deployment/deep-learning/exponential-relu.md)
+    * [Softmax for Multiclass Classification](complete-ml-nlp-mlops-and-deployment/deep-learning/softmax-for-multiclass-classification.md)
+    * [Which activation function to use when](complete-ml-nlp-mlops-and-deployment/deep-learning/which-activation-function-to-use-when.md)
+    * [Loss Function vs Cost Function](complete-ml-nlp-mlops-and-deployment/deep-learning/loss-function-vs-cost-function.md)

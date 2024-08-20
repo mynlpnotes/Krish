@@ -1,5 +1,6 @@
 # Relu
 
+* Rectified linear unit
 * Output will be max of 0 or Z
 * Derivative will be either 0 or 1
 * If z is -ve its derivative will be 0, if its +ve then it will be 1
@@ -7,13 +8,13 @@
 * If its 0 then it creates a dead neuron
 *
 
-    <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 *
 
-    <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 *
 
-    <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Pros:
 
