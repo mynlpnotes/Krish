@@ -5,13 +5,13 @@
 * Take the nearest cluster C2, for the same point find the average distance of the point to all the points in C2 -> b(i)
 *
 
-    <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * &#x20;if a(i) << b(i) -> clustering is done well
 *   &#x20;if a(i) >> b(i) -> clustering is not done well
 
-    <figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * &#x20;Silhoutte sciore will be between -1 and +1
 * if it near to +1 better clustering model has been created
 *
 
-    <figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>

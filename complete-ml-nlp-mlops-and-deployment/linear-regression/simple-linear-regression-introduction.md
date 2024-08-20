@@ -11,7 +11,7 @@
 * Requirement: Input weight -> Model -> Predict Height
 *
 
-    <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 * Whenever we have <mark style="color:purple;background-color:purple;">single input</mark> it is called simple linear regression
 * If we have multiple inputs, we call it as multiple linear regression
 * <mark style="color:purple;background-color:purple;">We will to create a best fit line</mark>, this line will help us to do prediction for the new weight

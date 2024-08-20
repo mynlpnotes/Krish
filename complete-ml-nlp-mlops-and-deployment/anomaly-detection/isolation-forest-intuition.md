@@ -15,11 +15,11 @@
 * If it crosses a threshold, then we consider it as a threshold
 *
 
-    <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 * &#x20;
 *
 
-    <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 * Contamination is the proportion of outliers in the dataset. Used when fitting to define the threshold on the score of the samples

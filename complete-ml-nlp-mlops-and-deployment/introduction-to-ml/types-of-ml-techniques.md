@@ -28,7 +28,7 @@
 * We don't need to predict
 * We need to <mark style="color:purple;background-color:purple;">find the similar group or clusters</mark>
 
-<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 *
 * K Means

@@ -2,7 +2,7 @@
 
 *   To optimize the changes of Θ1 values
 
-    <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * &#x20;We need to repeat the steps till convergence
 * Suppose we start with point at the left and we have to reach global minima
 * Whenever we say we derivative, it means we will be calculating the slope
@@ -19,12 +19,12 @@
 * It controls the convergence
 *
 
-    <figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Here we have said Θ0 = 0 and Θ1 is changeable
 * If both would have been non zero then it would have been as in figure right
 *
 
-    <figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * := means continuous iterative process
 * We will be calculating derivate wrt to Θ0 and then wrt Θ1 as well&#x20;
 *
