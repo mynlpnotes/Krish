@@ -273,3 +273,4 @@
     * [SGD](complete-ml-nlp-mlops-and-deployment/deep-learning/sgd.md)
     * [Mini Batch with SGD](complete-ml-nlp-mlops-and-deployment/deep-learning/mini-batch-with-sgd.md)
     * [SGD with momentum](complete-ml-nlp-mlops-and-deployment/deep-learning/sgd-with-momentum.md)
+    * [Adagrad](complete-ml-nlp-mlops-and-deployment/deep-learning/adagrad.md)
