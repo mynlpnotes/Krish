@@ -38,3 +38,8 @@
 3. **Reinforcement:**
 
 * Application will learn by itself by getting rewards
+
+4. **Semi Supervised:**
+
+* Combination of supervised + unsupervised
+* Regression + Classification + Clustering

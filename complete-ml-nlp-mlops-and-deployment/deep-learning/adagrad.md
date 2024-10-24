@@ -13,7 +13,7 @@
 * So as we go through each and every hidden layer w.r.t back propagation, the alpha will increase
 *   That is how the new dynamic learning rate will decrease
 
-    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 **Disadvantage:**
 

@@ -6,7 +6,7 @@
 * If we plot this loss vs weights then it will have only 1 global minima
 *   This curve is known as gradient descent
 
-    <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Advantage:
 
@@ -25,14 +25,14 @@ Disadvantage:
 * if dataset has outlier then we use should use MAE
 *   We use sub gradient here to calculate slope
 
-    <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. **Huber Loss:**
 
 * Combination of MSE and MAE
 *   If error below hyper-parameter then use MSE else MAE
 
-    <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 4. **RMSE:**
 

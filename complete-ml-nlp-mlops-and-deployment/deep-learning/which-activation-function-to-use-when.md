@@ -4,4 +4,4 @@
 * We use relu and its variants in hidden layer
 *   In output we use sigmoid OR softmax
 
-    <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>

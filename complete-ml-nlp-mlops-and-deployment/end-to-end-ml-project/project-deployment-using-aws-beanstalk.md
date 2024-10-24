@@ -2,7 +2,7 @@
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Elastic beanstalk is like an instance of linux machine
 * For code to reflecrt from git to elastic beanstalk, we will be using code pipeline
 * This pipeline is CD pipeline
@@ -31,6 +31,6 @@ option_settings:
 * Deploy Provider -> Elastic Beanstalk -> Select Application name
 *
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * In the application, we can see the URL application
 * If we make any changes in code, then we will have to run Release change
