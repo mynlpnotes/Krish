@@ -274,3 +274,6 @@
     * [Mini Batch with SGD](complete-ml-nlp-mlops-and-deployment/deep-learning/mini-batch-with-sgd.md)
     * [SGD with momentum](complete-ml-nlp-mlops-and-deployment/deep-learning/sgd-with-momentum.md)
     * [Adagrad](complete-ml-nlp-mlops-and-deployment/deep-learning/adagrad.md)
+    * [Adadelta and RMS Prop](complete-ml-nlp-mlops-and-deployment/deep-learning/adadelta-and-rms-prop.md)
+    * [Adam](complete-ml-nlp-mlops-and-deployment/deep-learning/adam.md)
+* [Page](page.md)
