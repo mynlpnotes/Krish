@@ -8,7 +8,7 @@
 
 **AI:**
 
-* To create application its own task without any human intervention
+* <mark style="color:purple;background-color:purple;">**To create application that performs its own task without any human intervention**</mark>
 * Example:&#x20;
 * Netflix  recommendation - Recommends movies based on which we watched in the past
 * Self driving car
@@ -21,10 +21,10 @@
 **DL:**
 
 * Subset of ML
-* Make the machine learn the same way as humans
-* <mark style="color:purple;background-color:purple;">Mimic the human brain</mark>
+* <mark style="color:purple;background-color:purple;">**Make the machine learn the same way as humans**</mark>
+* **Mimic the human brain**
 * Used multi layer neural network
 
 **DS:**
 
-* Used in every sector of this, so its overlapped
+* <mark style="color:purple;background-color:purple;">**Used in every sector of this, so its overlapped**</mark>

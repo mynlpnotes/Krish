@@ -2,7 +2,7 @@
 
 * The equation of line is y = mx + c
 * m = slope
-* <mark style="color:purple;background-color:purple;">slope means that for every unit movement in the x axis what will be change in y axis</mark>
+* <mark style="color:purple;background-color:purple;">**slope means that for every unit movement in the x axis what will be change in y axis**</mark>
 * c is intercept
 * if x = 0 then where does the straight line meet y, that value will be our c
 *
@@ -12,7 +12,7 @@
 *
 
     <figure><img src="../../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt="" width="188"><figcaption></figcaption></figure>
-* If we have 3 dimension, then we don't draw a straight line, we will be drawing a 3d plane
+* <mark style="color:purple;background-color:purple;">**If we have 3 dimension, then we don't draw a straight line, we will be drawing a 3d plane**</mark>
 *
 
     <figure><img src="../../.gitbook/assets/image (13) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

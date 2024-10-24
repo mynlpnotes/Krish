@@ -1,6 +1,6 @@
 # AI
 
-* Using different technology or stacks to build a system that can perform some task with human intelligence
+* <mark style="color:purple;background-color:purple;">**Using different technology or stacks to build a system that can perform some task with human intelligence**</mark>
 * DS + Big Data + Analytics + Cloud + Hardware + UI/UX&#x20;
 
 **Examples:**

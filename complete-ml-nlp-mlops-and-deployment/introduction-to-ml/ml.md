@@ -1,6 +1,6 @@
 # ML
 
-* Find pattern in data
+* <mark style="color:purple;background-color:purple;">**Find pattern in data**</mark>
 * First we see the data and then decide which algorithm to be used
 *
 
