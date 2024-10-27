@@ -2,7 +2,7 @@
 
 *   To optimize the changes of Θ1 values
 
-    <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * &#x20;We need to repeat the steps till convergence
 * Suppose we start with point at the left and we have to reach global minima
 * Whenever we say we derivative, it means we will be calculating the slope
