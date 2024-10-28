@@ -9,7 +9,7 @@
 * Everything had to be done manually and might miss something
 *
 
-    <figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Containers:**
 
@@ -19,7 +19,7 @@
 * We can move the container from Dev -> QA -> Prod
 *
 
-    <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 
 What is Docker?
 

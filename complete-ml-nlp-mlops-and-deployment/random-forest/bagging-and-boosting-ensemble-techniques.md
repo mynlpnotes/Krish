@@ -19,7 +19,7 @@
 * All base learners are getting trained parallely
 *
 
-    <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -36,5 +36,25 @@
 * Here also we can do majority voting OR average for regression
 *
 
-    <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
+
+
+**Bagging: (Bootstrap aggregation)**
+
+* Data with 2 class
+* Different subset sample are taken
+* Sampling of dataset with replacement
+* Average of output of algo is taken
+* Advantages:
+
+1. Can be used for regression as well as classification , depending on the base algorithm
+
+&#x20;
+
+**Pasting:**
+
+* Without replacement
+* **Advantages:**
+
+1. Can be used for regression as well as classification , depending on the base algorithm

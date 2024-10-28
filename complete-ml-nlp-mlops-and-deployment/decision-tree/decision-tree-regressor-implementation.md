@@ -1,6 +1,11 @@
 # Decision Tree Regressor Implementation
 
 * We have use negative mean squared error for scoring
+* criterion{“squared\_error”, “friedman\_mse”, “absolute\_error”, “poisson”}, default=”squared\_error”
+* max\_depthint, default=None
+* min\_samples\_splitint or float, default=2
+* min\_samples\_leafint or float, default=1
+* max\_featuresint, float or {“auto”, “sqrt”, “log2”}, default=None
 
 ```python
 # from sklean load diabetes dataset

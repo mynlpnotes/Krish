@@ -1,5 +1,12 @@
 # Decision Tree Classifier Implementation
 
+* criterion{“gini”, “entropy”, “log\_loss”}, default=”gini”
+* max\_depthint, default=None
+* min\_samples\_splitint or float, default=2
+* min\_samples\_leafint or float, default=1
+* max\_featuresint, float or {“auto”, “sqrt”, “log2”}, default=None
+* max\_leaf\_nodesint, default=None
+
 ```python
 # Load iris data from sklearn dataset
 X=pd.DataFrame(iris['data'],columns=['sepal length in cm','sepal width',
