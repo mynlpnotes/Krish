@@ -31,6 +31,6 @@ option_settings:
 * Deploy Provider -> Elastic Beanstalk -> Select Application name
 *
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * In the application, we can see the URL application
 * If we make any changes in code, then we will have to run Release change

@@ -1,6 +1,9 @@
 # Random Forest Classification and Regression
 
-* &#x20;Lets say the size of dataset is d and we have m features
+* Combine decision from multiple DT
+* Will be able to control variance without increasing the bias
+* Cannot know how each decision tree is created&#x20;
+* Lets say the size of dataset is d and we have m features
 * All the base models will be decision trees
 * **Row sampling with replacement** + Feature sampling will be done for passing data to each of the models
 * For new test data, all the DT will give their outputs
