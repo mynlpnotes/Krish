@@ -15,6 +15,6 @@ lm.summary()
 * Since P is 0 then it means it’s a significant level
 * Since P is 0.86 , so 100 – 86 = 14
 * Then it means significance level for newspaper is very low
-* It means out of 100 experiments, in 14 its contributing and in 86 its not contributing
-* If significance level is less than 0.05 then we consider that feature
+* <mark style="color:purple;background-color:purple;">**It means out of 100 experiments, in 14 its contributing and in 86 its not contributing**</mark>
+* <mark style="color:purple;background-color:purple;">**If significance level is less than 0.05 then we consider that feature**</mark>
 * Std error means the standard deviation

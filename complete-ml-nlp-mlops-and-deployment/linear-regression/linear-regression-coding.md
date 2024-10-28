@@ -26,22 +26,22 @@ pf.to_file('test.html') # to save the report
 from sklearn.linear_model import LinearRegression
 linear = LinearRegression()
 
-linear.fit(x,y) 🡪 Need to pass 2d array
+linear.fit(x,y) # Need to pass 2d array
 linear.intercept_
 linear.coef_
 
-file = 'linear_reg.sav' 🡪 sav is byte code format
+file = 'linear_reg.sav' # sav is byte code format
 pickle.dump(linear,open(file,'wb'))
 saved_model = pickle.load(open(file,'rb'))
 
 #Pickle is a serializable file format
-Linear.score(x,y) #🡪 To get accuracy – R2
+linear.score(x,y) #🡪 To get accuracy – R2
 ```
 
 * Bias means error and variance means dispersion
-* By default linear regression is high bias low variance model
+* <mark style="color:purple;background-color:purple;">**By default linear regression is high bias low variance model**</mark>
 *
 
     <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
-* The difference between line and actual points will always be there, so there will be high bias
-* Even if we add more data the line wont change much, that means the variance of the line will be very less and that’s why its called as a low variance model
+* <mark style="color:purple;background-color:purple;">**The difference between line and actual points will always be there, so there will be high bias**</mark>
+* <mark style="color:purple;background-color:purple;">**Even if we add more data the line wont change much, that means the variance of the line will be very less and that’s why its called as a low variance model**</mark>

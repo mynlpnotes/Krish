@@ -70,6 +70,7 @@
     * [How Accurate the model is](complete-ml-nlp-mlops-and-deployment/linear-regression/how-accurate-the-model-is.md)
     * [Linear Regression - Coding](complete-ml-nlp-mlops-and-deployment/linear-regression/linear-regression-coding.md)
     * [Feature Selection](complete-ml-nlp-mlops-and-deployment/linear-regression/feature-selection.md)
+    * [OLS Concept](complete-ml-nlp-mlops-and-deployment/linear-regression/ols-concept.md)
     * [Statistical approach for feature selection](complete-ml-nlp-mlops-and-deployment/linear-regression/statistical-approach-for-feature-selection.md)
     * [Multicollinearity](complete-ml-nlp-mlops-and-deployment/linear-regression/multicollinearity.md)
     * [Simple Linear Regression Introduction](complete-ml-nlp-mlops-and-deployment/linear-regression/simple-linear-regression-introduction.md)
