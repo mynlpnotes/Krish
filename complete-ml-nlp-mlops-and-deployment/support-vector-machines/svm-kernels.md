@@ -1,5 +1,6 @@
 # SVM Kernels
 
+* Linear, poly, rbf, sigmoid, precomputed
 * Here for classification, we have to fit the best fit line along with marginal plane, this is known as linear SVC
 * But of we have data points which are not linearly separable and if we use linear SVC then accuracy will be low
 * To solve such scenarios, we use SVM kernels

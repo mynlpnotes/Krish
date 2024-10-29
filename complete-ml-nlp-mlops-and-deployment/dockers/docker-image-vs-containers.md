@@ -8,7 +8,7 @@
 * If we take this entire layer of images then this is called docker image
 *   Once we have this docker image and run it, internally it will create a container which will have environment, considering all the dependencies it will try to run the application
 
-    <figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 *
 
-    <figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (17) (1) (1).png" alt=""><figcaption></figcaption></figure>

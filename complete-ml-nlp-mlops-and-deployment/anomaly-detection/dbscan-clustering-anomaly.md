@@ -8,4 +8,4 @@
     dbcan.labels_  # If -1 then it means that it is an outlier
     ```
 
-    <figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>

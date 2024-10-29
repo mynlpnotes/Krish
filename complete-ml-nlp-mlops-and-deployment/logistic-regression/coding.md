@@ -11,7 +11,7 @@
 * sns.boxplot(data = df , ax = ax)
 *
 
-    <figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 * q = df\['Pregnancies'].quantile(.98)
 * df\_new = df\[df\['Pregnancies'] < q]
 * Keep 1 or 2 percent only otherwise will lose lot of data
@@ -21,12 +21,12 @@
 * We can also remove outliers using
 *
 
-    <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 * We can also use log transformation
 * Since the columns are in very different ranges, we will standardize this
 *
 
-    <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 * After standardize, we will again boxplot and then check that all are on the same scale
 * If even after removing outliers, there are still outliers then need to keep them
 
