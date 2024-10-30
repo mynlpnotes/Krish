@@ -82,6 +82,7 @@
     * [Cost Function - MSE, MAE, RMSE](complete-ml-nlp-mlops-and-deployment/linear-regression/cost-function-mse-mae-rmse.md)
     * [Adj R2 Coding](complete-ml-nlp-mlops-and-deployment/linear-regression/adj-r2-coding.md)
     * [Overfitting and Underfitting](complete-ml-nlp-mlops-and-deployment/linear-regression/overfitting-and-underfitting.md)
+    * [Bias vs Variance Trade Off](complete-ml-nlp-mlops-and-deployment/linear-regression/bias-vs-variance-trade-off.md)
     * [Linear Regression with OLS](complete-ml-nlp-mlops-and-deployment/linear-regression/linear-regression-with-ols.md)
     * [Practical - Simple Linear Regression](complete-ml-nlp-mlops-and-deployment/linear-regression/practical-simple-linear-regression.md)
     * [Practical - Multiple Linear Regression](complete-ml-nlp-mlops-and-deployment/linear-regression/practical-multiple-linear-regression.md)

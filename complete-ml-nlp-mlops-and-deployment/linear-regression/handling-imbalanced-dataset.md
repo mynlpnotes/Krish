@@ -7,8 +7,8 @@
 * This is imbalanced dataset
 * Model which we are training will get biased to max class
 
-1. Upsampling: Increase the minority class datapoint
-2. Downsampling: Reduce the majority class datapoints, bad as we losing data
+1. <mark style="color:purple;background-color:purple;">**Upsampling: Increase the minority class datapoint**</mark>
+2. <mark style="color:purple;background-color:purple;">**Downsampling: Reduce the majority class datapoints, bad as we losing data**</mark>
 
 ```python
 ## upsampling

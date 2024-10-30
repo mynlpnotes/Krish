@@ -1,6 +1,6 @@
 # Cost Function - MSE, MAE, RMSE
 
-Metrics for error w.r.t each and every point
+<mark style="color:purple;background-color:purple;">**Metrics for error w.r.t each and every point**</mark>
 
 *
 
@@ -36,11 +36,11 @@ Metrics for error w.r.t each and every point
 * And at 0 it wont be differentiable
 * So we create sub gradients, we will be taking a part of plot and get gradient
 
-| Advantage                                                  | Disadvantage                                                                                        |
-| ---------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| Robust to outliers - Since we are not penalizing the error | Convergence takes more time. Optimization is a complex task - As subgradients have to be calculated |
-| It will be in same unit                                    |                                                                                                     |
-|                                                            |                                                                                                     |
+| Advantage                                                                                                                 | Disadvantage                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| <mark style="color:purple;background-color:purple;">**Robust to outliers**</mark> - Since we are not penalizing the error | Convergence takes more time. Optimization is a complex task - As subgradients have to be calculated |
+| It will be in same unit                                                                                                   |                                                                                                     |
+|                                                                                                                           |                                                                                                     |
 
 
 
@@ -48,11 +48,11 @@ Metrics for error w.r.t each and every point
 
 * &#x20;Square root of MSE
 
-| Advantage           | Disadvntage            |
-| ------------------- | ---------------------- |
-| Same unit as output | Not robust to outliers |
-| Differentiable      |                        |
-|                     |                        |
+| Advantage           | Disadvntage                                                                           |
+| ------------------- | ------------------------------------------------------------------------------------- |
+| Same unit as output | <mark style="color:purple;background-color:purple;">**Not robust to outliers**</mark> |
+| Differentiable      |                                                                                       |
+|                     |                                                                                       |
 
 
 

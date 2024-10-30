@@ -11,5 +11,5 @@
 *
 
     <figure><img src="../../.gitbook/assets/image (31) (1) (1).png" alt=""><figcaption></figcaption></figure>
-* As we increase the degree the line will be able to fit properly
-* If we use very high degree then it will start overfitting
+* <mark style="color:purple;background-color:purple;">**As we increase the degree the line will be able to fit properly**</mark>
+* <mark style="color:purple;background-color:purple;">**If we use very high degree then it will start overfitting**</mark>
