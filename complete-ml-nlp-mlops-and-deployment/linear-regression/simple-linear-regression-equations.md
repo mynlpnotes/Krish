@@ -8,4 +8,4 @@
 * Slope basically tells us for every unit change in x axis what is the movement in y axis
 * For every new data point, we project x on the straight line and check the corresponding y axis
 * y^ is also used as notation for predicted point
-* Error is basicall difference between actual and predicted
+* <mark style="color:purple;background-color:purple;">**Error is basically difference between actual and predicted**</mark>

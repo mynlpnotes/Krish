@@ -1,4 +1,4 @@
-# MSE, MAE, RMSE
+# Cost Function - MSE, MAE, RMSE
 
 Metrics for error w.r.t each and every point
 
@@ -11,18 +11,18 @@ Metrics for error w.r.t each and every point
 *
 
     <figure><img src="../../.gitbook/assets/image (19) (1) (1) (1) (1) (1).png" alt="" width="368"><figcaption></figcaption></figure>
-* Its a quadratic equation
+* <mark style="color:purple;background-color:purple;">**Its a quadratic equation**</mark>
 *
 
     <figure><img src="../../.gitbook/assets/image (18) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 * If we see the image of graph of a quadratic equation, then it will help us to reach minima
 
-| Advantage                                                                            | Disadvantage                                                                                                  |
-| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- |
-| It is differentiable at all points                                                   | Not robust to outliers - If we add an outlier, then the best fit line will shift more towards the outlier     |
-| It has only local and one global minima                                              | y will be in some unit, so when we calculate MSE, then we are changing the units as we are squaring the error |
-| <mark style="color:purple;background-color:purple;">**Its a convex function**</mark> |                                                                                                               |
-| Converges faster                                                                     |                                                                                                               |
+| Advantage                                                                                              | Disadvantage                                                                                                                                                             |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| It is differentiable at all points                                                                     | <mark style="color:purple;background-color:purple;">**Not robust to outliers**</mark> - If we add an outlier, then the best fit line will shift more towards the outlier |
+| <mark style="color:purple;background-color:purple;">**It has only local and one global minima**</mark> | y will be in some unit, so when we calculate MSE, then we are changing the units as we are squaring the error                                                            |
+| <mark style="color:purple;background-color:purple;">**Its a convex function**</mark>                   |                                                                                                                                                                          |
+| Converges faster                                                                                       |                                                                                                                                                                          |
 
 
 

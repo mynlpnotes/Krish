@@ -3,19 +3,19 @@
 *   To optimize the changes of Θ1 values
 
     <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-* &#x20;We need to repeat the steps till convergence
+* We need to repeat the steps till convergence
 * Suppose we start with point at the left and we have to reach global minima
-* Whenever we say we derivative, it means we will be calculating the slope
+* <mark style="color:purple;background-color:purple;">**Whenever we say we derivative, it means we will be calculating the slope**</mark>
 * For calculating the derivative, we need to draw a tangent line
 * We need to find whether its a +ve slope or -ve slope
-* If the right side of the line is facing downwards, we says its a -ve slope
-* if we get a -ve slope -> this means we need to add some positive value of Θ
+* <mark style="color:purple;background-color:purple;">**If the right side of the line is facing downwards, we says its a -ve slope**</mark>
+* <mark style="color:purple;background-color:purple;">**if we get a -ve slope -> this means we need to add some positive value of Θ**</mark>
 * Then again we will repeat the step
 * If we had started at the right, then we would have got +ve slope
 * In this case we need to decrease the value of Θ
-* The alpha used here is learning rate
-* If this is a small value then it might take long time to converge
-* If this is a big value, then it might keep jumping and not converge
+* <mark style="color:purple;background-color:purple;">**The alpha used here is learning rate**</mark>
+* <mark style="color:purple;background-color:purple;">**If this is a small value then it might take long time to converge**</mark>
+* <mark style="color:purple;background-color:purple;">**If this is a big value, then it might keep jumping and not converge**</mark>
 * It controls the convergence
 *
 
@@ -25,7 +25,7 @@
 *
 
     <figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-* := means continuous iterative process
+* := means <mark style="color:purple;background-color:purple;">**continuous iterative process**</mark>
 * We will be calculating derivate wrt to Θ0 and then wrt Θ1 as well&#x20;
 *
 

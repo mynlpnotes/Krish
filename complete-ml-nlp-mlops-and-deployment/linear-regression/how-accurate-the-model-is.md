@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # How Accurate the model is
 
 * <mark style="color:purple;background-color:purple;">**R2 = ( 1 – RSS/TSS)**</mark>

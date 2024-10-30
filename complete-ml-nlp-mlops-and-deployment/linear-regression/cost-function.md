@@ -1,10 +1,10 @@
 # Cost Function
 
-*
+*   <mark style="color:purple;background-color:purple;">**Global minima is where we have the least error**</mark>
 
     <figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * We are squaring it as we are using Mean squared error
-* Our final aim is to minimize the cost function
+* <mark style="color:purple;background-color:purple;">**Our final aim is to minimize the cost function**</mark>
 * We will be changing the values of Θ0 and Θ1 to minimize the cost function
 *
 
@@ -21,5 +21,3 @@
 * In this case cost function will be 0.58
 * For theta1 as 0, it will be 2.3
 * We will also plot Θ1 and J(Θ1)
-* Global minima is where we have the least error
-*
