@@ -1,10 +1,10 @@
 # Types of Cross Validation
 
 * Training is used to train the model and for hyper parameter tuning
-* Training data is split into Train and Validation
-* Using this validation data we hyper tune the model
-* Test data is used to check the performance of the model
-* To split into train and validation we use cross validation
+* <mark style="color:purple;background-color:purple;">**Training data is split into Train and Validation**</mark>
+* <mark style="color:purple;background-color:purple;">**Using this validation data we hyper tune the model**</mark>
+* <mark style="color:purple;background-color:purple;">**Test data is used to check the performance of the model**</mark>
+* <mark style="color:purple;background-color:purple;">**To split into train and validation we use cross validation**</mark>
 * If we change random\_state we will be getting different train and validation
 * For each split we might get different accuracy
 *
@@ -15,9 +15,9 @@
 
 1. **Leave one out cross validation:**
 
-* For 1st experiment we will putting 1st record in validation data, it will be trained on remaining data and validated on 1st record
-* For 2nd experiment we will be putting 2nd record in validation and so on
-* Since we taking only 1 record we will have to lot of iterations
+* <mark style="color:purple;background-color:purple;">**For 1st experiment we will putting 1st record in validation data, it will be trained on remaining data and validated on 1st record**</mark>
+* <mark style="color:purple;background-color:purple;">**For 2nd experiment we will be putting 2nd record in validation and so on**</mark>
+* <mark style="color:purple;background-color:purple;">**Since we taking only 1 record we will have to lot of iterations**</mark>
 * As the data size increases, complexity of training the model also increases
 * Leads to overfitting -- w.r.t to our training data our accuracy is high, since validation is very small then the accuracy will keep on increasing
 * Not used

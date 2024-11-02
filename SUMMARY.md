@@ -99,6 +99,7 @@
     * [ElasticNet](complete-ml-nlp-mlops-and-deployment/ridge-lasso-and-elasticnet-algorithm/elasticnet.md)
     * [Lasso Coding](complete-ml-nlp-mlops-and-deployment/ridge-lasso-and-elasticnet-algorithm/lasso-coding.md)
     * [Standardize](complete-ml-nlp-mlops-and-deployment/ridge-lasso-and-elasticnet-algorithm/standardize.md)
+    * [Types of Standardization](complete-ml-nlp-mlops-and-deployment/ridge-lasso-and-elasticnet-algorithm/types-of-standardization.md)
     * [Types of Cross Validation](complete-ml-nlp-mlops-and-deployment/ridge-lasso-and-elasticnet-algorithm/types-of-cross-validation.md)
     * [Cleaning the Dataset](complete-ml-nlp-mlops-and-deployment/ridge-lasso-and-elasticnet-algorithm/cleaning-the-dataset.md)
     * [EDA and Feature Engineering](complete-ml-nlp-mlops-and-deployment/ridge-lasso-and-elasticnet-algorithm/eda-and-feature-engineering.md)
