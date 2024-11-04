@@ -4,7 +4,7 @@
 * What threshold should we select?
 *
 
-    <figure><img src="../../.gitbook/assets/image (14) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (14) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * 0.5 is not the ideal threshold
 * 2 different confusion matrix, one for 0.5 threshold and another for 0.7
 * Accuracy for 0.5 is 83% and for 0.7 its giving 66%
@@ -18,7 +18,7 @@
 * For medicine trial. We will select threshold as 0.7 or 0.6
 *
 
-    <figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (15) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Checking the model with different values of threshold for values of FPR and TPR
 * For government scheme we will be looking for high TPR and FPR will be less, so threshold can be 0.5
 * If it’s a court case, then threshold should be 0.9
@@ -27,5 +27,5 @@
 * ROC can be used to select the threshold
 *
 
-    <figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (16) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * For every threshold,m1 is giving better TPR and low FPR than m2, so m1 is better

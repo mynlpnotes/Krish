@@ -4,17 +4,17 @@
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (17) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (17) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **MSE:**
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (19) (1) (1) (1) (1) (1).png" alt="" width="368"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (19) (1) (1) (1) (1) (1) (1).png" alt="" width="368"><figcaption></figcaption></figure>
 * <mark style="color:purple;background-color:purple;">**Its a quadratic equation**</mark>
 *
 
-    <figure><img src="../../.gitbook/assets/image (18) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (18) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 * If we see the image of graph of a quadratic equation, then it will help us to reach minima
 
 | Advantage                                                                                              | Disadvantage                                                                                                                                                             |

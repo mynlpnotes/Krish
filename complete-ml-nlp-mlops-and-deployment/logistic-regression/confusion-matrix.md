@@ -2,7 +2,7 @@
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 *   \-          Accuracy is not the only way, but it wont work for class imbalanced data
 
     \-          Recall – How sensitive the model in giving positive result

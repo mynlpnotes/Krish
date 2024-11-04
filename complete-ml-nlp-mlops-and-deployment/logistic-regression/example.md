@@ -2,7 +2,7 @@
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Lets consider m = 5 and c = 2, then P(x = 2) = 0.99, cost = 0.01
 * If m = 21, c = -5, then P(x = 2) = lets suppose it is 1, cost = 0
 * If m = 0.3, c = 0.1 , then P(x = 2) = 0.67, cost = 0.33 🡪 in this case, value of m and c needs to be changed a lot
@@ -10,7 +10,7 @@
 * Taking derivate of cost function for finding delta
 *
 
-    <figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * If m = 0.3, c = 0.1, x = 6.5, then P(x) = 0.88, calculate logit = 0.86
 * If m = 21, c = -5, x = 6.5, then P(x) = 1
 * So if use either of this 2 lines, we will be getting same results

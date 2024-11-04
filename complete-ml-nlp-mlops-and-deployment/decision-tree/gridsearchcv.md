@@ -13,7 +13,7 @@
 * grid\_ccp.best\_params\_
 *
 
-    <figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption></figcaption></figure>
 *   Same can be done using RandomSearchCV
 
     \

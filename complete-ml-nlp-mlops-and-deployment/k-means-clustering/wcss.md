@@ -8,7 +8,7 @@
 * If k = 2
 *
 
-    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 * If k = 1, then WCSS will be maximum
 * If k = n then WCSS will be 0
 * As k increases inertia decreases
