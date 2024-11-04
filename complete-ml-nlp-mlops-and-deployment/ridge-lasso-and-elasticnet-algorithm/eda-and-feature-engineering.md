@@ -21,7 +21,6 @@ df_copy.hist(bins=50,figsize=(20,15))
 plt.show()
 
 # Draw pie chart of classes to see its distribution
-
 # Check the correlation
 df_copy.corr()
 # We can also use heatmap so as to visualize, we can use seaborn for this

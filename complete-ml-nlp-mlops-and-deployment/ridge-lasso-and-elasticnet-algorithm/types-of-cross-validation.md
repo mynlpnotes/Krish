@@ -20,22 +20,22 @@
 * <mark style="color:purple;background-color:purple;">**Since we taking only 1 record we will have to lot of iterations**</mark>
 * As the data size increases, complexity of training the model also increases
 * Leads to overfitting -- w.r.t to our training data our accuracy is high, since validation is very small then the accuracy will keep on increasing
-* Not used
+* <mark style="color:purple;background-color:purple;">**Not used**</mark>
 *
 
     <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. **Leave P out CV:**
 
-* Instead of 1 record, we can set P = 10, 20 and so on
+* <mark style="color:purple;background-color:purple;">**Instead of 1 record, we can set P = 10, 20 and so on**</mark>
 
 3. **K - fold CV:**
 
-* &#x20;We decide value of K
+* We decide value of K
 * Validation size = No. of records / K
 * In the 1st experiment, 1st set of records will be validation and remaining will be train
 * For 2nd experiment we will be taking 2nd set of records and so on
-* We will taking average of the accuracy of all the folds
+* <mark style="color:purple;background-color:purple;">**We will taking average of the accuracy of all the folds**</mark>
 * We also note the minimum and maximum accuracy as well
 *
 
@@ -43,8 +43,8 @@
 
 4. **Stratified K fold CV:**
 
-* The problem with K fold is that if we are having a classification problem, then there is high possibility then in validation we might be getting records of the same class
-* The no. of possible outputs will be evenly distributed in each fold
+* <mark style="color:purple;background-color:purple;">**The problem with K fold is that if we are having a classification problem, then there is high possibility then in validation we might be getting records of the same class**</mark>
+* <mark style="color:purple;background-color:purple;">**The no. of possible outputs will be evenly distributed in each fold**</mark>
 *
 
     <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
@@ -52,11 +52,11 @@
 4. **Time series CV:**
 
 * Product sentiment analysis
-* Suppose initially reviews are bad, but then later it improves
+* <mark style="color:purple;background-color:purple;">**Suppose initially reviews are bad, but then later it improves**</mark>
 * Cross validation will happen based on days
 * Day 1 Day 2 ..... Day N
 * We divide our dataset based on days
-* We put the 1st number of records in train in sequence and remaining we put in validation
+* <mark style="color:purple;background-color:purple;">**We put the 1st number of records in train in sequence and remaining we put in validation**</mark>
 * It is used mainly in time series application
 *
 
