@@ -1,26 +1,26 @@
 # Introduction
 
 * &#x20;If we are looking for real number or absolute value then in that case regression is good
-* Logistic regression is used for classification
+* Logistic regression is used for <mark style="color:purple;background-color:purple;">**classification**</mark>
 * Other algorithms like DT, RF etc can also be used for classification
-* We are drawing a line but not to make a prediction of value, but for separation of class
+* <mark style="color:purple;background-color:purple;">**We draw a line for separation of classes**</mark>
 *
 
     <figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Probability of finding whether the give data point will be on which side of the line 🡪 this is what the algorithm will learn
 * There can be multiple lines, but we need to the best fitted line
 * Here also to draw the line we need m and c
-* Can be used for multi class as well
+* Can be used for multi class as well binary class
 * Addition of probability of all the classes will be 1
-* Function for finding probability will be sigmoid
+* <mark style="color:purple;background-color:purple;">**Function for finding probability will be sigmoid**</mark>
 *
 
     <figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
-* Output will always be between 0 and 1
+* <mark style="color:purple;background-color:purple;">**Output will always be between 0 and 1**</mark>
 * Equation, y = m1x1 + m2x2 +c
 * If we are able to find the value of m1, m2, then we can get the value of y, but here value of y will be real number, but we need probability
 * P(class)  = 1 / (1 + e –(m1x1 + m2x2 + c))
-* We can set a threshold, if probability is less than 0.5 then its class 1 if greater then its class 2
+* <mark style="color:purple;background-color:purple;">**We can set a threshold, if probability is less than 0.5 then its class 1 if greater then its class 2**</mark>
 * After normalizing and probability of class 1 and 2
 *
 

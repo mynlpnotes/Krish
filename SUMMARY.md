@@ -116,6 +116,7 @@
     * [Deployment in AWS](complete-ml-nlp-mlops-and-deployment/step-by-step-project-implementation/deployment-in-aws.md)
   * [Logistic Regression](complete-ml-nlp-mlops-and-deployment/logistic-regression/README.md)
     * [Introduction](complete-ml-nlp-mlops-and-deployment/logistic-regression/introduction.md)
+    * [Logit](complete-ml-nlp-mlops-and-deployment/logistic-regression/logit.md)
     * [Cost Function](complete-ml-nlp-mlops-and-deployment/logistic-regression/cost-function.md)
     * [Example](complete-ml-nlp-mlops-and-deployment/logistic-regression/example.md)
     * [Multi Variate](complete-ml-nlp-mlops-and-deployment/logistic-regression/multi-variate.md)
