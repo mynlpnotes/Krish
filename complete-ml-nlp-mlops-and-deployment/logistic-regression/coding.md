@@ -1,12 +1,12 @@
 # Coding
 
 * Do pandas profiling
-* Interactions – As we are not working on linear data so we don’t need to worry about scatter plot
-* df\['BMI'] = df\['BMI'].replace(0 , df\['BMI'].mean()) 🡪 Replace 0 with mean
-* if data is skewed its better to replace with mean rather than median or mode
+* <mark style="color:purple;background-color:purple;">**Interactions – As we are not working on linear data so we don’t need to wor**</mark>**ry about scatter plot**
+* <mark style="color:purple;background-color:purple;">**df\['BMI'] = df\['BMI'].replace(0 , df\['BMI'].mean()) 🡪 Replace 0 with mean**</mark>
+* <mark style="color:purple;background-color:purple;">**if data is skewed its better to replace with mean rather than median or mode**</mark>
 * After replacing with 0, its histogram in pandas profiling it was almost normally distributed
 * Skewness can be coz of outliers
-* Plot boxplot to see the outliers
+* <mark style="color:purple;background-color:purple;">**Plot boxplot to see the outliers**</mark>
 * fig ,ax  = plt.subplots(figsize = (20,20))
 * sns.boxplot(data = df , ax = ax)
 *
@@ -18,7 +18,7 @@
 * Do this for all the columns having outliers
 * If we delete one columns, others can be affected as well , as the entire record is deleted
 * After doing this we can again check histogram in pandas profiling if skewness has reduced
-* We can also remove outliers using
+* <mark style="color:purple;background-color:purple;">**We can also remove outliers using**</mark>
 *
 
     <figure><img src="../../.gitbook/assets/image (18) (1) (1).png" alt=""><figcaption></figcaption></figure>
@@ -27,12 +27,12 @@
 *
 
     <figure><img src="../../.gitbook/assets/image (19) (1) (1).png" alt=""><figcaption></figcaption></figure>
-* After standardize, we will again boxplot and then check that all are on the same scale
+* <mark style="color:purple;background-color:purple;">**After standardize, we will again boxplot and then check that all are on the same scale**</mark>
 * If even after removing outliers, there are still outliers then need to keep them
 
 **Check multicollinearity:**
 
-* Check VIF, if its above 10 for X
+* <mark style="color:purple;background-color:purple;">**Check VIF, if its above 10 for X**</mark>
 * Train test split the data
 * logr\_liblinear = LogisticRegression(verbose=1,solver='liblinear') 🡪
 * verbose to display information
@@ -42,7 +42,7 @@
 * default solver is lbfgs
 * elastic solver is supported by saga solver only
 * google 🡪 logistic regression sklearn 🡪 to see the entire documentation
-* Solver – algorithm to use for optimization
+* <mark style="color:purple;background-color:purple;">**Solver – algorithm to use for optimization**</mark>
 *
 
     <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>

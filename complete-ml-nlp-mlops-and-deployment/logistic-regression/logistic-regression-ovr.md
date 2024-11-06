@@ -4,10 +4,11 @@
 *
 
     <figure><img src="../../.gitbook/assets/image (12) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-* &#x20;We create multiple models, each model will do binary classification
+* <mark style="color:purple;background-color:purple;">**We create multiple models, each model will do binary classification**</mark>
 * One hot encoding will be done on output variable
 * In M1, output variable will be O1, for M2 it will be O2 and so on
-* For new data, output of all the models will be taken,&#x20;
+* For new data, output of all the models will be taken
+* The class with the highest probability is chosen as the final output.
 *
 
     <figure><img src="../../.gitbook/assets/image (13) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

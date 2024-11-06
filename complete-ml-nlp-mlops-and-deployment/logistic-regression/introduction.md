@@ -7,7 +7,7 @@
 *
 
     <figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
-* Probability of finding whether the give data point will be on which side of the line 🡪 this is what the algorithm will learn
+* <mark style="color:purple;background-color:purple;">**Probability of finding whether the give data point will be on which side of the line 🡪 this is what the algorithm will learn**</mark>
 * There can be multiple lines, but we need to the best fitted line
 * Here also to draw the line we need m and c
 * Can be used for multi class as well binary class
