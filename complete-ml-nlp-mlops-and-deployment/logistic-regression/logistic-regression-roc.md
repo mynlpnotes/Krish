@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Logistic Regression ROC
 
 * When we use model.predict we get 0 or 1 as result
@@ -26,10 +30,6 @@ model_auc=roc_auc_score(y_test,model_prob)             # 0.91
 
 dummy_fpr, dummy_tpr, _ = roc_curve(y_test, dummy_model_prob)
 model_fpr, model_tpr, thresholds = roc_curve(y_test, model_prob)
-
-
-
-
 ```
 
 *

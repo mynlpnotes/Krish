@@ -1,7 +1,8 @@
 # Logistic Imbalanced Data
 
-* We will be making use of class weights of logistic regression
-* Class weights will help to assign more importance to categories having less records
+* <mark style="color:purple;background-color:purple;">**We will be making use of class weights of logistic regression**</mark>
+* <mark style="color:purple;background-color:purple;">**Class weights will help to assign more importance to categories having less records**</mark>
+* <mark style="color:purple;background-color:purple;">**We pass this different weights combination as parameter for hyper parameter tuning**</mark>
 
 ```python
 class_weight=[{0:w,1:y} for w in [1,10,50,100] for y in [1,10,50,100]]

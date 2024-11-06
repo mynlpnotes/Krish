@@ -2,16 +2,16 @@
 
 **Definition:**
 
-* The **logit function** is defined as the natural logarithm of the odds of a probability: \[ $$\text{logit}(p) = \log\left(\frac{p}{1 - p}\right)$$ ] where ( p ) is the probability of the event occurring.
+* <mark style="color:purple;background-color:purple;">**The logit function is defined as the natural logarithm of the odds of a probability**</mark>: \[ $$\text{logit}(p) = \log\left(\frac{p}{1 - p}\right)$$ ] where ( p ) is the probability of the event occurring.
 
 **Purpose**
 
-* The logit function transforms probabilities (which range from 0 to 1) into **log-odds**, which can range from (- $$\infty$$) to (+ $$\infty$$). This allows us to model a linear relationship between predictors and the outcome.
+* The logit function transforms probabilities (which range from 0 to 1) into **log-odds**, which can range from (- $$\infty$$) to (+ $$\infty$$). This allows us to <mark style="color:purple;background-color:purple;">**model a linear relationship between predictors and the outcome.**</mark>
 
 **Why Use Logit?**
 
-* **Linear Relationship**: Logistic regression aims to find a linear relationship between predictors (features) and the log-odds of the outcome.
-* **Easier Interpretation**: Log-odds allow us to interpret the effect of predictors on the odds of the event occurring in a straightforward manner.
+* **Linear Relationship**: Logistic regression aims to <mark style="color:purple;background-color:purple;">**find a linear relationship between predictors (features) and the log-odds of the outcome.**</mark>
+* **Easier Interpretation**: Log-odds <mark style="color:purple;background-color:purple;">**allow us to interpret the effect of predictors on the odds of the event occurring in a straightforward manner.**</mark>
 
 **Steps in Logistic Regression**
 

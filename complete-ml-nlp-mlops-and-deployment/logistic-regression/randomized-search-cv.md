@@ -2,8 +2,8 @@
 
 {% embed url="https://github.com/krishnaik06/Complete-Data-Science-With-Machine-Learning-And-NLP-2024/blob/main/6-Logistic%20Regression/Logistic%20Practicals/Logistic%20Regression%20Implementation.ipynb" %}
 
-* Grid search takes all the combinations so it takes time
-* Randomized search takes random parameters
+* <mark style="color:purple;background-color:purple;">**Grid search takes all the combinations so it takes time**</mark>
+* <mark style="color:purple;background-color:purple;">**Randomized search takes random parameters**</mark>
 
 ```python
 randomcv=RandomizedSearchCV(estimator=model,param_distributions=params,
