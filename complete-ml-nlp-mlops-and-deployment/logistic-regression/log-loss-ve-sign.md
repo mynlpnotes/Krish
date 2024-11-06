@@ -1,7 +1,7 @@
 # Log loss -ve sign
 
 * <mark style="color:purple;background-color:purple;">**When we use log loss function, we try to minimize the value, but if we don't use -ve sign then the value will be -ve**</mark>
-* <mark style="color:purple;background-color:purple;">**And our optimization function will try to further minimize it, so it will become more -ve, so it won't converge**</mark>
+* <mark style="color:purple;background-color:purple;">**And our optimization function will try to further minimize it, so it will become more -ve and it won't converge**</mark>
 
 
 

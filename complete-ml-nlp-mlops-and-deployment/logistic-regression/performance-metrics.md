@@ -30,7 +30,7 @@
 * β<1 gives more weight to precision.
 * <mark style="color:purple;background-color:purple;">**F1 score is used when recall and precision both are equally important**</mark>
 * <mark style="color:purple;background-color:purple;">**F2 score is preferred in scenarios where recall is more critical than precision**</mark>
-* $$[ F_\beta = \frac{(1 + \beta^2) \times \text{Precision} \times \text{Recall}}{\beta^2 \times \text{Precision} + \text{Recall}} ]$$
+* $$[ F_\beta = \frac{(1 + \beta^2) \times \text{Precision} \times \text{Recall}}{\beta^2 \times \text{Precision} + \text{Recall}} ]$$ <mark style="color:purple;background-color:purple;">-> -> -> Correct equation</mark>
 *
 
     <figure><img src="../../.gitbook/assets/image (11) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

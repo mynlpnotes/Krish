@@ -1,4 +1,8 @@
-# Confusion Matrix
+---
+hidden: true
+---
+
+# Confusion Matrix - Skip
 
 *
 

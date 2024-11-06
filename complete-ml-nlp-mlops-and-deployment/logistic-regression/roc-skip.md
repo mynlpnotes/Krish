@@ -1,4 +1,8 @@
-# ROC
+---
+hidden: true
+---
+
+# ROC - Skip
 
 * Receiver operator curve
 * What threshold should we select?
