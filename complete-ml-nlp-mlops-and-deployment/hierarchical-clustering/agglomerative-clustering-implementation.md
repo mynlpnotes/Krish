@@ -1,6 +1,7 @@
 # Agglomerative Clustering Implementation
 
-* &#x20;In agglomerative we 1st construct a dendogram
+* We do standardization
+* In agglomerative we 1st construct a dendrogram
 * We take the longest vertical line, and if we draw a horizontal line on it, then it wont pass through any other line
 * So in the below dendogram, we 1st take the vertical line on left and so on
 

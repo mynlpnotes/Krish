@@ -1,4 +1,8 @@
-# Overview
+---
+hidden: true
+---
+
+# Overview - Skip
 
 * Also known as agglomerative approach
 * We start n data points so there will be n clusters
