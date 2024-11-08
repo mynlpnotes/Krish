@@ -9,7 +9,7 @@
 * Based on probability
 * Based on Bayesian theorem
 * X1 X2 X3 Y
-* If independently X1 has relationship with Y, independently X2 has relationship with Y, independently X3 has relationship with Y, then we can use naive bayes
+* <mark style="color:purple;background-color:purple;">**If independently X1 has relationship with Y, independently X2 has relationship with Y, independently X3 has relationship with Y, then we can use naive bayes**</mark>
 * P(A | B) = Probability of occurrence of A provided we know B
 *
 

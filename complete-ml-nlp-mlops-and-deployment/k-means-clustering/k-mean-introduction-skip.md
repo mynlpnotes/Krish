@@ -1,4 +1,8 @@
-# K mean introduction
+---
+hidden: true
+---
+
+# K mean introduction - Skip
 
 * We try to find the value of K using WCSS – Within cluster summation of square
 * Algorithm steps:

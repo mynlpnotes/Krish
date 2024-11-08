@@ -1,6 +1,6 @@
 # Introduction to Unsupervised ML
 
-* Group data into similar clusters
+* <mark style="color:purple;background-color:purple;">**Group data into similar clusters**</mark>
 * No output here
 * Use-case: Customer segmentation
 * We have data of customers who have bought the product

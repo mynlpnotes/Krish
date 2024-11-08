@@ -1,12 +1,12 @@
 # SVM Maths Intuition
 
-* &#x20;Lets consider we have 2 coordinates x and y
+* Lets consider we have 2 coordinates x and y
 * We have a best fit line - wTx + b = 0
 * W is a vector perpendicular to the best fit line
 * We have a coordinate -4, 0 and if we want to distance d
 * Also we have one more coordinate 4,3 and we also want to find its distance
-* &#x20;So for this we calculate the distance s and w, which is greater than 90
-* So whenever the angle is greater than 0, then the distance between w and the point will be -ve
+* So for this we calculate the angle betweeb s and w, which is greater than 90
+* So whenever the angle is greater than 90, then the distance between w and the point will be -ve
 * So all the points below the best fit line will be -ve
 * Similarly points above the plane, the angle will be between 0 and 90, so the distance will be +ve
 * So we can say distance will be -ve for all the points below the line and it will be +ve for all the points above the plane
@@ -22,7 +22,7 @@
 *
 
     <figure><img src="../../.gitbook/assets/image (17) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-* We need to maximize this cost function by changing the values of w,b
+* We need to maximize this cost function by changing the values of w, b
 * We will be adding one more constraint
 * y will be +1 if wTx + b >= 1&#x20;
 * y will be -1 if wTx + b <= -1&#x20;

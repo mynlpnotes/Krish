@@ -1,6 +1,7 @@
 # K means clustering implementation
 
-* K value can be validated using kneelocator or silhoutte scoring
+* <mark style="color:purple;background-color:purple;">**We use standardization also**</mark>
+* <mark style="color:purple;background-color:purple;">**K value can be validated using kneelocator**</mark> or silhoutte scoring
 * In silhoutte score, for whichever k we have highest silhoutte score we will take it as k
 
 ```python

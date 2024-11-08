@@ -1,4 +1,8 @@
-# Clustering Algorithm
+---
+hidden: true
+---
+
+# Clustering Algorithm - Skip
 
 **Non Supervised:**
 
