@@ -1,4 +1,8 @@
-# Overview
+---
+hidden: true
+---
+
+# Overview - Skip
 
 * Density based special cluster of application with noise
 * Epsilon: Relative points

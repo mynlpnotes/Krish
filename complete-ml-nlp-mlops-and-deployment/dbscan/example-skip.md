@@ -1,4 +1,8 @@
-# Example
+---
+hidden: true
+---
+
+# Example - Skip
 
 *
 

@@ -6,7 +6,7 @@
 * Objective – important –
 *
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Objective function is combination of loss + regularization
 * Eval\_metric – depends on objective function
 *
