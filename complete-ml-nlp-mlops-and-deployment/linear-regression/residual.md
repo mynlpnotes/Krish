@@ -14,7 +14,7 @@
     <figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 *
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Delta Ec is a value of E where it will be 0
 * <mark style="color:purple;background-color:purple;">**0.001 is good learning rate (Range 10 to 0.00001)**</mark>
 *
