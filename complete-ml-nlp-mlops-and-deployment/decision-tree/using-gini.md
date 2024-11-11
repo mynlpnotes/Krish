@@ -1,8 +1,30 @@
 # Using Gini
 
-*
+*   <mark style="color:purple;background-color:purple;">**We need to select column which is giving us low impurity**</mark>
 
     <figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
+
+
+| Class | Gender | Stay in Hostel |
+| ----- | ------ | -------------- |
+| 9     | M      | Y              |
+| 10    | F      | N              |
+| 8     | F      | Y              |
+| 8     | F      | N              |
+| 9     | M      | Y              |
+| 10    | M      | N              |
+| 11    | F      | Y              |
+| 11    | M      | Y              |
+| 8     | F      | Y              |
+| 9     | M      | N              |
+| 11    | M      | N              |
+| 11    | M      | Y              |
+| 10    | F      | N              |
+| 10    | M      | Y              |
+| 8     | F      | ?              |
+
+
 
 | Class | Stay in Hostel | Total | P(Y) | P(N) |
 | ----- | -------------- | ----- | ---- | ---- |
@@ -10,6 +32,8 @@
 | 9     | 2Y, 1 N        | 3     | 0.66 | 0.33 |
 | 10    | 1Y, 3 N        | 4     | 0.25 | 0.75 |
 | 11    | 3Y, 1 N        | 4     | 0.75 | 0.25 |
+
+
 
 * G(8) =  1 – P(Y)2 – P(N)2 = 4/9
 * G(9) = 4/9
@@ -26,7 +50,6 @@
 * Gini is called as gini impurity
 * What is the probability that if this column is taken, that it will give more impurity
 * Purity means that the output will be of 1 class
-* We need to select column which is giving us low impurity
 * So here we are supposed class column
 * So we 1st start with Class node
 * Then under each category of class, we find the instances and the outcomes

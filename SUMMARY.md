@@ -171,7 +171,7 @@
     * [KNN Implementation](complete-ml-nlp-mlops-and-deployment/knn/knn-implementation.md)
     * [KNN Coding](complete-ml-nlp-mlops-and-deployment/knn/knn-coding.md)
   * [Decision Tree](complete-ml-nlp-mlops-and-deployment/decision-tree/README.md)
-    * [Introduction](complete-ml-nlp-mlops-and-deployment/decision-tree/introduction.md)
+    * [Introduction - Skip](complete-ml-nlp-mlops-and-deployment/decision-tree/introduction-skip.md)
     * [Using Gini](complete-ml-nlp-mlops-and-deployment/decision-tree/using-gini.md)
     * [Using entropy and information gain](complete-ml-nlp-mlops-and-deployment/decision-tree/using-entropy-and-information-gain.md)
     * [Possible Scenarios](complete-ml-nlp-mlops-and-deployment/decision-tree/possible-scenarios.md)

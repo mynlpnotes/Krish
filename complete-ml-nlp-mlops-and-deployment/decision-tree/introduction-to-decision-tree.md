@@ -4,6 +4,8 @@
 * <mark style="color:purple;background-color:purple;">**Types: ID3(More than 2 splits) and CART(Only binary splits)**</mark>
 * <mark style="color:purple;background-color:purple;">**sklearn uses CART**</mark>
 * <mark style="color:purple;background-color:purple;">**If a node is having one output then it is called as pure node**</mark>
+* <mark style="color:purple;background-color:purple;">**If the data is separable then we can use logistic regression, but if the data is very irregular then in such scenario we can go for decision tree**</mark>
+* <mark style="color:purple;background-color:purple;">**Good at handling missing value**</mark>
 * DT also works like if elseif&#x20;
 *
 

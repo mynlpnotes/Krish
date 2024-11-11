@@ -1,5 +1,7 @@
 # Entropy vs Gini
 
+* In gini, we dont use information gain
+
 | **Aspect**                | **Entropy**                                                                                                                                                                                                            | **Gini Impurity**                                                                                                                                                                                        |
 | ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Definition**            | Measures the impurity by the unpredictability of the class label distribution.                                                                                                                                         | Measures the impurity by how often a randomly chosen element would be incorrectly classified.                                                                                                            |

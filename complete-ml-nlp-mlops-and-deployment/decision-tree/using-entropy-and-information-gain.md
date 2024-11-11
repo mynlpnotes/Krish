@@ -9,7 +9,7 @@
 
     <figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 * Based on entropy we can find information gain
-* Information gain = Ebefore - Eafter
+* <mark style="color:purple;background-color:purple;">**Information gain = Ebefore - Eafter**</mark>
 * We have 14 records
 * n(Y) – 8 – number of Y records
 * n(N) – 6
