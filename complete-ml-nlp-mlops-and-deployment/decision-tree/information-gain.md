@@ -1,6 +1,6 @@
 # Information Gain
 
-* To decide which feature to be used for splitting
+* <mark style="color:purple;background-color:purple;">**To decide which feature to be used for splitting**</mark>
 *
 
     <figure><img src="../../.gitbook/assets/image (23) (1).png" alt=""><figcaption></figcaption></figure>

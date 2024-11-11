@@ -1,12 +1,12 @@
 # Introduction
 
+* <mark style="color:purple;background-color:purple;">**Can be used for Classification as well as Regression**</mark>
 * Divides the first
 * Then at the last level we get the class
-* Can also work for regression
-* If the data is separable then we can use logistic regression, but if the data is very irregular then in such scenario we can go for decision tree
+* <mark style="color:purple;background-color:purple;">**If the data is separable then we can use logistic regression, but if the data is very irregular then in such scenario we can go for decision tree**</mark>
 * A tree will have multiple branches
-* Final node will give output class
-* Good at handling missing value
+* <mark style="color:purple;background-color:purple;">**Final node will give output class**</mark>
+* <mark style="color:purple;background-color:purple;">**Good at handling missing value**</mark>
 * Example:
 
 | Class | Gender | Stay in Hostel |

@@ -1,13 +1,14 @@
 # Introduction to Decision Tree
 
-* &#x20;Can be used for classification as well as regression
-* Types: ID3(More than 2 splits) and CART(Only binary splits)
-* sklearn uses CART
+* &#x20;Can be used for <mark style="color:purple;background-color:purple;">**classification as well as regression**</mark>
+* <mark style="color:purple;background-color:purple;">**Types: ID3(More than 2 splits) and CART(Only binary splits)**</mark>
+* <mark style="color:purple;background-color:purple;">**sklearn uses CART**</mark>
+* <mark style="color:purple;background-color:purple;">**If a node is having one output then it is called as pure node**</mark>
 * DT also works like if elseif&#x20;
 *
 
     <figure><img src="../../.gitbook/assets/image (18) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-* &#x20;Outlook as 3 different categories
+* Outlook as 3 different categories
 * w.r.t outlook how many Y/N are there
 * w.r.t sunny how many Y/N are there
 * Do this for all categories
@@ -17,7 +18,7 @@
 *
 
     <figure><img src="../../.gitbook/assets/image (19) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-* &#x20;Purity is checked using entropy and gini impurity
+* Purity is checked using entropy and gini impurity
 *   What information to use for splitting is decided using information gain
 
     <figure><img src="../../.gitbook/assets/image (20) (1) (1).png" alt=""><figcaption></figcaption></figure>
