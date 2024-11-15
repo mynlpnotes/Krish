@@ -3,10 +3,10 @@
 1. **Bernoulli Naive Bayes:**
 
 * Whenever features are following a Bernoulli distribution, then we need to use Bernoulli Naive Bayes
-* Bernoulli means only 2 outcomes
-* Output class can be binary or multi class
+* <mark style="color:purple;background-color:purple;">**Bernoulli means only 2 outcomes**</mark>
+* <mark style="color:purple;background-color:purple;">**Output class can be binary or multi class**</mark>
 * When we convert features into 0 and 1, then it will have sparse representation (maximum 0s and few 1s)
-*   For NLP problems we can use multinomial as well as bernoulli naives bayes as well
+*   <mark style="color:purple;background-color:purple;">**For NLP problems we can use multinomial as well as Bernoulli naives bayes as well**</mark>
 
     <figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

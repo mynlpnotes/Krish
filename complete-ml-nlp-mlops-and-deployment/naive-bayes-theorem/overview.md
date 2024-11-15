@@ -1,11 +1,15 @@
+---
+hidden: true
+---
+
 # Overview
 
 * if there is a common data between training and testing then its known as data leakage
-* **Never use dimension reduction with Naïve Bayes as data will lose its independence**
+* <mark style="color:red;background-color:purple;">**Never use dimension reduction with Naïve Bayes as data will lose its independence**</mark>
 
 
 
-* For Classification
+* For <mark style="color:purple;background-color:purple;">**Classification**</mark>
 * Based on probability
 * Based on Bayesian theorem
 * X1 X2 X3 Y

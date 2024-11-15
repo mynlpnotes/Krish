@@ -1,65 +1,61 @@
+---
+hidden: true
+---
+
 # Example
 
-| Outlook  | Temp | Humidity | Windy | Play Golf |
-| -------- | ---- | -------- | ----- | --------- |
-| Rainy    | Hot  | High     | True  | No        |
-| Rainy    | Hot  | High     | True  | No        |
-| Overcast | Mild | High     | True  | No        |
-| Sunny    | Cool | Low      | False | Yes       |
-| Sunny    | Cool | Low      | False | Yes       |
-| Sunny    | Hot  | Normal   | True  | Yes       |
-| Overcast | Mild | Normal   | False | Yes       |
-| Rainy    | Cool | High     | False | Yes       |
-| Rainy    | Hot  | Low      | True  | No        |
+**Training Data**
 
-* Probability of playing golf when outlook, temp, humidity, windy has already occurred independently
+| Email | Word: "buy" | Word: "cheap" | Word: "money" | Label    |
+| ----- | ----------- | ------------- | ------------- | -------- |
+| 1     | Yes         | Yes           | No            | Spam     |
+| 2     | No          | Yes           | Yes           | Spam     |
+| 3     | Yes         | No            | No            | Not Spam |
+| 4     | No          | No            | Yes           | Not Spam |
+| 5     | Yes         | Yes           | Yes           | Spam     |
+| 6     | Yes         | No            | Yes           | Not Spam |
+| 7     | No          | Yes           | No            | Spam     |
 
-| Play Golf |   |              |
-| --------- | - | ------------ |
-| Yes       | 5 | P(Yes) = 5/9 |
-| No        | 4 | P(No)  = 4/9 |
-|           | 9 |              |
+**New Email**
 
-&#x20;             &#x20;
+* **"buy: Yes"**, **"cheap: Yes"**, **"money: No"**
 
-| Outlook  | Played | Not played | P(Yes)                                          | P(No) |
-| -------- | ------ | ---------- | ----------------------------------------------- | ----- |
-| Rainy    | 1      | 3          | <p>It is rainy and we played golf</p><p>1/5</p> | ¾     |
-| Overcast | 1      | 1          | 1/5                                             | 1/4   |
-| Sunny    | 3      | 0          | 3/5                                             | 0     |
-|          | 5      | 4          |                                                 |       |
+***
 
-&#x20;              &#x20;
+**Step 1: Calculate Prior Probabilities**
 
-| Temp | Played | Not played | P(Yes)                                        | P(No) |
-| ---- | ------ | ---------- | --------------------------------------------- | ----- |
-| Hot  | 1      | 3          | <p>It is hot and we played golf</p><p>1/5</p> | ¾     |
-| Cool | 3      | 0          | 3/5                                           | 0     |
-| Mild | 1      | 1          | 1/5                                           | 1/4   |
-|      | 5      | 4          |                                               |       |
+| Class    | Formula                                        | Calculation | Result |
+| -------- | ---------------------------------------------- | ----------- | ------ |
+| Spam     | P(Spam) = (# of Spam) / (Total emails)         | 4/7         | 0.571  |
+| Not Spam | P(Not Spam) = (# of Not Spam) / (Total emails) | 3/7         | 0.429  |
 
-&#x20;
+***
 
-| Humidity | Played | Not played | P(Yes)                                         | P(No) |
-| -------- | ------ | ---------- | ---------------------------------------------- | ----- |
-| High     | 1      | 3          | <p>It is high and we played golf</p><p>1/5</p> | ¾     |
-| Low      | 2      | 1          | 2/5                                            | ¼     |
-| Normal   | 2      | 0          | 2/5                                            | 0     |
-|          | 5      | 4          |                                                |       |
+**Step 2: Calculate Likelihoods**
 
-&#x20;
+<table><thead><tr><th>Word Condition</th><th>Class</th><th>Result</th><th data-hidden>Formula</th><th data-hidden>Calculation</th></tr></thead><tbody><tr><td>buy = Yes</td><td>Spam</td><td>2/4</td><td>P(buy = Yes</td><td>Spam)</td></tr><tr><td>cheap = Yes</td><td>Spam</td><td>3/4</td><td>P(cheap = Yes</td><td>Spam)</td></tr><tr><td>money = No</td><td>Spam</td><td>2/4</td><td>P(money = No</td><td>Spam)</td></tr><tr><td>buy = Yes</td><td>Not Spam</td><td>2/3</td><td>P(buy = Yes</td><td>Not Spam)</td></tr><tr><td>cheap = Yes</td><td>Not Spam</td><td>0/3</td><td>P(cheap = Yes</td><td>Not Spam)</td></tr><tr><td>money = No</td><td>Not Spam</td><td>1/3</td><td>P(money = No</td><td>Not Spam)</td></tr></tbody></table>
 
-| Windy | Played | Not played | P(Yes)                                        | P(No) |
-| ----- | ------ | ---------- | --------------------------------------------- | ----- |
-| True  | 1      | 4          | <p>It is hot and we played golf</p><p>1/5</p> | 4/4   |
-| False | 4      | 0          | 4/5                                           | 0/4   |
-|       | 5      | 4          |                                               |       |
+***
 
-&#x20;
+**Step 3: Apply Naive Bayes Formula for Each Class**
 
-* New data 🡪 Sunny, Cool, High, False 🡪 P(Yes) ??
-* P(Yes | Sunny, Cool, High, False)
-* P(No  | Sunny, Cool,  High, False)
-* P(Yes|Sunny, Cool. High, False) = P(Sunny|Y) .P(Cool|Y).P(High|Y).P(False|Y).P(Y) / P(S,C,H,F)
-* \= 3/5. 3/5.1/5.4/5.5/9 = 0.032
-* P(N|S,C,H,F) = 0.
+**1. Calculate ( P(\text{Spam | Data}) ):**
+
+| Class | Formula        | Calculation                | Result                    |
+| ----- | -------------- | -------------------------- | ------------------------- |
+| Spam  | ( P(\text{Spam | Data}) \propto P(buy = Yes | Spam) \cdot P(cheap = Yes |
+
+**2. Calculate ( P(\text{Not Spam | Data}) ):**
+
+| Class    | Formula            | Calculation                | Result                        |
+| -------- | ------------------ | -------------------------- | ----------------------------- |
+| Not Spam | ( P(\text{Not Spam | Data}) \propto P(buy = Yes | Not Spam) \cdot P(cheap = Yes |
+
+***
+
+**Step 4: Final Decision**
+
+| Class    | Probability (Proportional) | Result     |
+| -------- | -------------------------- | ---------- |
+| Spam     | 0.107                      | **Higher** |
+| Not Spam | 0.0                        | Lower      |

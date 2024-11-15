@@ -21,5 +21,5 @@ hidden: true
 * We select the biggest vertical line, because it represents actual distance between clusters
 *
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
