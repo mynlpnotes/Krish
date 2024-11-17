@@ -7,7 +7,7 @@
 * <mark style="color:purple;background-color:purple;">**Independent event means one outcome is not hampering or not changing the probability of other outcome**</mark>
 *
 
-    <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 * In dependent event, one outcome is changing the probability of other outcome
 * P(B/A) -> Probability of B given A has occurred
 *   &#x20;
@@ -16,7 +16,7 @@
 * &#x20;P( A and B) is same as P(B and A)
 *
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * &#x20;The algorithm that uses this bayes theorem is called naive bayes algorithm
 *
 
