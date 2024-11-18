@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Kd-Tree
 
 * K dimensional tree
@@ -9,7 +13,7 @@
 * {(1,2),(2,3),(2,4),(3,6),(4,2),(5,7),(6,8),(7,1),(8,5),(9,1),(9,3)} 🡪 (x,y)
 * X = 1,2,3,3,4,5,6,7,8,8,9
 * First arrange in ascending and then take the middle value
-* Middle value sin 5
+* Middle value is 5
 * So the root node will be (5,7)
 * Then again do the same on both the sides repeatedly
 *

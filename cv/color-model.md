@@ -2,12 +2,12 @@
 
 A color model is a mathematical model that describes the way colors can be represented as a set of numbers.
 
-* Pillow used RGB
-* OpenCV uses BGR
+* <mark style="color:purple;background-color:purple;">**Pillow used RGB**</mark>
+* <mark style="color:purple;background-color:purple;">**OpenCV uses BGR**</mark>
 
 1. **RGB (Red, Green, Blue)**
 
-* An additive color model, where colors are formed by adding red, green, and blue light in varying intensities.
+* <mark style="color:purple;background-color:purple;">**An additive color model, where colors are formed by adding red, green, and blue light in varying intensities.**</mark>
 * Each pixel is represented by three values: red, green, and blue, ranging from 0 to 255.
 
 2. **CMYK (Cyan, Magenta, Yellow, Black)**&#x20;

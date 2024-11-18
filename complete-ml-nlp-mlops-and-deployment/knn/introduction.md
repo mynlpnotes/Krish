@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Introduction
 
 * Lazy learning algorithm

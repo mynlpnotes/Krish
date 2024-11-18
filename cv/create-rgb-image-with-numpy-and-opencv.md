@@ -1,5 +1,7 @@
 # Create RGB Image with Numpy and OpenCV
 
+* <mark style="color:purple;background-color:purple;">**Here we 1st need to create an array and then we need to give pixel values**</mark>
+
 ```python
 import numpy as np
 import cv2

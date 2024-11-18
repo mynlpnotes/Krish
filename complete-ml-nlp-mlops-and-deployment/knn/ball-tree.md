@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Ball Tree
 
 * We create a cluster here
