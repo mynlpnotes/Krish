@@ -407,3 +407,7 @@
   * [EXIF Details](cv/exif-details.md)
   * [EXIF Orientation](cv/exif-orientation.md)
   * [Image Loading](cv/image-loading.md)
+* [Projects](projects/README.md)
+  * [Signature Cropping](projects/signature-cropping/README.md)
+    * [Training a YOLO](projects/signature-cropping/training-a-yolo.md)
+    * [Inference](projects/signature-cropping/inference.md)
