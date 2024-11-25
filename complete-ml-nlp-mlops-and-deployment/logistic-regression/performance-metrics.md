@@ -3,17 +3,17 @@
 * &#x20;In linear regression we used r2 and adj.r2 to understand model performance
 *
 
-    <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * For binary classification, confusion matrix will be 2X2
 * TP and TN are our correct results
 * <mark style="color:purple;background-color:purple;">**Accuracy = (TP + TN ) /  (TP + FP + TN + FN)**</mark>
 *
 
-    <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * In case of imbalanced dataset, we cannot use accuracy, as if our model predicts 1 always then also it will be 90% accurate
 *
 
-    <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * <mark style="color:purple;background-color:purple;">**Precision means out of all the predicted results, how many are actually correct**</mark>
 *   <mark style="color:purple;background-color:purple;">**Recall means out of all the actual positive instances, how many did the model correctly identify**</mark>
 

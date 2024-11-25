@@ -394,6 +394,8 @@
   * [Introduction](cv/introduction.md)
   * [Image](cv/image.md)
   * [Color Model](cv/color-model.md)
+  * [RGB vs HSV](cv/rgb-vs-hsv.md)
+  * [Convert RGB to HSV](cv/convert-rgb-to-hsv.md)
   * [Create RGB image with PIL](cv/create-rgb-image-with-pil.md)
   * [Create B/W or gray-scale image with PIL](cv/create-b-w-or-gray-scale-image-with-pil.md)
   * [Create RGB Image with Numpy and OpenCV](cv/create-rgb-image-with-numpy-and-opencv.md)

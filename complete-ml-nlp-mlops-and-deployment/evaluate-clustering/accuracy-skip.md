@@ -1,4 +1,4 @@
-# Accuracy
+# Accuracy - Skip
 
 * It should have interclass similarity
 * Intraclass similarity should be very low
@@ -22,7 +22,7 @@
   * Total dataset which cluster is able to group from the ground truth
   * SS / (SS + SD + DS)
 * **Entropy:**
-  * \-pi \* log (pi)
+  * -pi \* log (pi)
   * If entropy one cluster is high compared to another cluster, then we say one cluster is bad to another cluster
 * **Purity:**
   * Total percentage of data points clustered successfully
@@ -35,7 +35,7 @@
 * if data point is in cluster then silhouette score will be very less
 *
 
-    <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```python
 from sklearn import metrics

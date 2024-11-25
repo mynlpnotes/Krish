@@ -14,11 +14,11 @@
 * This are the datapoints given
 * X1 X2
 * 2   2
-* \-1  2
-* \-2  -2
+* -1  2
+* -2  -2
 *
 
-    <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 * Can this be represented using just 1 axis?
 * If we project the points on x1, we wont be able to form relation between x1 and x2
 * On some new axis we can represent both x1 and x2
