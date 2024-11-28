@@ -9,10 +9,10 @@
 * To create any color, R G and B will have to be added, so its a additive model
 *   There can be 16.7 million possible colours in RGB
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 *
 
-    <figure><img src="../.gitbook/assets/image (2).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **HSV:**
 
@@ -23,11 +23,12 @@
 * Hue correspond to the color component, there is a 360 wheel
 * So we can Red is from 330 to 30
 * 0 means no saturation, so it means its while, as we increase the darker the color becomes
-*   V is brightness&#x20;
+* V is brightness&#x20;
+*   In OpenCV Hue is 180 instead of 360, so the precision is of 0.5, S and V are 0 to 255
 
-    <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 *
 
-    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 So to separate any colour it will be easier in HSV
