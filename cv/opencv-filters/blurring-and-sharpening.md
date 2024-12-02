@@ -1,7 +1,7 @@
 # Blurring and Sharpening
 
 * Blurring is useful for reducing noise.
-  * Gaussian blur is a technique to reduce noise and detail by averaging pixel values in a neighborhood, weighted by a Gaussian kernel (a bell-shaped curve). A larger kernel size will result in more blurring, while a smaller kernel size will cause less blurring. Decreasing it (e.g., (3, 3)) will reduce the blurring effect.
+  * <mark style="color:purple;background-color:purple;">**Gaussian blur is a technique to reduce noise and detail by averaging pixel values in a neighborhood, weighted by a Gaussian kernel (a bell-shaped curve). A larger kernel size will result in more blurring, while a smaller kernel size will cause less blurring.**</mark> Decreasing it (e.g., (3, 3)) will reduce the blurring effect.
   * (5, 5) is the size of the kernel, which determines how much the image will be blurred. Larger values result in a blurrier image.
   * 0 specifies the standard deviation for the Gaussian function. Here, it is automatically calculated based on the kernel size.
 * Sharpening enhances edges.

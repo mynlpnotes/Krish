@@ -1,5 +1,8 @@
 # RGB vs HSV Code
 
+* <mark style="color:purple;background-color:purple;">**We can use COLOR\_RGB2HSV**</mark>
+* <mark style="color:purple;background-color:purple;">**HSV is not so much friendly for eyes, but is good for image processing**</mark>
+
 ```python
 import matplotlib.pyplot as plt
 

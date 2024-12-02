@@ -1,7 +1,9 @@
 # Create RGBA image with PIL
 
-* RGBA: Adds an Alpha channel to RGB, representing transparency.
-* PNG supports RGBA
+* <mark style="color:purple;background-color:purple;">**RGBA: Adds an Alpha channel to RGB, representing transparency.**</mark>
+* <mark style="color:purple;background-color:purple;">**PNG supports RGBA**</mark>
+* <mark style="color:purple;background-color:purple;">**Create RGB image and then convert it to RGBA**</mark>
+* <mark style="color:purple;background-color:purple;">**Use getbands() to get the number of channels**</mark>
 
 ```python
 # Create image with orange color

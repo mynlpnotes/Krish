@@ -3,22 +3,20 @@
 ### Hue Histogram
 
 * Hue represents the color type in the HSV color space (e.g., red, blue, green). In OpenCV, the range of hue values is scaled from 0 to 180 (corresponding to 0° to 360° on a color wheel).
-
-In OpenCV, Hue (H) is scaled to a range of 0 to 179 instead of 0 to 360 to accommodate the fact that OpenCV stores HSV values as 8-bit integers (with a range of 0-255).
-
-Hue range is halved (i.e., 360° / 2 = 179)
+* In OpenCV, Hue (H) is scaled to a range of 0 to 179 instead of 0 to 360 to accommodate the fact that OpenCV stores HSV values as 8-bit integers (with a range of 0-255).
+* Hue range is halved (i.e., 360° / 2 = 179)
 
 **Key Points:**
 
-* Peaks in Hue: The spikes in the histogram indicate the dominance of specific hues (colors) in the image. For example, a spike around 120 corresponds to cyan, while 0/180 corresponds to red.
+* Peaks in Hue: <mark style="color:purple;background-color:purple;">**The spikes in the histogram indicate the dominance of specific hues (colors) in the image. For example, a spike around 120 corresponds to cyan, while 0/180 corresponds to red.**</mark>
 * Flat Distribution: A relatively flat histogram means the image contains a wide variety of colors.
 * Narrow Distribution: A narrow distribution with a prominent peak means that the image has a predominant color.
 
 ### Saturation Histogram
 
 * Saturation indicates the intensity or purity of colors. The range is from 0 to 255, where:
-  * Low values (close to 0) represent more muted, washed-out colors (grays, pastels).
-  * High values (closer to 255) represent vivid, saturated colors (rich reds, blues, etc.).
+  * <mark style="color:purple;background-color:purple;">**Low values (close to 0) represent more muted, washed-out colors (grays, pastels).**</mark>
+  * <mark style="color:purple;background-color:purple;">**High values (closer to 255) represent vivid, saturated colors (rich reds, blues, etc.).**</mark>
 
 **Key Points:**
 
@@ -28,8 +26,8 @@ Hue range is halved (i.e., 360° / 2 = 179)
 ### Value (Brightness) Histogram
 
 * Value represents the brightness or luminance of the image. Like saturation, its range is from 0 to 255, where:
-  * Low values (near 0) mean darker pixels (shadows, black areas).
-  * High values (near 255) mean brighter pixels (highlights, white areas).
+  * <mark style="color:purple;background-color:purple;">**Low values (near 0) mean darker pixels (shadows, black areas).**</mark>
+  * <mark style="color:purple;background-color:purple;">**High values (near 255) mean brighter pixels (highlights, white areas).**</mark>
 
 **Key Points:**
 
