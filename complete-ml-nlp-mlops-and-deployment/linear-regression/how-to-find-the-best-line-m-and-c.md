@@ -10,4 +10,4 @@
 * <mark style="color:purple;background-color:purple;">**We need to find m and c, such that the cost or loss will be minimum**</mark>
 *
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

@@ -9,10 +9,10 @@
 * <mark style="color:purple;background-color:purple;">**To create any color, R G and B will have to be added, so its a additive model**</mark>
 *   There can be 16.7 million possible colors in RGB
 
-    <figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 *
 
-    <figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 **HSV:**
 
@@ -31,6 +31,6 @@
     <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 *
 
-    <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 So to separate any color it will be easier in HSV

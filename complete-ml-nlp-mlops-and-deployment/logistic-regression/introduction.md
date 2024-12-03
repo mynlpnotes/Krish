@@ -6,7 +6,7 @@
 * <mark style="color:purple;background-color:purple;">**We draw a line for separation of classes**</mark>
 *
 
-    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * <mark style="color:purple;background-color:purple;">**Probability of finding whether the give data point will be on which side of the line 🡪 this is what the algorithm will learn**</mark>
 * There can be multiple lines, but we need to the best fitted line
 * Here also to draw the line we need m and c
