@@ -1,5 +1,8 @@
 # Adding Noise to image
 
+* Training data which we scrap from internet which will be HD, but in real life we dont get such images
+* So we need to add noise to images to replicate real world situation
+
 ```python
 image = cv2.imread('./data/beach-blue.jpg')
 
@@ -14,4 +17,4 @@ plt.title("Noisy Image")
 plt.show()
 ```
 
-<figure><img src="../../.gitbook/assets/{6F58DCA7-1D7C-4089-A68F-9BE10AB9DF2C}.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>

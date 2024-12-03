@@ -1,5 +1,7 @@
 # Resize to a different aspect ratio to 1:1
 
+* Yolo uses square resolution, that means 1:1 -> lenght = height
+
 ```python
 height, width, _ = image.shape
 

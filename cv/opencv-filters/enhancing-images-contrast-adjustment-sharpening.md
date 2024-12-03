@@ -1,5 +1,8 @@
 # Enhancing Images: Contrast Adjustment, Sharpening
 
+* We can apply CLAHE on grayscale
+* To apply CLAHE on RGB we will have to apply on individual channels and then merge them, or instead we can also use LAB
+
 ```python
 # CLAHE for greyscale
 

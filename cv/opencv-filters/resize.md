@@ -1,5 +1,7 @@
 # Resize
 
+* 8 times size reduced here
+
 ```python
 height, width, _ = image.shape
 
@@ -22,4 +24,4 @@ plt.title("Resized Image")
 plt.show()
 ```
 
-<figure><img src="../../.gitbook/assets/{789ADE82-B767-4FE4-8C57-37E90B588BA9}.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/{15E96627-F67C-482D-9124-02D2221072B5}.png" alt=""><figcaption></figcaption></figure>
