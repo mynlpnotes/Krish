@@ -7,7 +7,7 @@ hidden: true
 * Location of initialization of centroid
 *
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * In this case, once the first centroid has got some data point, other centroid wont get any data point
 * Solution:
 

@@ -11,6 +11,6 @@
 * Then it means EVR(PC1) is able to retain 91% of the data
 *
 
-    <figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * EVR(PC2) = 0.09
 * Using PC1 and PC2 we are able to explain 100% of the variance

@@ -35,7 +35,7 @@
 * if data point is in cluster then silhouette score will be very less
 *
 
-    <figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```python
 from sklearn import metrics

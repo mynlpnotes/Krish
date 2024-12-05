@@ -2,7 +2,7 @@
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Based on shape of the data, we should choose algorithm
 * DBSCAN and Agglomerative are working for most of the shapes
 * However the speed of DBSCAN is more
