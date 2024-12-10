@@ -9,6 +9,6 @@
 * <mark style="color:purple;background-color:purple;">**Bars to the left**</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">(towards -1) would indicate misclassified points (though there aren't any in this case).</mark>
 *
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * The vertical dashed lines represent the silhouette score for each number of clusters.&#x20;
 * When most of the instances in a cluster have a lower coefficient than this score (i.e., if many of the instances stop short of the dashed line, ending to the left of it), then the cluster is rather bad since this means its instances are much too close to other clusters

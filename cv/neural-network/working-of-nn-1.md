@@ -9,7 +9,7 @@
 * If wrong prediction, then with the help of back propagation, we will update the weights that caused the output
 *
 
-    <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 * We want to create generalized model and not have overfitting
 * To prevent overfiting, we use dropout
 * Dropout will randomly block and make neuron inactive during training
