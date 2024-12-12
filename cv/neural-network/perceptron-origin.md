@@ -7,6 +7,6 @@
 * Light from projection area will come on random areas on Association area
 *   From Association we get onto R1 and R2
 
-    <figure><img src="../../.gitbook/assets/image (8).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (8) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>

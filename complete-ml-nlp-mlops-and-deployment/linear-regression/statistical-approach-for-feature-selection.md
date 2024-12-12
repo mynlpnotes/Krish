@@ -10,7 +10,7 @@ lm.summary()
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * P means significance value
 * Since P is 0 then it means it’s a significant level
 * Since P is 0.86 , so 100 – 86 = 14

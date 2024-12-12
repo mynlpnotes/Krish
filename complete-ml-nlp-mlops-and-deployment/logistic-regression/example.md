@@ -6,7 +6,7 @@ hidden: true
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Lets consider m = 5 and c = 2, then P(x = 2) = 0.99, cost = 0.01
 * If m = 21, c = -5, then P(x = 2) = lets suppose it is 1, cost = 0
 * If m = 0.3, c = 0.1 , then P(x = 2) = 0.67, cost = 0.33 🡪 in this case, value of m and c needs to be changed a lot
