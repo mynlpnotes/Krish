@@ -1,4 +1,4 @@
-# Introduction
+# 🟢 Introduction
 
 * <mark style="color:purple;background-color:purple;">**CV deals with images and videos**</mark>
 *

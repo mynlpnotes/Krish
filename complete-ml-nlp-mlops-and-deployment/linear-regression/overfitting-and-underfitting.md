@@ -9,7 +9,7 @@
 * <mark style="color:purple;background-color:purple;">**Validation data is used for hyper parameter tuning of the model**</mark>
 *
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * <mark style="color:purple;background-color:purple;">**Good accuracy on train -> Low bias**</mark>&#x20;
 * <mark style="color:purple;background-color:purple;">**Bad accuracy on Test -> High variance**</mark>
 * <mark style="color:purple;background-color:purple;">**Model is overfitting**</mark>
@@ -19,4 +19,4 @@
 * <mark style="color:purple;background-color:purple;">**Our aim should be to get generalized model -> Low bias, low variance**</mark>
 *
 
-    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

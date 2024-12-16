@@ -6,7 +6,7 @@
 * <mark style="color:purple;background-color:purple;">**We draw a line for separation of classes**</mark>
 *
 
-    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * <mark style="color:purple;background-color:purple;">**Probability of finding whether the give data point will be on which side of the line 🡪 this is what the algorithm will learn**</mark>
 * There can be multiple lines, but we need to the best fitted line
 * Here also to draw the line we need m and c
@@ -15,7 +15,7 @@
 * <mark style="color:purple;background-color:purple;">**Function for finding probability will be sigmoid**</mark>
 *
 
-    <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * <mark style="color:purple;background-color:purple;">**Output will always be between 0 and 1**</mark>
 * Equation, y = m1x1 + m2x2 +c
 * If we are able to find the value of m1, m2, then we can get the value of y, but here value of y will be real number, but we need probability

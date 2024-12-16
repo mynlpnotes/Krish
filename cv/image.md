@@ -1,4 +1,4 @@
-# Image
+# 🟢 Image
 
 * <mark style="color:purple;background-color:purple;">**Image is 2D array of pixel values where each pixel represents the color information at a specific point**</mark>
 * <mark style="color:purple;background-color:purple;">**Each pixel has value ranging from 0 to 255**</mark>
