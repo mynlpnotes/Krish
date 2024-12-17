@@ -9,5 +9,5 @@
 * If we give filled = true then it will be colourful tree
 *
 
-    <figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (13) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Since we have 4 classes so that’s why in value its showing count for each class

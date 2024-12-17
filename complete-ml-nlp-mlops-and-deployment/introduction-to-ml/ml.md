@@ -4,7 +4,7 @@
 * First we see the data and then decide which algorithm to be used
 *
 
-    <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Weight is proportional to height
 * To remove proportion sign we have to make w = mh
 * We add e as h won’t be able to derive exact relation between w and h

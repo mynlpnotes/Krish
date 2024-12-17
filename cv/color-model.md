@@ -1,4 +1,4 @@
-# Color Model
+# 🟢 Color Model
 
 A color model is a mathematical model that describes the way colors can be represented as a set of numbers.
 

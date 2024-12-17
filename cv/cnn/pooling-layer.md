@@ -9,7 +9,7 @@
 * Suppose we apply max pool -> then we get output as 100, 100, 200
 *
 
-    <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Types of Pooling:**
 

@@ -6,7 +6,7 @@
 * Define a objective function
 *
 
-    <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 * Tree\_method = gpu\_hist is for executing on gpu
 * Trail.suggest\_loguniform 🡪 suggest alpha from this range
 * In case we have multiple gpu, then we can pass gpu id also

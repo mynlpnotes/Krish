@@ -6,13 +6,13 @@
 * Based on the loss we calculate gradient of learnable parameters
 *
 
-    <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Gradient means if we change w1 by a very small value then how will our loss change
 * Backpropagation will provide us gradients and the direction as well
 *
 
-    <figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * &#x20;Optimizer updates the learnable parameters based on their calculated gradients
 *   Learning rate influences how much of a gradient you want
 
-    <figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>

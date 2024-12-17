@@ -1,4 +1,4 @@
-# RGB vs HSV Code
+# 🟢 RGB vs HSV Code
 
 * <mark style="color:purple;background-color:purple;">**We can use COLOR\_RGB2HSV**</mark>
 * <mark style="color:purple;background-color:purple;">**HSV is not so much friendly for eyes, but is good for image processing**</mark>
@@ -28,4 +28,4 @@ plt.show()
 
 *
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

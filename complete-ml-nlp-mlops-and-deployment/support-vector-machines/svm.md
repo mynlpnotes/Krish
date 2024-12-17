@@ -13,7 +13,7 @@
 * For the new dataset, it will check distance from the hyperplane/margin to predict the class
 *
 
-    <figure><img src="../../.gitbook/assets/image (9) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Pseudo code:
   * Take training dataset
   * Find number of lines which can be used for separation and margin
@@ -21,7 +21,7 @@
 * Whenever we draw margin, it should create maximum separation
 *
 
-    <figure><img src="../../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Incase of regression, the only difference will be margin, it will calculate what will be the error for the margin
 * We keep those combination of line and margin, in which the error will be minimum
 * SVM works well with non linear data also using kernel trick
@@ -32,5 +32,5 @@
 * We will be able to understand shape better in higher dimension
 *
 
-    <figure><img src="../../.gitbook/assets/image (11) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Converting lower into higher dimension is part of data transformation

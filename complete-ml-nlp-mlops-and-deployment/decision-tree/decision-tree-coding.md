@@ -17,7 +17,7 @@
 * This will create a dot file, have entire decision tree generated
 *
 
-    <figure><img src="../../.gitbook/assets/image (12) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * set(df.quality) 🡪 get all the possible of target attribute
 * data pre-processing is to be done on the data
 * Multi collinearity check not needed, as we are splitting the data here

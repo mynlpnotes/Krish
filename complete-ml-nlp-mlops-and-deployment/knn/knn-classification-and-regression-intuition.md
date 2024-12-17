@@ -16,11 +16,11 @@
 
 *   &#x20;
 
-    <figure><img src="../../.gitbook/assets/image (12) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (12) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * <mark style="color:purple;background-color:purple;">**The nearest neighbors can be found using - Euclidean distance, Manhattan distance**</mark>
 *   &#x20;
 
-    <figure><img src="../../.gitbook/assets/image (13) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (13) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Regression:**
 

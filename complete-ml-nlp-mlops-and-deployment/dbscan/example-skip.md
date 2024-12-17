@@ -6,7 +6,7 @@ hidden: true
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Epsilon and min points are hyperparameters
 * If epsilon is very high then we will get 1 big cluster
 * If min points is very high then we might end up with no cluster
