@@ -1,7 +1,7 @@
-# EXIF Details
+# 🟢 EXIF Details
 
-* Metadata in images, like camera settings, date, etc
-* Pillow doesn't provide a built-in way to directly modify EXIF data.
+* <mark style="color:purple;background-color:purple;">**Metadata in images, like camera settings, date, etc**</mark>
+* <mark style="color:purple;background-color:purple;">**Pillow doesn't provide a built-in way to directly modify EXIF data.**</mark>
 
 ```python
 from PIL import Image, ExifTags

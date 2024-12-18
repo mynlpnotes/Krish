@@ -1,4 +1,4 @@
-# HSV Histogram
+# 🟠 HSV Histogram
 
 ### Hue Histogram
 

@@ -1,6 +1,8 @@
-# Color Thresholding
+# 🟢 Color Thresholding
 
-* Color thresholding allows you to filter specific colors from the image and create a mask out of it
+* <mark style="color:purple;background-color:purple;">**Color thresholding allows you to filter specific colors from the image and create a mask out of it**</mark>
+* <mark style="color:purple;background-color:purple;">**Use cv2.inRange to create by specifying the higher value and low value of the colour to be replaced**</mark>
+* <mark style="color:purple;background-color:purple;">**Use cv2.bitwise\_and to apply the mask on the image**</mark>
 
 ```python
 import matplotlib.pyplot as plt

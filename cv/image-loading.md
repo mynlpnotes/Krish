@@ -1,4 +1,7 @@
-# Image Loading
+# 🟢 Image Loading
+
+* cv2.imread(file path)
+* PIL.Image.open(file path)
 
 ```python
 import cv2

@@ -1,4 +1,4 @@
-# Create B/W or gray-scale image with PIL
+# 🟢 Create B/W or gray-scale image with PIL
 
 * <mark style="color:purple;background-color:purple;">**Just needed to mention mode as L here**</mark>
 

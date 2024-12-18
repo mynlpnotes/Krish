@@ -1,7 +1,9 @@
-# Custom Filter
+# 🟢 Custom Filter
 
-* Based on central point it is increasing and based on neighboring points it is decreasing
-* cv2.filter2D to apply filter to an image
+* <mark style="color:purple;background-color:purple;">**Based on central point it is increasing and based on neighboring points it is decreasing**</mark>
+* <mark style="color:purple;background-color:purple;">**b, g, r = cv2.split() ⇒ to split the individual channels**</mark>
+* <mark style="color:purple;background-color:purple;">**cv2.filter2D ⇒  apply filter to an image**</mark>
+* <mark style="color:purple;background-color:purple;">**cv2.merge(r,g,b) ⇒ to combine r, g and b channels**</mark>
 
 ```python
 kernel = np.array([[0, -1, 0],

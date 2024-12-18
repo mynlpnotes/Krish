@@ -1,6 +1,6 @@
-# Cool vs Warm Image Prediction
+# 🟢 Cool vs Warm Image Prediction
 
-Cool colors are typically in the blue and green range (hue values between 90-180 in HSV), while warm colors are in the red, orange, and yellow range (hue values between 0-60)
+* <mark style="color:purple;background-color:purple;">**Cool colors are typically in the blue and green range (hue values between 90-180 in HSV), while warm colors are in the red, orange, and yellow range (hue values between 0-60)**</mark>
 
 ```python
 import cv2

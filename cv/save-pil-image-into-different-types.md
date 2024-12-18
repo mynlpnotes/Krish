@@ -1,4 +1,4 @@
-# Save PIL image into Different Types
+# 🟢 Save PIL image into Different Types
 
 ```python
 image.save("./temp/image_SAVE_95.jpg", quality=95)  # JPG with high quality

@@ -1,4 +1,4 @@
-# Save an OpenCV image in different formats
+# 🟢 Save an OpenCV image in different formats
 
 * JPEG - The value can be between 0 to 100, where 100 produces the highest quality and 0 produces the lowest quality.&#x20;
 * PNG - The value can be between 0 to 9, where 9 produces the highest compression with more time to save images into the file.

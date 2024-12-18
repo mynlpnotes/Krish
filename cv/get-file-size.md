@@ -1,4 +1,8 @@
-# Get File Size
+# 🟢 Get File Size
+
+* ```
+  os.path.getsize(file) 
+  ```
 
 ```python
 import os

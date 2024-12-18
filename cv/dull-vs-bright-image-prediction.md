@@ -1,6 +1,6 @@
-# Dull vs Bright Image Prediction
+# 🟢 Dull vs Bright Image Prediction
 
-* Dull images tend to have low saturation and value (brightness), while bright images have higher values for both. We can use thresholds to classify an image as dull or bright based on these properties
+* <mark style="color:purple;background-color:purple;">**Dull images tend to have low saturation and value (brightness), while bright images have higher values for both. We can use thresholds to classify an image as dull or bright based on these properties**</mark>
 
 ```python
 def predict_dull_vs_bright(image_path):

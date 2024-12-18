@@ -1,10 +1,12 @@
-# Contour
+# 🟠 Contour
 
-*   Contour is a curve that connects all the continous points along the boundary of an object that have the same coloir or intensity.
+*   <mark style="color:purple;background-color:purple;">**Contour is a curve that connects all the continuous points along the boundary of an object that have the same coloir or intensity.**</mark>
 
-    or in-short :
+    <mark style="color:purple;background-color:purple;">**or in-short :**</mark>
 
-    Contours are the boundaries of objects detected in an image
+    <mark style="color:purple;background-color:purple;">**Contours are the boundaries of objects detected in an image**</mark>
+* <mark style="color:purple;background-color:purple;">**Using cv2.threshold we will create the threshold**</mark>
+* <mark style="color:purple;background-color:purple;">**Usinv cv2.findContours we can find the contours**</mark>
 
 ```python
 image = cv2.imread('./data/beach-blue.jpg')

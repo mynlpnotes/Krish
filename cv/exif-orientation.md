@@ -1,4 +1,6 @@
-# EXIF Orientation
+# 🟢 EXIF Orientation
+
+<mark style="color:purple;background-color:purple;">**Use piexif library to change the orientation**</mark>
 
 The 8 EXIF orientation values are numbered 1 to 8.
 

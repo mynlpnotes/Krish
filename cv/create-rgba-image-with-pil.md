@@ -1,4 +1,4 @@
-# Create RGBA image with PIL
+# 🟢 Create RGBA image with PIL
 
 * <mark style="color:purple;background-color:purple;">**RGBA: Adds an Alpha channel to RGB, representing transparency.**</mark>
 * <mark style="color:purple;background-color:purple;">**PNG supports RGBA**</mark>

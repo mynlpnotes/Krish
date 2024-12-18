@@ -1,6 +1,6 @@
-# Alpha using OpenCV
+# 🟢 Alpha using OpenCV
 
-* OpenCV doesn't directly support adding an alpha channel to an image, you can achieve this by creating a new image with 4 channels (BGRA) and copying the original image data into it
+* <mark style="color:purple;background-color:purple;">**OpenCV doesn't directly support adding an alpha channel to an image, you can achieve this by creating a new image with 4 channels (BGRA) and copying the original image data into it**</mark>
 
 ```python
 # Create a new image with 4 channels (BGRA)

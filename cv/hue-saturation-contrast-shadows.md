@@ -1,4 +1,4 @@
-# Hue, Saturation, Contrast, Shadows
+# 🟠 Hue, Saturation, Contrast, Shadows
 
 * Hue: The attribute of a color (red, blue, yellow).
 * Saturation: The intensity or purity of a color.
