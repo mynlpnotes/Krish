@@ -1,13 +1,13 @@
-# Image Rotation 2
+# 🟠 Image Rotation 2
 
-* If we rotate by 20 degree then we wont get rhombus, but we will get space replaced with black pixels
-* getRotationMatrix2D() function generates a 2D rotation matrix that can be used to rotate an image around a specified center point by a given angle.
+* <mark style="color:purple;background-color:purple;">**If we rotate by 20 degree then we wont get rhombus, but we will get space replaced with black pixels**</mark>
+* <mark style="color:purple;background-color:purple;">**getRotationMatrix2D() function generates a 2D rotation matrix that can be used to rotate an image around a specified center point by a given angle.**</mark>
   * M = cv2.getRotationMatrix2D(center, angle, scale)
   * center : A tuple (x, y) representing the center point around which the image will be rotated.
   * angle : The angle of rotation in degrees. Positive values indicate counter-clockwise rotation, while negative values indicate clockwise rotation.
   * scale : A scaling factor. A value of 1 means no scaling, values greater than 1 increase the size of the image, and values less than 1 decrease the size.
   * Returns a 2x3 rotation matrix that can be used with cv2.warpAffine() to apply the rotation to an image.
-* cv2.warpAffine() function applies an affine transformation to an image. It can be used to perform various transformations such as rotation, translation, and scaling.
+* <mark style="color:purple;background-color:purple;">**cv2.warpAffine() function applies an affine transformation to an image. It can be used to perform various transformations such as rotation, translation, and scaling.**</mark>
 * dst = cv2.warpAffine(src, M, dsize)
 * src : source image
 * M : The 2x3 transformation matrix, which can be obtained from cv2.getRotationMatrix2D() or other transformation functions.

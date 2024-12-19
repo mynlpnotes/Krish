@@ -1,6 +1,7 @@
-# Resize
+# 🟢 Resize
 
-* 8 times size reduced here
+* <mark style="color:purple;background-color:purple;">**8 times size reduced here**</mark>
+* <mark style="color:purple;background-color:purple;">**cv2.resize()**</mark>
 
 ```python
 height, width, _ = image.shape

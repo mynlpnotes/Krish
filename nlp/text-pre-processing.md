@@ -4,6 +4,7 @@
 * Data can be messy and have lot of ambiguity
 * Latest LLM have very good reasoning capability so there data cleaning is not always required
 * But if LLM is hallucinating then it is required
+* Libraries: NLTK, Textblob, Spacy
 
 ```python
 import pandas as pd

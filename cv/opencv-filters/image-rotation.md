@@ -1,10 +1,11 @@
-# Image Rotation
+# 🟢 Image Rotation
 
-We can rotate images by specific angles. Below are the example:
+<mark style="color:purple;background-color:purple;">**We can rotate images by specific angles. Below are the example:**</mark>
 
-* cv2.ROTATE\_90\_CLOCKWISE
-* cv2.ROTATE\_90\_COUNTERCLOCKWISE
-* cv2.ROTATE\_180
+* <mark style="color:purple;background-color:purple;">**cv2.rotate**</mark>
+* <mark style="color:purple;background-color:purple;">**cv2.ROTATE\_90\_CLOCKWISE**</mark>
+* <mark style="color:purple;background-color:purple;">**cv2.ROTATE\_90\_COUNTERCLOCKWISE**</mark>
+* <mark style="color:purple;background-color:purple;">**cv2.ROTATE\_180**</mark>
 
 ```python
 # Rotate

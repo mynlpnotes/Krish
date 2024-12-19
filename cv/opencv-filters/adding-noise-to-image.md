@@ -1,7 +1,7 @@
-# Adding Noise to image
+# 🟢 Adding Noise to image
 
-* Training data which we scrap from internet which will be HD, but in real life we dont get such images
-* So we need to add noise to images to replicate real world situation
+* <mark style="color:purple;background-color:purple;">**Training data which we scrap from internet which will be HD, but in real life we don't get such images**</mark>
+* <mark style="color:purple;background-color:purple;">**So we need to add noise to images to replicate real world situation**</mark>
 
 ```python
 image = cv2.imread('./data/beach-blue.jpg')

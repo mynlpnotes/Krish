@@ -1,7 +1,9 @@
-# Enhancing Images: Contrast Adjustment, Sharpening
+# 🟢 Enhancing Images: Contrast Adjustment, Sharpening
 
-* We can apply CLAHE on grayscale
-* To apply CLAHE on RGB we will have to apply on individual channels and then merge them, or instead we can also use LAB
+* <mark style="color:purple;background-color:purple;">**We can apply CLAHE on grayscale**</mark>
+* <mark style="color:purple;background-color:purple;">**To apply CLAHE on RGB we will have to apply on individual channels and then merge them, or instead we can also use LAB**</mark>
+* <mark style="color:purple;background-color:purple;">**clahe = cv2.createCLAHE(clipLimit=2.0, tileGridSize=(8, 8))**</mark>&#x20;
+* <mark style="color:purple;background-color:purple;">**cl1 = clahe.apply(gray)**</mark>
 
 ```python
 # CLAHE for greyscale

@@ -1,4 +1,4 @@
-# Reading from video stream
+# 🟢 Reading from video stream
 
 ```python
 import cv2

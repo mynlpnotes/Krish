@@ -1,6 +1,6 @@
-# Resize to a different aspect ratio to 1:1
+# 🟢 Resize to a different aspect ratio to 1:1
 
-* Yolo uses square resolution, that means 1:1 -> lenght = height
+* <mark style="color:purple;background-color:purple;">**Yolo uses square resolution, that means 1:1 ⇒  length = height**</mark>
 
 ```python
 height, width, _ = image.shape

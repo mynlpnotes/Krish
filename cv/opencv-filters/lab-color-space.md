@@ -1,6 +1,6 @@
-# LAB Color Space
+# 🟠 LAB Color Space
 
-To apply CLAHE on RGB images we will use LAB colour space. LAB color space is a color model designed to approximate human vision, often used for image processing tasks like color correction and contrast adjustment.
+<mark style="color:purple;background-color:purple;">**To apply CLAHE on RGB images we will use LAB colour space**</mark>. LAB color space is a color model designed to approximate human vision, often used for image processing tasks like color correction and contrast adjustment.
 
 * L Channel (Lightness)
   * Values range from 0 (black) to 100 (white).

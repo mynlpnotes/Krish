@@ -1,6 +1,6 @@
-# Flipping Image
+# 🟢 Flipping Image
 
-Syntax : image = cv2.flip(img, flipCode)
+<mark style="color:purple;background-color:purple;">**Syntax : image = cv2.flip(img, flipCode)**</mark>
 
 * flipCode = 0: Flips the image vertically (around the x-axis).
 * flipCode = 1: Flips the image horizontally (around the y-axis).

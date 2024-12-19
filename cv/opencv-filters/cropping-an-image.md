@@ -1,12 +1,12 @@
-# Cropping an image
+# 🟢 Cropping an image
 
-Cropping is done by slicing the image array
+<mark style="color:purple;background-color:purple;">**Cropping is done by slicing the image array**</mark>
 
-The top leftmost point of image is 0,0
+<mark style="color:purple;background-color:purple;">**The top leftmost point of image is 0,0**</mark>
 
-* image\[y1:y2, x1:x2]
-* y1:y2: Defines the height
-* x1:x2: Defines the width
+* <mark style="color:purple;background-color:purple;">**image\[y1:y2, x1:x2]**</mark>
+* <mark style="color:purple;background-color:purple;">**y1:y2: Defines the height**</mark>
+* <mark style="color:purple;background-color:purple;">**x1:x2: Defines the width**</mark>
 
 ```python
 # Cropping an image
