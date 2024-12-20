@@ -1,6 +1,6 @@
-# Decoding NN
+# 🟢 Decoding NN - Skip
 
-* &#x20;We have a 7X7 image of 2
+* We have a 7X7 image of 2
 * We have 4 different patterns here (low level features)
 * In NN input we will have 49 nodes, we will have to flatten the matrix for feeding to the NN
 * Early layers are responsible for low level features

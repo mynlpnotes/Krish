@@ -1,4 +1,4 @@
-# Perceptron Origin
+# 🟢 Perceptron Origin - Skip
 
 * A hypothetic nervous system or machine designed to illustrate some of fundamental properties of intelligent system
 * In 1957, frank rosenbolt simulated perceptron on an IBM 704

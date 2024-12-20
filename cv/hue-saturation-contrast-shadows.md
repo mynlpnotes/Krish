@@ -1,5 +1,7 @@
 # 🟠 Hue, Saturation, Contrast, Shadows
 
+<mark style="color:purple;background-color:purple;">**We will separate H, S and V  and then plot their histogram to see the distribution**</mark>
+
 * Hue: The attribute of a color (red, blue, yellow).
 * Saturation: The intensity or purity of a color.
 * Contrast: The difference between light and dark areas of an image.

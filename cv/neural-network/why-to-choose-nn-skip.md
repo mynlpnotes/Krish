@@ -1,4 +1,4 @@
-# Why to choose NN
+# 🟢 Why to choose NN - Skip
 
 Limitations of traditional methods:
 

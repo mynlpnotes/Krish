@@ -1,18 +1,10 @@
-# Types of NN
+# 🟢 Types of NN
 
-Multi-layer perceptron:
+<mark style="color:purple;background-color:purple;">**Multi-layer perceptron:**</mark> Good for regression, classification
 
-* Good for regression, classification
+<mark style="color:purple;background-color:purple;">**Convolution NN:**</mark> Good for image data
 
-Convolution NN:
+<mark style="color:purple;background-color:purple;">**RNN:**</mark> Sequential data
 
-* Good for image data
-
-RNN:
-
-* Sequential data
-
-Transformers:
-
-* For attention mechanism
+<mark style="color:purple;background-color:purple;">**Transformers:**</mark> For attention mechanism
 

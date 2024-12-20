@@ -1,4 +1,4 @@
-# Neural Network
+# 🟢 Neural Network - Skip
 
 * Is a computation model inspired by the structure of human brain
 * It consists of interconnected layers of nodes

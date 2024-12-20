@@ -1,4 +1,4 @@
-# Mathematics
+# 🟢 Mathematics - Skip
 
 * &#x20;A01, A02, A03 are the activations of the neuron
 * There will be 49 + 49 + 49 weights and 1 bias for each neuron

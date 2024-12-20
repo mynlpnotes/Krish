@@ -1,6 +1,6 @@
-# Noise
+# 🟢 Noise
 
-* Adding noise to reflect real world scenario
+* <mark style="color:purple;background-color:purple;">**Adding noise to reflect real world scenario**</mark>
 * Random variation in pixel intensity
 *
 

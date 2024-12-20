@@ -1,4 +1,6 @@
-# Cost Function
+# 🟢 Cost Function
+
+<mark style="color:purple;background-color:purple;">**Loss function is for a single instance, whereas cost function is for the entire dataset**</mark>
 
 * Suppose this is last layer of NN
 * Suppose input image is of 1

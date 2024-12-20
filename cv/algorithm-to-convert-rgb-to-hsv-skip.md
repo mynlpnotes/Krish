@@ -1,4 +1,4 @@
-# 🟢 Convert RGB to HSV
+# ✈️ Algorithm to convert RGB to HSV - Skip
 
 Using an algorithm we can convert RGB to HSV:
 

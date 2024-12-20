@@ -1,4 +1,4 @@
-# Working of NN - 1
+# 🟢 Working of NN - 1
 
 * We divide the data into train, validation and test
 * Train is used to train the model
@@ -10,7 +10,7 @@
 *
 
     <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-* We want to create generalized model and not have overfitting
-* To prevent overfiting, we use dropout
-* Dropout will randomly block and make neuron inactive during training
+* <mark style="color:purple;background-color:purple;">**We want to create generalized model and not have overfitting**</mark>
+* <mark style="color:purple;background-color:purple;">**To prevent overfiting, we use dropout**</mark>
+* <mark style="color:purple;background-color:purple;">**Dropout will randomly block and make neuron inactive during training**</mark>
 *

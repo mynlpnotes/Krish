@@ -1,4 +1,4 @@
-# Find Shapes and Bounding Boxes
+# ✈️ Find Shapes and Bounding Boxes
 
 * You can use contour approximation to detect specific shapes like triangles or rectangles. Contour approximation in OpenCV simplifies the shape of a contour by reducing the number of vertices while retaining the overall shape of the contour
 *

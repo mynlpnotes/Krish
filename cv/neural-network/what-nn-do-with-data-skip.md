@@ -1,4 +1,4 @@
-# What NN do with data?
+# 🟢 What NN do with data? - Skip
 
 Compression:
 

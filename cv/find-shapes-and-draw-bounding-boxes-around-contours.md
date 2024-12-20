@@ -1,4 +1,4 @@
-# Find shapes and draw Bounding Boxes Around Contours
+# ✈️ Find shapes and draw Bounding Boxes Around Contours
 
 ```python
 import cv2

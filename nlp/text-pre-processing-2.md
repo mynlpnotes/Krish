@@ -62,4 +62,26 @@ def remove_emoji(text):
     return clean_text
 
 emoji.is_emoji("thumbs up") # False
+
+# Stemming
+from nltk.stem import PorterStemmer
+
+def stemming(text):
+    obj=PorterStemmer()
+
+    stem_word=[obj.stem(word) for word in text.split()]
+
+    return stem_word
+
+# Lemmatization
+from nltk.stem import WordNetLemmatizer
+
+def lammatization(text):
+    words=text.split()
+
+    lemmetizer=WordNetLemmatizer()
+
+    lemetized_word=[lemmetizer.lemmatize(word) for word in words]
+    
+    return lemetized_word
 ```
