@@ -1,6 +1,6 @@
-# CNN
+# 🟢 CNN
 
-* Type of DL model which is effective for image processing and other task that are based on grid like data
+* <mark style="color:purple;background-color:purple;">**Type of DL model which is effective for image processing and other task that are based on grid like data**</mark>
 
 Components of CNN:
 

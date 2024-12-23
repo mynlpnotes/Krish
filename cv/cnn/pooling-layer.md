@@ -1,7 +1,7 @@
-# Pooling Layer
+# 🟢 Pooling Layer
 
-* Pooling is used to reduce dimension
-* It picks the most prominent feature
+* <mark style="color:purple;background-color:purple;">**Pooling is used to reduce dimension**</mark>
+* <mark style="color:purple;background-color:purple;">**It picks the most prominent feature**</mark>
 * Suppose we perform convolution on R channel with stride of 2 and kernel of 3X3
 * After convolution output is of size 5X5
 * How can we reduce more?

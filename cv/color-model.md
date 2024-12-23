@@ -2,7 +2,7 @@
 
 A color model is a mathematical model that describes the way colors can be represented as a set of numbers.
 
-* <mark style="color:purple;background-color:purple;">**Pillow used RGB**</mark>
+* <mark style="color:purple;background-color:purple;">**Pillow uses RGB**</mark>
 * <mark style="color:purple;background-color:purple;">**OpenCV uses BGR**</mark>
 
 1. **RGB (Red, Green, Blue)**

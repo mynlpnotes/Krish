@@ -1,4 +1,4 @@
-# Output size calculation
+# 🟢 Output size calculation
 
 * Input image: 60X60
 * Kernel: 3X3
