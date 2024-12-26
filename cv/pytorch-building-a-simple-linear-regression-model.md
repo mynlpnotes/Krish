@@ -1,5 +1,24 @@
 # Pytorch - Building a simple linear regression model
 
+Steps:
+
+* Declare a class with superclass as nn.module
+* In constructor we will define the layers
+* In method forward we will apply the transformation
+* Create instance of model
+* Define loss function
+* Define optimizer
+* For the n epochs do the following
+  * take the y pred
+  * Calculate loss
+  * Zero gradients ⇒ Clear old gradients before&#x20;
+  * Compute gradients ⇒ loss.backward()
+  * Update parameters  ⇒ optimizer.step()
+  * Print the progress
+* torch.nograd() ⇒ we dont want to calculate gradients
+* Predict using the model
+* torch.squeeze() removes dimensions of size 1 from a tensor, effectively "squeezing" it into a shape with fewer dimensions. This is useful for simplifying the shape of tensors when such dimensions are unnecessary
+
 ```python
 import torch.nn as nn
 

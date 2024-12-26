@@ -1,4 +1,4 @@
-# Gradient Descent / Weight Updation
+# 🔴 Gradient Descent / Weight Updation
 
 * Now that we back propagation is done and we have calculated gradients, we will do weight updation i.e., Gradient Descent
 *

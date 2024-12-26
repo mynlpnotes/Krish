@@ -1,4 +1,4 @@
-# Batch Normalization
+# ✈️ Batch Normalization
 
 * When we optimize with only 1 image at a time it is called SGD
   * We will take 1 image -> Train -> Calculate Loss -> Optimize -> Image 2

@@ -1,7 +1,7 @@
-# Derivative
+# 🟢 Derivative
 
-* Measures how a function changes as its input changes&#x20;
-* It tells us slope or rate of change of an function at a given point
+* <mark style="color:purple;background-color:purple;">**Measures how a function changes as its input changes**</mark>&#x20;
+* <mark style="color:purple;background-color:purple;">**It tells us slope or rate of change of an function at a given point**</mark>
 * It tell us how steep is the curve of a function at a specific point and in which direction it is going
 * Lets say we have a function -> = $$f(x) = x ^2$$
 * f(1) = 1, f(2) = 4
@@ -18,8 +18,3 @@
 *   $$\frac{d}{dy} = 2y + 3$$  -> Rate of change in the y direction
 
     <figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="342"><figcaption></figcaption></figure>
-*
-
-
-
-*

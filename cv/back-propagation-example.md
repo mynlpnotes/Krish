@@ -1,4 +1,4 @@
-# Back Propagation Example
+# 🔴 Back Propagation Example
 
 * &#x20;Below is a simple NN with 2 input and 1 output
 *   X1 = 0.5, X2 = 0.2, y = 2

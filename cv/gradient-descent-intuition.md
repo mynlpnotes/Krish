@@ -1,4 +1,4 @@
-# Gradient Descent Intuition
+# 🟠 Gradient Descent Intuition
 
 * &#x20;We have input X1 and output O1
 * Based on weight and biases we are getting output as 1.6, but actual value is 2
