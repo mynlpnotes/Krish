@@ -7,7 +7,7 @@
 * Pooling: 2
 * Image -> Conv -> Op1 -> Max pooling -> Op2
 
-Output: ![](<../../.gitbook/assets/image (1) (1) (1) (1).png>)
+Output: ![](<../../.gitbook/assets/image (1) (1) (1) (1) (1).png>)
 
 
 

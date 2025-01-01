@@ -17,4 +17,4 @@ hidden: true
 * P(A | B) = Probability of occurrence of A provided we know B
 *
 
-    <figure><img src="../../.gitbook/assets/image (10) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
