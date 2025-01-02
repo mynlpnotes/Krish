@@ -1,6 +1,6 @@
-# Stopwords
+# 🟢 Stopwords
 
-* Remove the common language words which are not important for the model
+* <mark style="color:purple;background-color:purple;">**Remove the common language words which are not important for the model**</mark>
 
 ```python
 from nltk.corpus import stopwords

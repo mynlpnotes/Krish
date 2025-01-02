@@ -8,7 +8,7 @@
 * The graph of the function will be parabola
 *
 
-    <figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 * Blue curve is the function f(x)&#x20;
 * Derivate of this function will be 2x
 * Red line is the derivative of f(x)

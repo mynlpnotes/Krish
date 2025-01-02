@@ -1,4 +1,9 @@
-# Tokenization Practicals
+# 🟢 Tokenization Practicals
+
+* <mark style="color:purple;background-color:purple;">**print((corpus)) # This will not display /n**</mark>
+* <mark style="color:purple;background-color:purple;">**Use nltk for tokenization**</mark>
+  * <mark style="color:purple;background-color:purple;">**sent\_tokenize ⇒ for sentence tokenization — breaks at /n . !**</mark>
+  * <mark style="color:purple;background-color:purple;">**word\_tokenize ⇒ for word tokenization**</mark>
 
 ```python
 ##  Tokenization
