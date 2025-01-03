@@ -7,4 +7,4 @@
 * If multi class then we will be using softmax
 *   We will calculate loss, and then we will do back propagation to reduce the loss
 
-    <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>

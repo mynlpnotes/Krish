@@ -8,7 +8,7 @@
 * To reduce the loss, we need to update the weights (Wi, Wh, W0) using the weight updation formula
 *
 
-    <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 * Update weight:
 * W0 is directly dependent of ypred and ypred is direct dependent on loss
 * Wh is used in each and every time stamp
@@ -19,4 +19,4 @@
     <figure><img src="../../.gitbook/assets/{4F202281-3BF9-479C-BC26-CCCDF6245426}.png" alt=""><figcaption></figcaption></figure>
 *
 
-    <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>

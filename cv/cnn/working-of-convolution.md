@@ -7,7 +7,7 @@
     * Sobel filter
       *   For detecting horizontal edges
 
-          <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt="" width="147"><figcaption></figcaption></figure>
+          <figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt="" width="147"><figcaption></figcaption></figure>
     * Horizontal edges
 
 
@@ -18,7 +18,7 @@
 * <mark style="color:purple;background-color:purple;">**The operation of moving kernel on the image is known an convolve function**</mark>
 *   It extracts only the relevant information based on the kernel
 
-    <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (7) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * We are able to reduce the size of the image
 * If we increase stride then there will be more information loss
 * If we reduce stride then image size will be more
