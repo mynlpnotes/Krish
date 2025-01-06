@@ -5,4 +5,4 @@
 * I stay in india and i speak \_\_\_\_
 *   Here indian context will be stored in memory
 
-    <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>

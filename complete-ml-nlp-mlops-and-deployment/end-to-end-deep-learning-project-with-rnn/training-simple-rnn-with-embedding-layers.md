@@ -1,4 +1,6 @@
-# Training simple RNN with embedding layers
+# 🟢 Training simple RNN with embedding layers
+
+* <mark style="color:purple;background-color:purple;">**In the NN, we will add 1st layer as embedding in which we will specify vocabulary size, dimension and sequ**</mark>
 
 ```python
 ## Train Simple RNN

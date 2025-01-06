@@ -1,6 +1,7 @@
-# Implementing Word Embedding with Keras Tensorflow
+# 🟢 Implementing Word Embedding with Keras Tensorflow
 
-* We need all the sentences to be of equal size, so that's why we use padding
+* <mark style="color:purple;background-color:purple;">**We need all the sentences to be of equal size, so that's why we use padding**</mark>
+* <mark style="color:purple;background-color:purple;">**We 1st do OHE, then add padding to make them equal lenght and then we do embedding**</mark>
 * We can use pre padding - 0 will be added in front
 * Post padding - 0 will be added at the end
 

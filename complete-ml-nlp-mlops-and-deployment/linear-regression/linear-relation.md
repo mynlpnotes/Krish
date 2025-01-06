@@ -8,4 +8,4 @@
 * <mark style="color:purple;background-color:purple;">**If we have equation then we can give input and we will get corresponding output**</mark>
 *   <mark style="color:purple;background-color:purple;">**R2 will tell how much accurate is the prediction**</mark>
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

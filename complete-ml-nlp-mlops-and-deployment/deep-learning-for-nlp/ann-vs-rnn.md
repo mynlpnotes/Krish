@@ -1,4 +1,4 @@
-# ANN vs RNN
+# 🟢 ANN vs RNN
 
 * Dataset (Sentiment Analysis)
 
@@ -14,5 +14,5 @@
 * So vocabulary is 4 here
 * We can use BOW to convert text int vector
 * Since this is text data, sequence information is important, but after encoding the order will be lost
-* Whenever we work with text data, it is always a good idea to give 1 word at a time to the network
-* So for this we use will be using RNN
+* <mark style="color:purple;background-color:purple;">**Whenever we work with text data, it is always a good idea to give 1 word at a time to the network**</mark>
+* <mark style="color:purple;background-color:purple;">**So for this we use will be using RNN**</mark>

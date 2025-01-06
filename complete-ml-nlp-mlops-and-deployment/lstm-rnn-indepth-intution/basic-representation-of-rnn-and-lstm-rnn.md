@@ -5,4 +5,4 @@
 * Responsibility of long term memory is to add what context is required and remove context which is not required
 *
 
-    <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>

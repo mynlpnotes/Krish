@@ -1,4 +1,4 @@
-# Loading and Understanding Dataset and Feature Engineering
+# 🟢 Loading and Understanding Dataset and Feature Engineering
 
 ```python
 import numpy as np
@@ -9,7 +9,6 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Embedding,SimpleRNN,Dense
 
 ## Load the imdb dataset
-
 max_features=10000 ##vocabulary size
 (X_train,y_train),(X_test,y_test)=imdb.load_data(num_words=max_features)
 
@@ -25,7 +24,7 @@ sample_review=X_train[0]
 sample_label=y_train[0]
 
 
-### MApping of words index bacl to words(for understanding)
+### Mapping of words index back to words(for understanding)
 word_index=imdb.get_word_index()
 #word_index
 reverse_word_index = {value: key for key, value in word_index.items()}
@@ -42,9 +41,5 @@ max_len=500
 
 X_train=sequence.pad_sequences(X_train,maxlen=max_len)
 X_test = sequence.pad_sequences(X_test, maxlen=max_len)
-
-
-
-
 
 ```
