@@ -2,7 +2,7 @@
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Lets say x11 x12 x13 x14 is input text and y15 is the next word
 * Every word will be converted into vector
 * Lets say input dimension is 4, dimension of ht-1 be 3
@@ -21,7 +21,7 @@
 * If ft = \[1 1 1] ⇒ No change in context
 *   If ft = \[0.5 1 0.5] ⇒ So context will be removed
 
-    <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Conclusion:**
 
