@@ -13,7 +13,7 @@
 * For the new dataset, it will check distance from the hyperplane/margin to predict the class
 *
 
-    <figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Pseudo code:
   * Take training dataset
   * Find number of lines which can be used for separation and margin

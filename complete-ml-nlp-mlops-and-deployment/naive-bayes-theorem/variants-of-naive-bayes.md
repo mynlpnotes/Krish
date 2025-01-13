@@ -8,14 +8,14 @@
 * When we convert features into 0 and 1, then it will have sparse representation (maximum 0s and few 1s)
 *   <mark style="color:purple;background-color:purple;">**For NLP problems we can use multinomial as well as Bernoulli naives bayes as well**</mark>
 
-    <figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. **Multinomial Naive Bayes:**
 
 * If input is in the form of text
 *   Text will be converted into number using NLP techniques like BOW, Tf-Idf, word2vec
 
-    <figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (9) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 *
 
     <figure><img src="../../.gitbook/assets/image (10) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

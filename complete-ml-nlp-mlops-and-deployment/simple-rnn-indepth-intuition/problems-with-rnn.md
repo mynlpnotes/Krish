@@ -9,7 +9,7 @@
 * If a sentence has 100 words, then at t = 100 we will calculate back propagation
 *
 
-    <figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * The long term dependency cannot be captured by RNN&#x20;
 * If the length is 3
 *   For updating weight Wh, in gradient calculation we need to add for 3 time stamps

@@ -18,4 +18,4 @@
   * We should always to try to get vector in relation with other words
   *
 
-      <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>

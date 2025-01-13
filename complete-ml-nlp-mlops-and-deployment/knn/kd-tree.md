@@ -18,6 +18,6 @@ hidden: true
 * Then again do the same on both the sides repeatedly
 *
 
-    <figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (8) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * If the input is 10 and if k = 3, then neighbour will be (9,3), (9,1) and (8,5)
 * So output will be ( 5 + 1 + 3) / 3 = 3

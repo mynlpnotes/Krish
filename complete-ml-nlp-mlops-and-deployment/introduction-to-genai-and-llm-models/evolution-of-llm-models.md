@@ -1,4 +1,4 @@
-# 🟢 Evolution of LLM models
+# ✈️ Evolution of LLM models
 
 * 1967 - Eliza
 * 1988 - Advancement started ⇒ RNN

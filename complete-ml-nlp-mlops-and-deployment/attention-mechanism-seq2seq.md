@@ -4,7 +4,7 @@
 * From encoder we get hidden state - S0 and C - Context vector
 *
 
-    <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 * **Attention Mechaism:**
 * In the encoder, we will be using bi directional LSTM
 * In 1st RNN data will go t1 to t3 and in 2nd it will go t3 to t1

@@ -9,4 +9,4 @@
 * For fixing this, we used attention mechanism (For longer sentences along with context vector we will pass additional context)
 *
 
-    <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>

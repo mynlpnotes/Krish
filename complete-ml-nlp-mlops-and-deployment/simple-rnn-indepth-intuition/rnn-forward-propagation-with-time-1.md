@@ -11,4 +11,4 @@
 * <mark style="color:purple;background-color:purple;">**O3 = f(x13.w + O2.w" + b1)**</mark>
 *
 
-    <figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
