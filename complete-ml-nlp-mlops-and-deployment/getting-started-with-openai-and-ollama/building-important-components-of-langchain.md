@@ -1,4 +1,4 @@
-# Building important Components of LangChain
+# 🟢 Building important Components of LangChain
 
 * Since we have already set environment variables, so we dont need to explicity pass key for calling the API
 * In LangSmith, we will be able to see all the request, time etc
