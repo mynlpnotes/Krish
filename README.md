@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Gen AI
 
 * ML is subset of AI
