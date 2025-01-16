@@ -1,4 +1,4 @@
-# Spam Ham project using BOW
+# 🟢 Spam Ham project using BOW
 
 ```python
 messages # Data frame with columns - label and message

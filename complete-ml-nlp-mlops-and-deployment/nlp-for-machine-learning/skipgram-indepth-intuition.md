@@ -1,14 +1,14 @@
-# Skipgram Indepth Intuition
+# 🟢 Skipgram Indepth Intuition
 
-* Here input and output is reversed
+* <mark style="color:purple;background-color:purple;">**Here input and output is reversed**</mark>
 *
 
     <figure><img src="../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
-**When show we apply:**
+<mark style="color:purple;background-color:purple;">**When show we apply:**</mark>
 
-* CBOW -> Small dataset
-* SkipGram -> Huge dataset
+* <mark style="color:purple;background-color:purple;">CBOW ⇒  Small dataset</mark>
+* <mark style="color:purple;background-color:purple;">SkipGram ⇒ Huge dataset</mark>
 
 **How can it be improved:**
 
@@ -17,8 +17,8 @@
 
 
 
-Google word2vec:
+<mark style="color:purple;background-color:purple;">**Google word2vec:**</mark>
 
-* Trained on 3 billion words
-* Feature representation of 300
-* Example: Cricket = \[....300 dimension....]
+* <mark style="color:purple;background-color:purple;">**Trained on 3 billion words**</mark>
+* <mark style="color:purple;background-color:purple;">**Feature representation of 300**</mark>
+* <mark style="color:purple;background-color:purple;">**Example: Cricket = \[....300 dimension....]**</mark>

@@ -88,11 +88,11 @@ Q,K,V ⇒ Dimension - 4
   * When we apply softmax to 6,4 then there is lot of difference between output
   *   When we do back propagation then the small value will cause vanishing gradient problem
 
-      <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 * Dot product with scaling:
   *   Here the attention weights are more balanced compared to the unscaled case
 
-      <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Importance:
   * Scaling prevents extremely large dot products, which helps in stabilizing the gradients during back propagation, making the training process more stable and effecient
   * By scaling the dot products, the softmax function produces more balanced attention weights

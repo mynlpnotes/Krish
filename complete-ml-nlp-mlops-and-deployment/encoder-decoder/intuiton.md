@@ -15,7 +15,7 @@
 * In LSTM <mark style="color:purple;background-color:purple;">**we will pass entire sentence along with <\<sos>> (start of statement) and <\<eos>> (end of sentence) in encoder and decoder**</mark>
 *
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * In Encoder we give every word one by one to LSTM, so we will be passing embedding of <\<sos>> will be used
 * At next time stamp, next word 'thank' will be passed and so on
 * **Long term and short term memory combined is known as context vectors**

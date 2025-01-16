@@ -3,8 +3,8 @@
 * Stemming is the process of <mark style="color:purple;background-color:purple;">**reducing a word to its word stem**</mark>
 * Stemming is important in natural language understanding (NLU) and natural language processing (NLP)
 * <mark style="color:purple;background-color:purple;">**Disadvantage: After stemming for some of words, we may not get a correct exact meaning**</mark>
-* For use case like Spam/Ham we should use stemming
-* For use case like chatbot we cannot use this
+* <mark style="color:purple;background-color:purple;">**For use case like Spam/Ham we should use stemming**</mark>
+* <mark style="color:purple;background-color:purple;">**For use case like chatbot we cannot use this**</mark>
 * Regular Expression Stemmer algorithms takes a single regular expression and removes any prefix or suffix that matches the expression
 * <mark style="color:purple;background-color:purple;">**Snowball stemmer is better version of the Porter Stemmer**</mark> since some issues of it were fixed in this stemmer.
 * We can also specify language here

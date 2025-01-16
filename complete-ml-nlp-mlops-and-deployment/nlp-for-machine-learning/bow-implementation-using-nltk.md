@@ -1,4 +1,13 @@
-# BOW implementation using NLTK
+# 🟢 BOW implementation using NLTK
+
+<mark style="color:purple;background-color:purple;">**Algo explained:**</mark>
+
+* <mark style="color:purple;background-color:purple;">Remove non alphabetic words using regular expression</mark>
+* <mark style="color:purple;background-color:purple;">Lowercase and split</mark>
+* <mark style="color:purple;background-color:purple;">Remove stopwords</mark>
+* <mark style="color:purple;background-color:purple;">Get the stem word</mark>
+* <mark style="color:purple;background-color:purple;">Combine and form the corpus</mark>
+* <mark style="color:purple;background-color:purple;">From nltk use count vectorizer.fit\_transform</mark>
 
 ```python
 # Spam and Ham example

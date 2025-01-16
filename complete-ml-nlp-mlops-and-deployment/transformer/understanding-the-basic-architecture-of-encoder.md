@@ -15,7 +15,7 @@
 * This are sent to feedforward NN
 *   <mark style="color:purple;background-color:purple;">**Since we are using self attention layer, so we can pass all the words parallelly**</mark>
 
-    <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * &#x20;The output of feed forward NN, will be sent to next encoder
 *
 
