@@ -8,4 +8,4 @@
 * <mark style="color:purple;background-color:purple;">**Hidden layer to Output layer: 3**</mark>
 *   <mark style="color:purple;background-color:purple;">**Bias: 4**</mark>
 
-    <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
