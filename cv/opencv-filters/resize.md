@@ -1,0 +1,28 @@
+# 🟢 Resize
+
+* <mark style="color:purple;background-color:purple;">**8 times size reduced here**</mark>
+* <mark style="color:purple;background-color:purple;">**cv2.resize()**</mark>
+
+```python
+height, width, _ = image.shape
+
+print(image.shape)
+
+image_ = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
+new_width = int(width/8)
+new_height = int(height/8)
+new_points = (new_width, new_height)
+# new_points = (400, 400)
+rescaled_img = cv2.resize(image_, new_points, interpolation= cv2.INTER_LINEAR)
+
+print(rescaled_img.shape)
+
+# Display the result
+plt.figure(figsize=(12, 8))
+
+plt.imshow(rescaled_img)
+plt.title("Resized Image")
+plt.show()
+```
+
+<figure><img src="../../.gitbook/assets/{15E96627-F67C-482D-9124-02D2221072B5}.png" alt=""><figcaption></figcaption></figure>

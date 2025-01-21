@@ -1,0 +1,24 @@
+# Optimization of KNN -KDTree and Ball Tree intuition
+
+* We should not check the distance with each and every point, we should create binary tree
+* We 1st find the median of f1 and f2
+* We will draw a line from median of f1 to the x axis, so we get 2 regions
+* We will round off median to the nearest actual point
+* We 1st split from 7,2 to x axis
+* Now we will draw a line from median of f2 to the y axis
+* We split 5,4 to y axis
+* Now we take region to the left&#x20;
+* <mark style="color:purple;background-color:purple;">**Take the median of f1 and f2 and do divisions**</mark>
+* <mark style="color:purple;background-color:purple;">**Similarly we will keep on doing divisions**</mark>
+* <mark style="color:purple;background-color:purple;">**Using this divisions we will create a binary tree**</mark>
+* <mark style="color:purple;background-color:purple;">**For the new test data, we can know to which region it belongs**</mark>
+* <mark style="color:purple;background-color:purple;">**From the point, we will traverse back and find the nearest points**</mark>
+*
+
+    <figure><img src="../../.gitbook/assets/image (361).png" alt=""><figcaption></figcaption></figure>
+* Group all the nearest point together
+* So we group 1,2 and then 3,4 and then 5,6,7 and 8, 9
+* Now combine nearest groups
+*
+
+    <figure><img src="../../.gitbook/assets/image (362).png" alt=""><figcaption></figcaption></figure>
