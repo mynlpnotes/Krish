@@ -1,9 +1,9 @@
 # 🟢 Intuiton
 
 * If we have a sentence in English and want to convert it into French, this is a many to many RNN
-* This is a seq2seq NN (Input as well as output are sequence)
+* This is a <mark style="color:purple;background-color:purple;">**seq2seq NN**</mark> (Input as well as output are sequence)
 * Chat is also seq2seq use case
-* For such cases we cannot use LSTM RNN etc
+* For such cases we cannot use LSTM RNN etc.
 * Embedding will convert words to vectors
 * <mark style="color:purple;background-color:purple;">**Encoder will take this vector and generate hidden state / context vector which will be passed to the decoder**</mark>
 *   <mark style="color:purple;background-color:purple;">**The decoder generates the output word-by-word and keeps feeding the previous word into the decoder again**</mark>
@@ -18,7 +18,7 @@
     <figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 * In Encoder we give every word one by one to LSTM, so we will be passing embedding of <\<sos>> will be used
 * At next time stamp, next word 'thank' will be passed and so on
-* **Long term and short term memory combined is known as context vectors**
+* <mark style="color:purple;background-color:purple;">**Long term and short term memory combined is known as context vectors**</mark>
 * In Decoder, our french training set is gracias ⇒ <\<sos>> Gracias <\<eos>>
 * Here also we will have LSTM
 * <mark style="color:purple;background-color:purple;">**1st we will pass <\<sos>> to decoder, then we pass it to a FCNN with softmax activation function**</mark>

@@ -1,38 +1,38 @@
-# Self attention layer working
+# 🟠 Self attention layer working
 
-* Also known as scaled-dot product attention, is a crucial mechanism in the transformer architecture that allows the model to weigh the importance of different tokens in the input sequence relative to the other
+* Also known as scaled-dot product attention, is a crucial mechanism in the transformer architecture that <mark style="color:purple;background-color:purple;">**allows the model to weigh the importance of different tokens in the input sequence relative to the other**</mark>
 * &#x20;The cat sat ⇒ this will be converted into vectors
-* When this vectors are passed through self attention layer, the output obtained here will be another vector and this vector is our contextual embedding
+* <mark style="color:purple;background-color:purple;">**When Embedding vectors are passed through self attention layer, the output obtained here will be another vector and this vector is our contextual embedding**</mark>
 * Embedding layer gives us fixed vector for a word
 * This are called contextual embedding because here we are going to take importance of different input tokens for generation
 *
 
     <figure><img src="../../.gitbook/assets/image (543).png" alt=""><figcaption></figcaption></figure>
 * Inputs: Queries, Keys and Values&#x20;
-* Model will be computing Q, K and V
+* <mark style="color:purple;background-color:purple;">**Model will be computing Q, K and V**</mark>
 
-Query Vector:
+<mark style="color:purple;background-color:purple;">**Query Vector:**</mark>
 
-* Represents the token for which we are calculating the attention
-* They help determine the importance of other tokens in the context of the current token
+* <mark style="color:purple;background-color:purple;">**Represents the token for which we are calculating the attention**</mark>
+* <mark style="color:purple;background-color:purple;">**They help determine the importance of other tokens in the context of the current token**</mark>
 * Importance:
   * Focus determination:
     * Queries help the model decide which parts of the sequence to focus on for each specific token. By calculating the dot product between a query vector and all key vectors, the model accesses how much attention to give to each token relative to the current token
   * Contextual Understanding:
     * Contribute to understanding the relationship between the current token and rest of the sequence, which is essential for capturing dependencies and context
 
-Key Vector:
+<mark style="color:purple;background-color:purple;">**Key Vector:**</mark>
 
-* Represents all the tokens in the sequence and are used to compare with the query vectors to calculate attention scores
+* <mark style="color:purple;background-color:purple;">**Represents all the tokens in the sequence and are used to compare with the query vectors to calculate attention scores**</mark>
 * Importance:
   * Relevance measurement:
     * Keys are compared with queries to measure the relevance or compatibility of each token with the current token. This comparison helps in determining how much attention each token should receive
   * Information retrieval:
     * Keys play a critical in retrieving the most relevant information from the sequence by providing a basis for the attention mechanism to compute similarity scores
 
-Value Vector:
+<mark style="color:purple;background-color:purple;">**Value Vector:**</mark>
 
-* Holds the actual information that will be aggregated to form the output of the attention mechanisms
+* <mark style="color:purple;background-color:purple;">**Holds the actual information that will be aggregated to form the output of the attention mechanisms**</mark>
 * Importance:
   * Information aggregation:&#x20;
     * Contain the data that will be weighted by the attention scores
@@ -54,7 +54,7 @@ Q,K,V ⇒ Dimension - 4
 
 2. Linear Transformation:
 
-* We create Q,K and V by multiplying the embeddings by learned weight matrices $$W_Q, W_K, W_V$$
+* <mark style="color:purple;background-color:purple;">**We create Q,K and V by multiplying the embeddings by learned weight matrices**</mark> $$W_Q, W_K, W_V$$
 * We will do dot operation and CAT and $$W_Q$$ to get Q and so on for V and K
 *   We will initialize weights and then using back propagation it will be learned
 
@@ -72,8 +72,8 @@ Q,K,V ⇒ Dimension - 4
 
 4. Scaling:
 
-* We take up the scores and scale down by dividing the scores by $$sqrt$$$$\sqrt{d_k}$$
-* Scaling in the attention mechanism is crucial to prevent the dot product from growing too large ⇒ To ensure stable gradients during training
+* <mark style="color:purple;background-color:purple;">**We take up the scores and scale down by dividing the scores by**</mark> $$sqrt$$$$\sqrt{d_k}$$
+* <mark style="color:purple;background-color:purple;">**Scaling in the attention mechanism is crucial to prevent the dot product from growing too large ⇒ To ensure stable gradients during training**</mark>
 * if $$d_k$$ is large
   * Gradient exploding
   * Softmax saturation
@@ -94,6 +94,7 @@ Q,K,V ⇒ Dimension - 4
 
       <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 * Importance:
+  * <mark style="color:purple;background-color:purple;">**If we dont apply scaling and then during backpropagation the gradients of softmax will be very small and can cause vanishing gradient problem, however if we apply scaling before softmax then gradient wont be too small**</mark>
   * Scaling prevents extremely large dot products, which helps in stabilizing the gradients during back propagation, making the training process more stable and effecient
   * By scaling the dot products, the softmax function produces more balanced attention weights
 *
@@ -108,7 +109,7 @@ Q,K,V ⇒ Dimension - 4
 
 6. Weighted sum of values:
 
-* We multiply the attention weights by corresponding values vector&#x20;
+* <mark style="color:purple;background-color:purple;">**We multiply the attention weights by corresponding values vector**</mark>&#x20;
 *
 
     <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
