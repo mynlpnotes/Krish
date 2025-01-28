@@ -1,4 +1,6 @@
-# Text Classification with Word2Vec and AvgWord2Vec
+# ❌ Text Classification with Word2Vec and AvgWord2Vec
+
+* Convert corpus into list of list (For every sentence, list of words)
 
 ```python
 # Spam/Ham classification

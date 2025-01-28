@@ -1,4 +1,16 @@
-# Kindle review sentiment analysis
+# 🟢 Kindle review sentiment analysis
+
+<mark style="color:purple;background-color:purple;">**Steps:**</mark>
+
+* <mark style="color:purple;background-color:purple;">**Remove null records from the dataset**</mark>
+* <mark style="color:purple;background-color:purple;">**Check the unique value for y (0 to 5) ⇒ Convert it into 0 to 1**</mark>
+* <mark style="color:purple;background-color:purple;">**Remove special characters, URL, stopwords, html tags, additional spaces**</mark>
+* <mark style="color:purple;background-color:purple;">**Lemmatize the data**</mark>
+* <mark style="color:purple;background-color:purple;">**On train using fit\_transform encode using tfidf/bow**</mark>
+* <mark style="color:purple;background-color:purple;">**On test use transform**</mark>
+* <mark style="color:purple;background-color:purple;">**Apply the algorithm**</mark>
+
+
 
 * Dataset:
   * asin - ID of the product, like B000FA64PK

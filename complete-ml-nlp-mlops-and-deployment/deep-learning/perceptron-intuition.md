@@ -6,7 +6,7 @@
 * Used in solving binary classifier
 * Dataset: Input: IQ, No. of study hours. Output: Pass/Fail
 * We need to train weights&#x20;
-* Insde a neuron 2 process happen:&#x20;
+* Inside a neuron 2 process happen:&#x20;
 * Step 1: Summation of weights and inputs + bias
 * Step 2: Apply activation function
 * Weights are initially randomly processed, if all weights are 0 and there is no bias then there will be no output of neuron, so we add bias as noise

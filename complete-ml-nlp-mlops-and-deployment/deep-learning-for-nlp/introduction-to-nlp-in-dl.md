@@ -1,4 +1,4 @@
-# 🟢 Introduction to NLP in DL
+# ✈️ Introduction to NLP in DL
 
 * ANN was used for solving problems such as classification / regression ⇒ Here the data was tabular
 * <mark style="color:purple;background-color:purple;">**Even if we change the sequence of data then also it wont be an issue in ANN**</mark>

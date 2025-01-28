@@ -1,6 +1,6 @@
-# 🔴 Simple RNN Backward Propagation
+# 🔔 Simple RNN Backward Propagation
 
-* &#x20;We will be passing xi1 at t = 1
+* We will be passing xi1 at t = 1
 * Initially some weights will be assigned
 * O0 can be initialized as zero or any random value
 * Using forward pass we will get O1, O2....O4
