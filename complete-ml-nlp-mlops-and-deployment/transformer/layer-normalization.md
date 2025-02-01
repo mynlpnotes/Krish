@@ -2,14 +2,14 @@
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 * After multi head attention there is add and normalize step
 * Residual: Vector which are got after getting positional encoding
 * They provide additional signal to layer normalization
 * &#x20;Before passing multi head attention to feed forward, we will apply layer normalization
 *
 
-    <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Normalization:
 
