@@ -44,5 +44,5 @@ yolo
 * Better to train on GPU
 *   In val we have 20 images, in which there are total 65 instances (18 of head, 45 of helmet....), we also have precision and recall here
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
