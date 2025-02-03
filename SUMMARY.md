@@ -673,6 +673,8 @@
   * [RCNN](cv/rcnn.md)
   * [Fast RCNN](cv/fast-rcnn.md)
   * [Faster RCNN](cv/faster-rcnn.md)
+  * [Pascal Format](cv/pascal-format.md)
+  * [Coco Format](cv/coco-format.md)
   * [Yolo](cv/yolo.md)
 * [NLP](nlp/README.md)
   * [Types of GenAI Model](nlp/types-of-genai-model.md)
