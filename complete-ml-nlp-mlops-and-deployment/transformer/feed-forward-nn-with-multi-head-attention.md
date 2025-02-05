@@ -5,17 +5,17 @@
 * <mark style="color:purple;background-color:purple;">**We need to combine all the context vectors from all the attention heads before sending it to NN and then do forward and backward propagation**</mark>
 *
 
-    <figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (17) (1).png" alt=""><figcaption></figcaption></figure>
 * Every head will have different Q,K and V
 *   <mark style="color:purple;background-color:purple;">**We concatenate all the attention heads, we do a dot product W0 ⇒ This will give us Z**</mark>
 
-    <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 *
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 *   &#x20;
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Here we can see that with respect to every word, for every encoder and every head, how much importance each word gives to other word
 *
 

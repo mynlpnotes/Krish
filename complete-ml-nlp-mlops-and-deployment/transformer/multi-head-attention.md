@@ -6,10 +6,10 @@
 * This is how we get self attention
 *
 
-    <figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption></figcaption></figure>
 * We can also create multiple attention heads for the same words
 * Initially we initialize some different weights and then calculated contextual vector&#x20;
 * Similarly <mark style="color:purple;background-color:purple;">**we can initialize some other weight which may capture importance of some other important words and we may get another contextual vector**</mark>
 *   Multi head attention attends models ability to focus on different positions of tokens
 
-    <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (16) (1).png" alt=""><figcaption></figcaption></figure>
