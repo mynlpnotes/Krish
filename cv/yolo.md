@@ -7,6 +7,8 @@
 * It has train test, test and val folders and each folder has images and labels
 * data.yaml ⇒ has information about number of classes and lables
 * We keep images and labels in different structure, coz so that if data annotation team makes any correction then they would have to store only labels.txt
+* We can convert from coco annotation to yolo annotations also
+*
 
 **Project Structure:**
 
@@ -45,4 +47,36 @@ yolo
 *   In val we have 20 images, in which there are total 65 instances (18 of head, 45 of helmet....), we also have precision and recall here
 
     <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+* export.py ⇒ to convert pt model to torch script/onnx etc
+* detect.py ⇒ for inferecing
+* val.py to check the performance of the model on new dataset
+  * python val.py --weights <\<path of the trained last/best weights>> <\<device>>
+  *
 
+      <figure><img src="../.gitbook/assets/{287060E0-8AC4-4185-9A9A-564F3CBF7A2C}.png" alt=""><figcaption></figcaption></figure>
+* runs ⇒ detect ⇒ all the inferences
+* runs ⇒ trains ⇒ all the training done till now, confusion matrix etc
+* yolo calculates last and best weight
+* Last epoch might not have the best accuract, we need to use best accuracy
+
+**Steps:**
+
+1. Clone yolov5 repo
+2. Install all the libraries
+3. Download dataset
+4. Restructure dataset
+   1. Hardhat
+      1. images
+         1. train
+         2. test
+         3. val
+      2. labels
+         1. train
+         2. test
+         3. val
+5. Create yaml file
+   1. mention root directory
+   2. train: images/train
+   3. val: images/valid
+   4. test: images/valid
+6. yolov5/train ⇒ mention the weights, epochs, yaml file, device,&#x20;
