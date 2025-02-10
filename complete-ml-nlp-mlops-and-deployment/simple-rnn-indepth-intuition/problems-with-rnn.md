@@ -10,7 +10,7 @@
 *
 
     <figure><img src="../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
-* The long term dependency cannot be captured by RNN&#x20;
+* <mark style="color:purple;background-color:purple;">**The long term dependency cannot be captured by RNN**</mark>&#x20;
 * If the length is 3
 *   For updating weight Wh, in gradient calculation we need to add for 3 time stamps
 

@@ -1,4 +1,13 @@
-# Code - Classifier
+# 🔴 Code - Classifier
+
+* Clean the data ⇒ Remove punctuations and all
+* Encoding the words
+  * For each word we will give a number here (Use enumerate)
+  * Each sentence will be converted into numbers then
+* Encode the labels ⇒ Positive:1 , Negative: 0
+* Each rows needs to be of length 200, if its not then add 0 post padding
+* Do train, test split
+* Define RNN architecture
 
 ```python
 import numpy as np

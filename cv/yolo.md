@@ -2,13 +2,15 @@
 
 * Clone yolov5 repo
 * Install yolov5
+* Fastest in the market
 * Download data from roboflow - hardhat - raw version
 * While downloading using yolov5 sample
 * It has train test, test and val folders and each folder has images and labels
 * data.yaml ⇒ has information about number of classes and lables
 * We keep images and labels in different structure, coz so that if data annotation team makes any correction then they would have to store only labels.txt
 * We can convert from coco annotation to yolo annotations also
-*
+* Model size after training is \~14mb
+* In ResNet it was \~85mb
 
 **Project Structure:**
 
@@ -48,7 +50,8 @@ yolo
 
     <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * export.py ⇒ to convert pt model to torch script/onnx etc
-* detect.py ⇒ for inferecing
+* detect.py ⇒ for inferecing ⇒ we can also mention confidence threshold here
+* Inside detect.py we can all the theshold that we can pass&#x20;
 * val.py to check the performance of the model on new dataset
   * python val.py --weights <\<path of the trained last/best weights>> <\<device>>
   *
@@ -80,3 +83,9 @@ yolo
    3. val: images/valid
    4. test: images/valid
 6. yolov5/train ⇒ mention the weights, epochs, yaml file, device,&#x20;
+
+Inference depends on:
+
+* input shape
+* How many objects present in the image
+* Model size

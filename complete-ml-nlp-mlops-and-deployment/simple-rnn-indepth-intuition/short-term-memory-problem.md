@@ -1,4 +1,4 @@
-# Short term memory problem
+# 🟢 Short term memory problem
 
 **Simple RNN example:**
 
