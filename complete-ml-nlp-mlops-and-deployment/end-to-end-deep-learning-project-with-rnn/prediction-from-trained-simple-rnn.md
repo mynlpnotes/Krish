@@ -1,4 +1,10 @@
-# Prediction from trained Simple RNN
+# 🔴 Prediction from trained Simple RNN
+
+* <mark style="color:purple;background-color:purple;">**We 1st pre process the sentence for which prediction to be done**</mark>
+  * <mark style="color:purple;background-color:purple;">**We lowercase and split**</mark>
+  * <mark style="color:purple;background-color:purple;">**For each word we find the index which was used during training**</mark>
+  * <mark style="color:purple;background-color:purple;">**Add padding**</mark>
+* <mark style="color:purple;background-color:purple;">**Then we call the model for prediction**</mark>
 
 ```python
 # Step 1: Import Libraries and Load the Model
@@ -20,6 +26,7 @@ def decode_review(encoded_review):
     return ' '.join([reverse_word_index.get(i - 3, '?') for i in encoded_review])
 
 # Function to preprocess user input
+# We are starting encoding from 3rd word becoz in imdb, the 1st 3 words are reserve
 def preprocess_text(text):
     words = text.lower().split()
     encoded_review = [word_index.get(word, 2) + 3 for word in words]

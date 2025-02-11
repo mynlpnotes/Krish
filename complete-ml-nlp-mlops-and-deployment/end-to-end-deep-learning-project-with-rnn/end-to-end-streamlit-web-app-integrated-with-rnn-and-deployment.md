@@ -1,4 +1,4 @@
-# End to End Streamlit Web App Integrated with RNN and Deployment
+# 🔴 End to End Streamlit Web App Integrated with RNN and Deployment
 
 * streamlit run main.py
 
