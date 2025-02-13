@@ -8,7 +8,8 @@
 
 Agents:
 
-* To use a language model to choose a sequence of actions to take&#x20;
+* To use a language model to choose a sequence of actions to take
+* When a query is asked which tools should the agent call? ⇒ OpenAI agents have been fine tuned to select tools as per the query
 
 
 

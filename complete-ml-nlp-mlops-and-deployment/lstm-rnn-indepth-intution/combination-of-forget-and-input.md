@@ -1,4 +1,4 @@
-# Combination of Forget and Input
+# ✈️ Combination of Forget and Input
 
 * When we multiply Ct-1 and ft then we are forgetting some info
 * Candidate memory adds new information to cell state

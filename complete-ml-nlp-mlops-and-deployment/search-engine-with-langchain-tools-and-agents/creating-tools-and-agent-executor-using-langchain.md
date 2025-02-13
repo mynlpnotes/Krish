@@ -1,5 +1,10 @@
 # Creating tools and Agent Executor using LangChain
 
+* Tool will be doing some functionality
+* When we want to use we need to use API wrapper
+* In hub we can get different prompts
+* [https://smith.langchain.com/hub/](https://smith.langchain.com/hub/)
+
 ```python
 ## Arxiv--Research
 ## Tools creation
@@ -55,6 +60,13 @@ llm=ChatGroq(groq_api_key=groq_api_key,model_name="Llama3-8b-8192")
 from langchain import hub
 prompt=hub.pull("hwchase17/openai-functions-agent")
 prompt.messages
+# [SystemMessagePromptTemplate(prompt=PromptTemplate(input_variables=[], 
+# input_types={}, partial_variables={}, template='You are a helpful assistant'), 
+# additional_kwargs={}),
+# MessagesPlaceholder(variable_name='chat_history', optional=True),
+# HumanMessagePromptTemplate(prompt=PromptTemplate(input_variables=['input'], 
+# input_types={}, partial_variables={}, template='{input}'), additional_kwargs={}),
+# MessagesPlaceholder(variable_name='agent_scratchpad')]
 
 ## Agents
 from langchain.agents import create_openai_tools_agent

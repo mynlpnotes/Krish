@@ -1,4 +1,4 @@
-# Variant of LSTM
+# ✈️ Variant of LSTM
 
 * Here we are coupling forget and input gates
 * Instead of separately deciding what to forget and what we should add new information

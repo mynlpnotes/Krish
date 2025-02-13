@@ -1,4 +1,4 @@
-# LSTM RNN Architecture
+# ✈️ LSTM RNN Architecture
 
 * Xt is input
 * 3 import gates:
