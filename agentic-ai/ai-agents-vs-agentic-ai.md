@@ -13,4 +13,4 @@
   * The agents will also be interacting with each other
 *   There are different platforms ⇒ LangChain, Agon, CrewAI
 
-    <figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>

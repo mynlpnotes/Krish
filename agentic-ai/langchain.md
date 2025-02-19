@@ -8,7 +8,7 @@
 * Provides entire eco system to build LLM application
 *
 
-    <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 * Langsmith is another platform inside the ecosystem using which we can debug, monitor, see entire chain calls&#x20;
 * Llamaindex is also framework
 * LangServe is tool to make Gen AI application deployable

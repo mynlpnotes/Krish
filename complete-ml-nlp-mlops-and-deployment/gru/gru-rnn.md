@@ -1,11 +1,12 @@
-# GRU RNN
+# 🟠 GRU RNN
 
 * 2014
 * In LSTM we have separate long term memory and short term memory
-* LSTM architecture is complex, as we are using 3 different gates and candidate memory as well. so there are 3 important weight Wf, Wi and Wo
-* So the trainable parameters is high
+* <mark style="color:purple;background-color:purple;">**If higher accuracy needed then go for LSTM**</mark>
+* <mark style="color:purple;background-color:purple;">**LSTM architecture is complex**</mark>, as we are using 3 different gates and candidate memory as well. so there are 3 important weight Wf, Wi and Wo
+* <mark style="color:purple;">**So the trainable parameters is high**</mark>
 * So training time will also increase
-* Instead of using short term and long term memory, it has been combined in GRU
+* <mark style="color:purple;background-color:purple;">**Short term and long term memory have been combined**</mark>
 * Zt is called as update gate
 * Rt is called as reset gate
 * H\~t is called as temporary hidden state

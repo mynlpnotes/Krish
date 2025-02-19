@@ -8,7 +8,7 @@
 * <mark style="color:purple;background-color:purple;">**Whatever the output we get from here, will be retained in Ht (Short term memory)**</mark>
 * <mark style="color:purple;background-color:purple;">**This Ct and Ht will be passed to the next time stamp**</mark>
 * <mark style="color:purple;background-color:purple;">**Weight Wi, Wc and Wo needs to be updated using back propagation**</mark>
-* <mark style="color:purple;background-color:purple;">**Applying tanh ensures that only a scaled version of the memory is passed, avoiding abrupt or excessive updates.**</mark>
+* <mark style="color:red;background-color:purple;">**Applying tanh ensures that only a scaled version of the memory is passed, avoiding abrupt or excessive updates.**</mark>
 *   <mark style="color:purple;background-color:purple;">**Ht is same as output**</mark>
 
     <figure><img src="../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>

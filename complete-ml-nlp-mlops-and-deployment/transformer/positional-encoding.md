@@ -24,7 +24,7 @@ Types of Position encoding&#x20;
 
     <figure><img src="../../.gitbook/assets/{FBF9A4E3-7E52-4916-82E9-03130052DDF6}.png" alt=""><figcaption></figcaption></figure>
 
-    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 *
 
     <figure><img src="../../.gitbook/assets/{77B53AD4-1081-42DC-98DC-A4E23D4E514D}.png" alt=""><figcaption></figcaption></figure>

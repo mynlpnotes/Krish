@@ -1,5 +1,15 @@
 # Introduction to LangGraph
 
+Advantages of langchain:
+
+* Amazing library ⇒ for component, core, integration
+* Very easy to create applications
+* Complex workflow ⇒ LLM calls tools (tools was converted to agents), this is how we did all tasks
+* In GenAI we are all able to create message history, RAG, tools, agents
+* For complex workflow like create&#x20;
+
+
+
 * Used for building stateful, multi actor application with LLMs
 * Agents can also communicate with each other
 * Each agent can perform different tasks
