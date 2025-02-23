@@ -7,7 +7,7 @@
 * Example: Image classification
 *
 
-    <figure><img src="../../.gitbook/assets/image (9) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
@@ -18,7 +18,7 @@
 * We get one input and get many outputs
 *
 
-    <figure><img src="../../.gitbook/assets/image (10) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (10) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 * Example: Text generation
 
 
@@ -29,7 +29,7 @@
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (11) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (11) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 * Example: Sentiment analysis
 
 
@@ -40,5 +40,5 @@
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (12) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (12) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 * Example: Language translation, QnA, Chatbots

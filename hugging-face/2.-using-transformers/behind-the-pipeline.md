@@ -38,4 +38,4 @@ print(outputs.last_hidden_state.shape)
   * The output of transformer model is sent to the model head to be processed
   *
 
-      <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
