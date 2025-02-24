@@ -1,4 +1,34 @@
-# Code - Sentiment Analysis
+# 🟢 Code - Sentiment Analysis
+
+
+
+* <mark style="color:purple;">**1st load the dataset having text and labels into test and train**</mark>
+
+```
+Initial Dataset (20)  
+     ↓  
+Shuffle Buffer (8) → Random Pick (5) → Batch 1  
+     ↓  
+Shuffle Buffer (8) → Random Pick (5) → Batch 2  
+     ↓  
+Continue until all batches are created  
+```
+
+* <mark style="color:purple;">**We do shuffle only on train and not on test**</mark>
+* <mark style="color:purple;">**`train_ds`**</mark><mark style="color:purple;">**&#x20;**</mark><mark style="color:purple;">**is usually a TensorFlow Dataset created from**</mark><mark style="color:purple;">**&#x20;**</mark><mark style="color:purple;">**`(text, label)`**</mark><mark style="color:purple;">**.**</mark>
+* <mark style="color:purple;">**Each record is a tuple: (Input Text,Label)(\text{Input Text}, \text{Label})(Input Text,Label)**</mark>
+* <mark style="color:purple;">**We convert text into numbers using encoder**</mark>
+  * <mark style="color:purple;">**Most frequent words (based on occurrence in the dataset).**</mark>
+  * <mark style="color:purple;">**Rare words are ignored if they exceed the vocab limit.**</mark>
+  * <mark style="color:purple;">**Out-of-vocabulary (OOV) words are replaced with a special token (default index**</mark><mark style="color:purple;">**&#x20;**</mark><mark style="color:purple;">**`1)`**</mark>
+* <mark style="color:purple;">**In NN we 1st add encoder layer then encoding and then lstm/rnn/bi units layers**</mark>
+* <mark style="color:purple;">**We then compile the model specifying loss function, optimizer and metrics**</mark>
+* <mark style="color:purple;">**Specify callbacks like checkpoints, early stopping etc**</mark>
+* <mark style="color:purple;">**We can visualize using tensorboards**</mark>
+
+
+
+
 
 ```python
 # This will download dataset as tf

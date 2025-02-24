@@ -6,9 +6,9 @@
 * In this case, English is also information, and hindi is also information
 * But their meaning is same
 * For this we need encoder and decoder architecture
-* Encode the English into some numbers/vectors
-* And then decode it into some other language
-* One to one mapping between the languages is not possible
+* <mark style="color:purple;background-color:purple;">**Encode the English into some numbers/vectors**</mark>
+* <mark style="color:purple;background-color:purple;">**And then decode it into some other language**</mark>
+* <mark style="color:purple;background-color:purple;">**One to one mapping between the languages is not possible**</mark>
 *
 
     <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
@@ -19,7 +19,7 @@
     <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 * Embedding layer will convert numbers into vectors
 * This word vectors we will feed to RNN
-* We have reversed the input sequence here
+* <mark style="color:purple;background-color:purple;">**We have reversed the input sequence here**</mark>
 * We are not using any output here, we will be using last value here and passing it to decoder
 * We have embedding lookup for target language
 * 1st character is \<sos> and at end we use \<eos>
