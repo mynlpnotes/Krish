@@ -1,4 +1,4 @@
-# Neural Machine Translation
+# 🟢 Neural Machine Translation
 
 **Language translation:**
 
@@ -46,8 +46,8 @@
 * (in this diagram it is not group of RNN, it is rolled over time)
 * We compared target and predicted
 * There are only 2 mistakes
-* So weights of this RNNs will be updated, and the embedding lookup will also be updated and it will backpropagate all the previous RNN and then weights and embedding lookup of encoder as well
-* Embedding layer for English as well as hindi will be updated
+* So <mark style="color:purple;background-color:purple;">**weights of this RNNs will be updated, and the embedding lookup will also be updated and it will backpropagate all the previous RNN and then weights and embedding lookup of encoder as well**</mark>
+* <mark style="color:purple;background-color:purple;">**Embedding layer for English as well as hindi will be updated**</mark>
 * RNNs of encoder and decoder will learn the sequence
 * In encoder as well  \<eos> and \<sos> will be there
 * This is used for model to understand when to start prediction and when to stop it
