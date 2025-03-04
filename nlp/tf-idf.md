@@ -1,6 +1,6 @@
 # TF-IDF
 
-* Copy from krish lecture
+* Refer Krish Notes
 
 ```python
 from sklearn.feature_extraction.text import TfidfVectorizer
