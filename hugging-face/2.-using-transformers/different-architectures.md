@@ -1,4 +1,4 @@
-# Different Architectures
+# 🟢 Different Architectures
 
 * Different architectures for different tasks
   * `*Model` (retrieve the hidden states)
@@ -9,7 +9,7 @@
   * `*ForSequenceClassification`
   * `*ForTokenClassification`
   * and others 🤗
-* Those are not probabilities but _logits_, the raw, unnormalized scores outputted by the last layer of the model. To be converted to probabilities, they need to go through a [SoftMax](https://en.wikipedia.org/wiki/Softmax_function) layer
+* <mark style="color:purple;background-color:purple;">**Those are not probabilities but**</mark><mark style="color:purple;background-color:purple;">**&#x20;**</mark>_<mark style="color:purple;background-color:purple;">**logits**</mark>_<mark style="color:purple;background-color:purple;">**, the raw, unnormalized scores outputted by the last layer of the model. To be converted to probabilities, they need to go through a**</mark> [<mark style="color:purple;background-color:purple;">**SoftMax**</mark>](https://en.wikipedia.org/wiki/Softmax_function) <mark style="color:purple;background-color:purple;">**layer**</mark>
 
 ```python
 from transformers import AutoModelForSequenceClassification
@@ -25,7 +25,7 @@ tensor([[-1.5607,  1.6123],
         [ 4.1692, -3.3464]], grad_fn=<AddmmBackward>)
 ```
 
-**Post processing the outputs:**
+<mark style="color:purple;background-color:purple;">**Post processing the outputs:**</mark>
 
 ```python
 import torch

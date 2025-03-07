@@ -16,7 +16,7 @@
 * Similarly for hindi as well
 *
 
-    <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Embedding layer will convert numbers into vectors
 * This word vectors we will feed to RNN
 * <mark style="color:purple;background-color:purple;">**We have reversed the input sequence here**</mark>

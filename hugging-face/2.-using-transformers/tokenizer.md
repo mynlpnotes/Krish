@@ -2,7 +2,7 @@
 
 * To convert our text inputs to numerical data
 * Each word gets assigned an ID, starting from 0 and going up to the size of the vocabulary. The model uses these IDs to identify each word.
-* “unknown” token, often represented as ”\[UNK]” or ””
+* <mark style="color:purple;background-color:purple;">**“unknown” token, often represented as ”\[UNK]” or ””**</mark>
 
 **Word Based:**
 

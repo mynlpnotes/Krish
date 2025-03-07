@@ -1,4 +1,4 @@
-# Inference
+# 🟢 Inference
 
 * &#x20;The tokenizer converts these to vocabulary indices which are typically called _input IDs_.
 
