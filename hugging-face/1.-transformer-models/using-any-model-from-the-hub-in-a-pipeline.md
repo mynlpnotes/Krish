@@ -1,4 +1,4 @@
-# Using any model from the Hub in a pipeline
+# 🟢 Using any model from the Hub in a pipeline
 
 * To choose a particular model from the Hub to use in a pipeline for a specific task
 

@@ -1,6 +1,6 @@
-# Bias and Limitations
+# 🟢 Bias and Limitations
 
-* Original model you are using could very easily generate sexist, racist, or homophobic content.&#x20;
+* <mark style="color:purple;background-color:purple;">**Original model you are using could very easily generate sexist, racist, or homophobic content.**</mark>&#x20;
 * Fine-tuning the model on your data won’t make this intrinsic bias disappear
 
 ```python

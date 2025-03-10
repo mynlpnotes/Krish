@@ -1,6 +1,6 @@
-# What can Transformers do
+# 🟢 What can Transformers do
 
-* pipeline() helps connect a model with its necessary preprocessing and postprocessing steps, allowing to directly input any text and get answer
+* <mark style="color:purple;background-color:purple;">**pipeline() helps connect a model with its necessary preprocessing and postprocessing steps, allowing to directly input any text and get answer**</mark>
   1. The text is preprocessed into a format the model can understand.
   2. The preprocessed inputs are passed to the model.
   3. The predictions of the model are post-processed, so you can make sense of them.

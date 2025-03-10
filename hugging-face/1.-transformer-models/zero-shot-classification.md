@@ -1,7 +1,8 @@
-# Zero Shot Classification
+# 🟢 Zero Shot Classification
 
-* To classify text that has not been labelled
-* You don't need to fine tune the model
+* <mark style="color:purple;background-color:purple;">**To classify text that has not been labelled**</mark>
+* <mark style="color:purple;background-color:purple;">**You don't need to fine tune the model**</mark>
+* <mark style="color:purple;background-color:purple;">**We have to pass the candidate\_labels**</mark>
 
 ```python
 from transformers import pipeline

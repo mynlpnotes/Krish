@@ -1,8 +1,8 @@
-# Sequence-to-sequence models
+# 🟢 Sequence-to-sequence models
 
-* Encoder-decoder models (also called sequence-to-sequence models) use both parts of the Transformer architecture.&#x20;
-* At each stage, the attention layers of the encoder can access all the words in the initial sentence, whereas the attention layers of the decoder can only access the words positioned before a given word in the input
-* Best suited for tasks revolving around generating new sentences depending on a given input, such as summarization, translation, or generative question answering.
+* <mark style="color:purple;background-color:purple;">**Encoder-decoder models**</mark> (also called sequence-to-sequence models) use both parts of the Transformer architecture.&#x20;
+* <mark style="color:purple;background-color:purple;">**At each stage, the attention layers of the encoder can access all the words in the initial sentence, whereas the attention layers of the decoder can only access the words positioned before a given word in the input**</mark>
+* <mark style="color:purple;background-color:purple;">**Best suited for tasks revolving around generating new sentences depending on a given input, such as summarization, translation, or generative question answering.**</mark>
 * [BART](https://huggingface.co/transformers/model_doc/bart)
 * [mBART](https://huggingface.co/transformers/model_doc/mbart)
 * [Marian](https://huggingface.co/transformers/model_doc/marian)
