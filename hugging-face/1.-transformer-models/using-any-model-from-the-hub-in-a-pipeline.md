@@ -1,0 +1,14 @@
+# Using any model from the Hub in a pipeline
+
+* To choose a particular model from the Hub to use in a pipeline for a specific task
+
+```python
+from transformers import pipeline
+
+generator = pipeline("text-generation", model="distilgpt2")
+generator(
+    "In this course, we will teach you how to",
+    max_length=30,
+    num_return_sequences=2,
+)
+```
