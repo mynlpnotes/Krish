@@ -1,4 +1,4 @@
-# Linear Regression
+# 🟢 Linear Regression
 
 * <mark style="color:purple;background-color:purple;">**Supervised**</mark>
 * A is having some patterns, whereas B is not having any pattern

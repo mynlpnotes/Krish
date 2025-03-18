@@ -1,4 +1,4 @@
-# How to find the best line, m and c
+# 🟢 How to find the best line, m and c
 
 * Using the 1st 2 records form the equation and then solve for 2 unknown variables then we will get values for m and c
 * Similarly then take 3rd and 4th records

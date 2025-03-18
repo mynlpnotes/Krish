@@ -22,4 +22,4 @@
 * Lets say W and X are our 2 vectors
 * If we have a hyperplane then we can geometrically say that W will be a vector that will be parallel to pie
 * Below that image is of a 3D plane
-* If intercept is 0 then it needs to pass throught origin
+* If intercept is 0 then it needs to pass through origin

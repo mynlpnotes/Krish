@@ -1,4 +1,4 @@
-# Linear Relation
+# 🟢 Linear Relation
 
 * Find equation which can define relation of this data
 * 2nd row 3rd is parabola
