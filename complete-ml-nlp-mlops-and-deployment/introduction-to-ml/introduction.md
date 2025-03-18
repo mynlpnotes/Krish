@@ -1,4 +1,4 @@
-# Introduction
+# 🟢 Introduction
 
 **AL vs ML vs DL vs DS:**
 
@@ -15,14 +15,14 @@
 
 **ML:**
 
-* Subset of AI
+* <mark style="color:purple;background-color:purple;">**Subset of AI**</mark>
 * It provides stats tools to analyze, visualize, prediction and forecast on the data
 
 **DL:**
 
 * Subset of ML
 * <mark style="color:purple;background-color:purple;">**Make the machine learn the same way as humans**</mark>
-* **Mimic the human brain**
+* <mark style="color:purple;background-color:purple;">**Mimic the human brain**</mark>
 * Used multi layer neural network
 
 **DS:**

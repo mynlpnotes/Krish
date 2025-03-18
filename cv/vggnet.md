@@ -8,7 +8,7 @@
 * 3X3 ⇒ More computation
 *
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * In VGG idea of small filter ⇒ 3X3 and they stacked deep network
 * Simple architecture
 * They keep increasing filters in patterns and always use 3X3 filters

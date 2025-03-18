@@ -1,4 +1,4 @@
-# Equation of line, 3d and Hyperplane
+# 🟠 Equation of line, 3d and Hyperplane
 
 * The equation of line is y = mx + c
 * m = slope

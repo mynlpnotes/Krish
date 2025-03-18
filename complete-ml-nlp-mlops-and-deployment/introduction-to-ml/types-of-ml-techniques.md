@@ -1,4 +1,4 @@
-# Types of ML techniques
+# 🟢 Types of ML techniques
 
 1. **Supervised:**
 
@@ -15,11 +15,11 @@
 * Linear Regression
 * Ridge & Lasso&#x20;
 * ElasticNet
-* Logistic Regression - Classification
-* Decision tree - Both classification and regression
-* Random forest - Both classification and regression
-* AdaBoost - Both classification and regression
-* XGboost - Both classification and regression
+* **Logistic Regression - Classification**
+* **Decision tree - Both classification and regression**
+* **Random forest - Both classification and regression**
+* **AdaBoost - Both classification and regression**
+* **XGboost - Both classification and regression**
 
 2. **Unsupervised:**
 
@@ -37,7 +37,7 @@
 
 3. **Reinforcement:**
 
-* Application will learn by itself by getting rewards
+* <mark style="color:purple;background-color:purple;">**Application will learn by itself by getting rewards**</mark>
 
 4. **Semi Supervised:**
 
