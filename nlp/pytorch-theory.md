@@ -5,6 +5,7 @@
 * Open source developed by Meta
 * Originally written in LUA
 * Later written in python so became pytorch
+* Can run on GPU, numpy cant run on GPU
 
 
 
