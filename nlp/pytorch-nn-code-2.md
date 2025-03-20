@@ -29,4 +29,9 @@ model.linear1.weight
 #        [-0.0839, -0.2110,  0.2407, -0.0181, -0.2688]], requires_grad=True)
 
 model.linear1.bias
+#Parameter containing:
+#tensor([-0.2832,  0.1767,  0.3792], requires_grad=True)
+
+model.linear2.weight
+model.linear2.bias
 ```
