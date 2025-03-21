@@ -3,14 +3,15 @@
 * Bidirectional Encoder Representation from Transformer
 * Encoder based architecture
 * Bidirectional means it is going to process the data in both the directions to self attention layer
-* We has positional encoding also
+* We have positional encoding also
+* Trained on massive wikipedia data
 * Layer Normalization and Feed Forward
 * 2 models
   * Small model having 12 layers ⇒ Hidden layer size in Feed forward NN ⇒ 768 ⇒ 110M parameters
   * Large model having 24 layers ⇒ Hidden layer size in Feed forward NN ⇒ 1024 ⇒ 340M parameters
 *
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
 * BERT was mainly trained for text classification
@@ -29,7 +30,7 @@
 
 *
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Pick any random words in inside the sentence and mask it
 * This words we are going to predict while training the model
 * \[CLS]  token is represent that it needs to do classification of the sentence

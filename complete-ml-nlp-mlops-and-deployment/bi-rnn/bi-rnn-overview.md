@@ -1,6 +1,6 @@
 # 🟢 Bi RNN - Overview
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="210"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="210"><figcaption></figcaption></figure>
 
 * Above is a unidirectional RNN or vanilla RNN
 
