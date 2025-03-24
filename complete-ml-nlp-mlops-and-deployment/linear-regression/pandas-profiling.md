@@ -1,5 +1,17 @@
 # 🟢 Pandas Profiling
 
+* <mark style="color:purple;background-color:purple;">**Automates exploratory data analysis (EDA) by generating a detailed report.**</mark>
+* <mark style="color:purple;background-color:purple;">**Provides dataset overview, including number of rows, columns, and data types.**</mark>
+* <mark style="color:purple;background-color:purple;">**Identifies missing values, duplicate rows, and constant columns.**</mark>
+* <mark style="color:purple;background-color:purple;">**Computes descriptive statistics for numerical and categorical columns.**</mark>
+* <mark style="color:purple;background-color:purple;">**Displays correlation matrices (Pearson, Spearman, etc.) to detect multicollinearity.**</mark>
+* <mark style="color:purple;background-color:purple;">**Generates distribution plots, histograms, and box plots for better visualization.**</mark>
+* <mark style="color:purple;background-color:purple;">**Detects outliers in numerical features using quantiles and distribution analysis.**</mark>
+* <mark style="color:purple;background-color:purple;">**Highlights data issues such as high cardinality and mixed data types.**</mark>
+* <mark style="color:purple;background-color:purple;">**Saves time by summarizing data insights in an interactive HTML report.**</mark>
+
+
+
 The report consists of the following:
 
 * DataFrame overview,
@@ -10,8 +22,8 @@ The report consists of the following:
 **Overview:**
 
 * Overview consists of 3 tabs, these are **Overview**, **Alerts,** and **Reproduction**.
-* The **Overview** consists of dataset statistics and variable types.&#x20;
-* Dataset statistics gives us information on number of variables, duplicates and missing values.
+* The Overview consists of dataset statistics and variable types.&#x20;
+* <mark style="color:purple;background-color:purple;">**Dataset statistics gives us information on number of variables, duplicates and missing values.**</mark>
 *
 
     <figure><img src="https://media.geeksforgeeks.org/wp-content/uploads/20230714112214/r1-(1).png" alt=""><figcaption></figcaption></figure>
