@@ -1,4 +1,4 @@
-# Residual
+# 🟢 Residual
 
 * <mark style="color:purple;background-color:purple;">**Y – Ypred**</mark>
 * Y – (mx + c)

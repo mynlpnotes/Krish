@@ -1,4 +1,4 @@
-# Linear Regression - Coding
+# 🟢 Linear Regression - Coding
 
 ```python
 from pandas_profiling import ProfileReport
