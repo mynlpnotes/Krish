@@ -1,6 +1,8 @@
 # HuggingFace - LangChain
 
-
+* Access huggingface using langchain
+* In the below example, inference API is getting use
+* We also using simple chain here
 
 ```python
 !pip install langchain-huggingface
@@ -40,9 +42,5 @@ llm.invoke("hello how are you?")
 
 llm_chain=LLMChain(llm=llm,prompt=prompt)
 llm_chain.invoke(question)
-
-
-
-
 
 ```
