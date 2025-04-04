@@ -5,6 +5,10 @@
 * Tokenizer also add SOS and EOS tokens - Start of sentence, End of sentence
 * This will be passed to Model for embedding, attention etc
 * Every model has its own tokenizer
+* 101 token means SOS and 102 means EOS
+* token\_type\_id ⇒ for 1st sentence it will be 0, for 2nd it will be 1 and so on
+* Sentence ⇒ Token ⇒ IDs ⇒ Embedding ⇒ Position encoding ⇒ Self attention
+* If the sentence lenght is mis-match then tokenizer adds padding also
 
 ```python
 from transformers import BertTokenizerFast

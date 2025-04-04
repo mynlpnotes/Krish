@@ -1,6 +1,10 @@
-# Finetuning - BERT - Code
+# BERT - Code
 
-* &#x20;
+
+
+* &#x20;For fine tuning, we need atleast 1000 to 2000 rows
+* It depends on model also, for gpt we can train using 100 or 200 rows also
+* BERT is not trained on that huge data
 
 ```python
 import datasets
@@ -80,6 +84,7 @@ nlp_pipeline(example)
 #   'start': 0,
 #   'end': 5}]
 
+# Preparing data for fine tuning
 # We can use the below function to align tokens and labels
 def tokenize_and_align_labels(examples, label_all_tokens=True):
 
@@ -135,7 +140,7 @@ for token, label in zip(tokenizer.convert_ids_to_tokens(q["input_ids"][0]),q["la
 # ._______________________________________ 0
 # [SEP]___________________________________ -100
     
-
+tokenized_datasets = conll2003.map(tokenize_and_align_labels, batched=True)
 
 
 ```
