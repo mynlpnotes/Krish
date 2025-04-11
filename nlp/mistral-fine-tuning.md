@@ -19,6 +19,8 @@
 * We have to make it in following format
 * Human: Summarize this following dialogue: <\<text>>   Assistant: <\<summary>>
 * By default pad token is not there in mistral, so we assign eos token to it
+* If memory issue faced during loading the model for inferencing then use [https://huggingface.co/TheBloke](https://huggingface.co/TheBloke)
+* Here all the quantized models are there, we can download from there and fine tune
 
 ```python
 #!pip install accelerate peft bitsandbytes 
@@ -153,5 +155,5 @@ print(tokenizer.decode(outputs[0], skip_special_tokens=True))
 print(time.time()-st_time)
 ## Human: Summarize this following dialogue: Vasanth: I'm at the railway station in Chennai Karthik: No problems so far? Vasanth: no, everything's going smoothly Karthik: good. lets meet there soon!
 ## Assistant:  Vasanth is at the railway station in Chennai. Everything is going smoothly. He will meet Karthik soon.
-## 29.117424964904785
+## 29.11742496490478
 ```
