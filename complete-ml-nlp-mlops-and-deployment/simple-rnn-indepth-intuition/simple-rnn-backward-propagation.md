@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🔔 Simple RNN Backward Propagation
 
 * We will be passing xi1 at t = 1

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟢 One Hot Encoding
 
 * To convert text into words

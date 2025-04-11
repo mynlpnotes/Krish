@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # ✈️ Introduction to NLP in DL
 
 * ANN was used for solving problems such as classification / regression ⇒ Here the data was tabular

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟠 Problems with RNN
 
 <mark style="color:purple;background-color:purple;">**Vanishing Gradient Problem:**</mark>

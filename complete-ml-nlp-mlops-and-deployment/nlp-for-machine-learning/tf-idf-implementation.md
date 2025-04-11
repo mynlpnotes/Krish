@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟢 TF IDF implementation
 
 ```python

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🔴 Code - Classifier
 
 * Clean the data ⇒ Remove punctuations and all

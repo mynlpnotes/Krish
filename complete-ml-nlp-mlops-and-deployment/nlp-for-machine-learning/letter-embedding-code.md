@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Letter Embedding- Code
 
 {% embed url="https://colab.research.google.com/drive/1ZNLtAVewGdZi-yW9zLnAE7hPqhFvTAMh?authuser=1" %}

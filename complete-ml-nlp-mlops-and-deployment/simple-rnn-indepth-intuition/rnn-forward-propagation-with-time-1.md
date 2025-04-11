@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟢 RNN forward propagation with time
 
 * Input x11 will be multiplied with weight and bias will be added and we will get O1

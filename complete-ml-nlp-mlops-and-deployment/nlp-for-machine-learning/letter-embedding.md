@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Letter Embedding
 
 * Dataset -> Million headlines which contains headlines of news

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟢 Tokenization Practicals
 
 * <mark style="color:purple;background-color:purple;">**print((corpus)) # This will not display /n**</mark>

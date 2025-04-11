@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟢 Practical use cases of NLP
 
 1. <mark style="color:purple;background-color:purple;">**Language modelling:**</mark>

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟢 Spam Ham project using BOW
 
 ```python

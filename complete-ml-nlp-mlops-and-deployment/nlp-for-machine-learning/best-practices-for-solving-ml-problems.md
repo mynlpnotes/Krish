@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟢 Best practices for solving ML problems
 
 1. Pre process and clean the data -> Feature engineering

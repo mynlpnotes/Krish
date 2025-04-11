@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟢 TF IDF Intuition
 
 * Term frequency - Inverse document frequency

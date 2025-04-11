@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟢 Average Word2Vec intuition
 
 * &#x20;In word2vec we take every word and we convert it into vectors

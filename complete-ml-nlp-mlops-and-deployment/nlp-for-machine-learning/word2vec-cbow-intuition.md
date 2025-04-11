@@ -1,4 +1,10 @@
+---
+hidden: true
+---
+
 # 🟢 Word2Vec Cbow Intuition
+
+
 
 * We can use Pre trained model or train a model from scratch
 *   Continuous BOW

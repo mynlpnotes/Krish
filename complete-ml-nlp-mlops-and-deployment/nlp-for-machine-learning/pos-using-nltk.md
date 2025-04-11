@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟢 POS using NLTK
 
 *   <mark style="color:purple;background-color:purple;">**Use nltk.pos**</mark>

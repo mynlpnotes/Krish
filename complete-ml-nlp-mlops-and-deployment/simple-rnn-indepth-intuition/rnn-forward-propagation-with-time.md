@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟢 RNN forward propagation with time
 
 Dataset:

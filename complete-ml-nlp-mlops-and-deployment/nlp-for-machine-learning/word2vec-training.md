@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Word2Vec - Training
 
 * **Pretrained:**

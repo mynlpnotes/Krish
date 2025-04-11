@@ -5,6 +5,8 @@
 * &#x20;For fine tuning, we need atleast 1000 to 2000 rows
 * It depends on model also, for gpt we can train using 100 or 200 rows also
 * BERT is not trained on that huge data
+* Disable WANDM\_DISABLED other it will update logs of weights and biases to their website and it required key, so we disable it
+* Chunking is also like POS, but it gives more details
 
 ```python
 import datasets
@@ -84,63 +86,7 @@ nlp_pipeline(example)
 #   'start': 0,
 #   'end': 5}]
 
-# Preparing data for fine tuning
-# We can use the below function to align tokens and labels
-def tokenize_and_align_labels(examples, label_all_tokens=True):
 
-    #tokeinze ids
-    tokenized_inputs = tokenizer(examples["tokens"], truncation=True, is_split_into_words=True)
-    labels = []
-
-
-    for i, label in enumerate(examples["ner_tags"]):
-        word_ids = tokenized_inputs.word_ids(batch_index=i)
-        # word_ids() => Return a list mapping the tokens
-        # to their actual word in the initial sentence.
-        # It Returns a list indicating the word corresponding to each token.
-
-        previous_word_idx = None
-        label_ids = []
-        # Special tokens like `` and `<\s>` are originally mapped to None
-        # We need to set the label to -100 so they are automatically ignored in the loss function.
-        for word_idx in word_ids:
-            if word_idx is None:
-                # set –100 as the label for these special tokens
-                label_ids.append(-100)
-
-            # For the other tokens in a word, we set the label to either the current label or -100, depending on
-            # the label_all_tokens flag.
-            elif word_idx != previous_word_idx:
-                # if current word_idx is != prev then its the most regular case
-                # and add the corresponding token
-                label_ids.append(label[word_idx])
-            else:
-                # to take care of sub-words which have the same word_idx
-                # set -100 as well for them, but only if label_all_tokens == False
-                label_ids.append(label[word_idx] if label_all_tokens else -100)
-                # mask the subword representations after the first subword
-
-            previous_word_idx = word_idx
-        labels.append(label_ids)
-    tokenized_inputs["labels"] = labels
-    return tokenized_inputs
-
-q=tokenize_and_align_labels(conll2003["train"][0:1])
-for token, label in zip(tokenizer.convert_ids_to_tokens(q["input_ids"][0]),q["labels"][0]):
-    print(f"{token:_<40} {label}")
-# [CLS]___________________________________ -100
-# eu______________________________________ 3
-# rejects_________________________________ 0
-# german__________________________________ 7
-# call____________________________________ 0
-# to______________________________________ 0
-# boycott_________________________________ 0
-# british_________________________________ 7
-# lamb____________________________________ 0
-# ._______________________________________ 0
-# [SEP]___________________________________ -100
-    
-tokenized_datasets = conll2003.map(tokenize_and_align_labels, batched=True)
 
 
 ```

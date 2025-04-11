@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟢 Word2Vec practical implementation - Gensim
 
 * <mark style="color:purple;background-color:purple;">**We can use gensim to download pre trained word2vec models**</mark>

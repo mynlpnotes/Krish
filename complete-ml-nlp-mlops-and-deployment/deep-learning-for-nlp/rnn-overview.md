@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟢 RNN Overview
 
 * In ANN, we give input which goes to HL and then we get output

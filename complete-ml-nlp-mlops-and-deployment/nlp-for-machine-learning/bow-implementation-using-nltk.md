@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟢 BOW implementation using NLTK
 
 <mark style="color:purple;background-color:purple;">**Algo explained:**</mark>

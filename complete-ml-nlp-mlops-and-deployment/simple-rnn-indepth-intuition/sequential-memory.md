@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟢 Sequential Memory
 
 * A B C D ……….Z

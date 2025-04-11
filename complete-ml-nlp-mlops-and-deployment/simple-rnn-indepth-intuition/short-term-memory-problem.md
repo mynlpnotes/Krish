@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟢 Short term memory problem
 
 **Simple RNN example:**

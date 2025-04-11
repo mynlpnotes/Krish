@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🟢 Trainable Parameters
 
 * 31 trainable parameters here
