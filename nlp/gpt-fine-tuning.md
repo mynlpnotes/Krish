@@ -1,5 +1,9 @@
 # GPT - Fine tuning
 
+[**https://platform.openai.com/docs/guides/fine-tuning**](https://platform.openai.com/docs/guides/fine-tuning)
+
+* Once model is trained, it will also be available in playground
+
 **Data:**
 
 * jsonsl with below format - system, user and assistant
