@@ -1,2 +1,2 @@
-# Complete ML, NLP, MLOps and Deployment
+# All Notes
 

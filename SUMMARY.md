@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Complete ML, NLP, MLOps and Deployment](README.md)
+* [All Notes](README.md)
+* [Complete ML, NLP, MLOps and Deployment](<README (1).md>)
   * [Getting started with VS Code](complete-ml-nlp-mlops-and-deployment/getting-started-with-vs-code.md)
   * [Python Programming Language](complete-ml-nlp-mlops-and-deployment/python-programming-language/README.md)
     * [Different ways of creating environment](complete-ml-nlp-mlops-and-deployment/python-programming-language/different-ways-of-creating-environment.md)
@@ -820,7 +821,8 @@
   * [LLM Fine tuning - Theory](nlp/llm-fine-tuning-theory.md)
   * [Mistral - Research Paper](nlp/mistral-research-paper.md)
   * [Mistral - Fine Tuning](nlp/mistral-fine-tuning.md)
-  * [Page 4](nlp/page-4.md)
+  * [GPT - Prompt](nlp/gpt-prompt.md)
+  * [GPT - Fine tuning](nlp/gpt-fine-tuning.md)
   * [End](nlp/end.md)
 * [Projects](projects/README.md)
   * [Signature Cropping](projects/signature-cropping/README.md)
