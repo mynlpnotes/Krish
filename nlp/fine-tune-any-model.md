@@ -80,6 +80,8 @@ class LoRAFineTuner:
 
       data_df = data.to_pandas()
       print(data_df.head())
+      
+      # Basically dataset will have question by user and answer by assistant
 
       text_column = data_df.columns[0]  # Select first column if unsure
       print(text_column)

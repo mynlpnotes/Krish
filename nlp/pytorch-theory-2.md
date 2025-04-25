@@ -1,6 +1,6 @@
 # PyTorch Theory - 2
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Tensor is special array, to compute on GPU
 * Tensor can also calculate gradient
