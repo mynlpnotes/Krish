@@ -19,7 +19,7 @@ Llama ⇒ Trained on transformer architecture
 * r = low rank factor
 *
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 * Rank is calculated using algebra using SVD
 * LoRA is not taking subset of the weights of the transformers
 * We add additional weights
