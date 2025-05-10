@@ -1,6 +1,7 @@
 # Table of contents
 
 * [All Notes](README.md)
+  * [NLP](all-notes/nlp.md)
 * [Complete ML, NLP, MLOps and Deployment](<README (1).md>)
   * [Getting started with VS Code](complete-ml-nlp-mlops-and-deployment/getting-started-with-vs-code.md)
   * [Python Programming Language](complete-ml-nlp-mlops-and-deployment/python-programming-language/README.md)
@@ -871,6 +872,11 @@
   * [Examples of Vector DB](nlp/examples-of-vector-db.md)
   * [Text Splitters](nlp/text-splitters.md)
   * [VectorDB - Code](nlp/vectordb-code.md)
+  * [ChromaDB - Code](nlp/chromadb-code.md)
+  * [Pinecone](nlp/pinecone.md)
+  * [Chunking](nlp/chunking.md)
+  * [Chunking Approaches](nlp/chunking-approaches.md)
+  * [Chunking - Code](nlp/chunking-code.md)
   * [End](nlp/end.md)
 * [Projects](projects/README.md)
   * [Signature Cropping](projects/signature-cropping/README.md)

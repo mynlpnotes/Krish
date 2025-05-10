@@ -1,5 +1,7 @@
 # Examples of Vector DB
 
-* FAISS
+
+
+* FAISS -&#x20;
 * Pinecone
 * WAVITE
