@@ -36,7 +36,7 @@
 * \[CLS]  token is represent that it needs to do classification of the sentence
 *   \[SEP] to separate 2 sentences
 
-    <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Next Sentence Prediction:**
 

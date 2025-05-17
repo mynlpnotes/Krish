@@ -9,7 +9,7 @@
 * &#x20;Before passing multi head attention to feed forward, we will apply layer normalization
 *
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Normalization:
 
@@ -23,7 +23,7 @@ Normalization:
 * Before giving this input to NN, we do standard scaling normalization
 *
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * In DL, we do min max scaling
 * All the inputs of image will be between 0 and 255
 * We convert all this between 0 and 1
