@@ -891,6 +891,8 @@
   * [LangGraph Code - 3](nlp/langgraph-code-3.md)
   * [LangGraph Agents](nlp/langgraph-agents.md)
   * [LangGraph - Multiple Tools](nlp/langgraph-multiple-tools.md)
+  * [LangGraph - Human in Loop](nlp/langgraph-human-in-loop.md)
+  * [LangGraph - Memory Saver](nlp/langgraph-memory-saver.md)
   * [End](nlp/end.md)
 * [Projects](projects/README.md)
   * [Signature Cropping](projects/signature-cropping/README.md)
