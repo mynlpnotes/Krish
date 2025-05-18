@@ -1,8 +1,10 @@
 # LangGraph Introduction - Code 2
 
-* &#x20;We keep adding messages to state
+* We keep adding messages to state
 * And this state we flow to different functions
 * If we need answer of one node in another node, then we can use this
+* To get only the last output we will use invoke, we can use stream if we want output of each node
+* To debug we can use stream
 
 ```python
 from langchain_core.output_parsers import StrOutputParser
@@ -100,7 +102,7 @@ for output in app2.stream({"messages":["what is a meaning of 'cancer from prolon
         print("_______")
         print(value)
         print("\n")
-here is output from LLM
+#here is output from LLM
 # _______
 # {'messages': ["what is a meaning of 'cancer from prolonged exposure to
 # burn pits ravaged Heath’s lungs and body'?", "Heath's lungs and body were 

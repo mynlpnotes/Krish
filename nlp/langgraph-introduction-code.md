@@ -5,6 +5,7 @@
 * Node represents function
 * Edge represents connectivity
 * We can use app.stream to see the output of each node
+* We can do sequential as well as parallel node execution
 
 ```python
 from langgraph.graph import Graph
