@@ -1,6 +1,8 @@
 # Multi Agent - Supervisor
 
-* &#x20;
+* &#x20;There will be a supervisor agent
+* Under it there be multiple agents
+* Child agent will perform the task and control will again pass back to the supervisor
 
 ```python
 from typing import Annotated

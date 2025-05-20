@@ -1,4 +1,4 @@
-# Multi Agent - Collabarative
+# Multi Agent - Collabarative / Network
 
 * Command will give command to which function command needs to be passed
 * One agent is connected to the other agent
@@ -23,6 +23,7 @@ load_dotenv()
 
 openai_model=ChatOpenAI(model="gpt-4")
 
+# Below is just a dummy function, for demo, it wont be used further in the code
 def add_numbers(state):
     result=state["num1"]+state["num2"]
     print(f"additional result: {result}")
@@ -71,6 +72,8 @@ ai_message.tool_calls
 #  'id': 'call_IfR3dE1sBg51HEClWMJMpTTY',
 #  'type': 'tool_call'}]
 
+# 1st agent
+# It should either transfer to multiplication expert or end
 def additional_expert(state:MessagesState)-> Command[Literal["multiplication_expert", "__end__"]]:
     
     system_prompt = (
@@ -80,9 +83,7 @@ def additional_expert(state:MessagesState)-> Command[Literal["multiplication_exp
     
     messages = [{"role": "system", "content": system_prompt}] + state["messages"]
     
-    
     ai_msg = openai_model.bind_tools([transfer_to_multiplication_expert]).invoke(messages)
-    
     
     if len(ai_msg.tool_calls) > 0:
         tool_call_id = ai_msg.tool_calls[-1]["id"]
@@ -97,6 +98,7 @@ def additional_expert(state:MessagesState)-> Command[Literal["multiplication_exp
         )
     return {"messages": [ai_msg]}
 
+# 2nd agent
 def multiplication_expert(state:MessagesState)-> Command[Literal["additional_expert", "__end__"]]:
     
     system_prompt = (
@@ -158,6 +160,49 @@ app.invoke({"messages":[("user","what's (3 + 5) * 12. Provide me the output")]})
 # 'output_tokens': 18, 'total_tokens': 177, 'input_token_details': {'audio': 0, 
 # 'cache_read': 0}, 'output_token_details': {'audio': 0, 'reasoning': 0}})]}
 
+from langchain_core.messages import convert_to_messages
+def pretty_print_messages(update):
+    if isinstance(update, tuple):
+        ns, update = update
+        # skip parent graph updates in the printouts
+        if len(ns) == 0:
+            return
+
+        graph_id = ns[-1].split(":")[0]
+        print(f"Update from subgraph {graph_id}:")
+        print("\n")
+
+    for node_name, node_update in update.items():
+        print(f"Update from node {node_name}:")
+        print("\n")
+
+        for m in convert_to_messages(node_update["messages"]):
+            m.pretty_print()
+        print("\n")
+    
+# Let's run the graph with an expression that requires both addition and multiplication:
+for chunk in app.stream(
+    {"messages": [("user", "what's (3 + 5) * 12. Provide me the output")]},
+):
+    print("****chunk...****")
+    
+    pretty_print_messages(chunk)
+#****chunk...****
+#Update from node additional_expert:
+#================================== Ai Message ==================================
+#The sum of 3 + 5 is 8. Now let's multiply this with 12.
+#ool Calls:
+#  transfer_to_multiplication_expert (call_zETwusD5MzvgxZNUpHsd3f40)
+# Call ID: call_zETwusD5MzvgxZNUpHsd3f40
+#  Args:
+#    multiplicand1: 8
+#    multiplicand2: 12
+#================================= Tool Message =================================#
+#Successfully transferred
+#****chunk...****
+#Update from node multiplication_expert:
+#================================== Ai Message ==================================
+#The product of 8 and 12 is 96. So, the result of (3 + 5) * 12 is 96.
 ```
 
 *

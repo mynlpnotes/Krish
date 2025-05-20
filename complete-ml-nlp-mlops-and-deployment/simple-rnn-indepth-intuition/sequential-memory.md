@@ -11,7 +11,7 @@ hidden: true
 * That means sequential data is easier to remember
 * <mark style="color:purple;background-color:purple;">**RNNs are abstract concept of sequential memory**</mark>
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Depending on the speed of car, <mark style="color:purple;background-color:purple;">**we need to decide whether we should decrease the speed or change the lane**</mark>
 * <mark style="color:purple;background-color:purple;">**For this we need to understand where the car was at t-1 and where it is at t**</mark>
