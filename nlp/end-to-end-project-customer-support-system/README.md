@@ -9,4 +9,7 @@
   * page\_content = review
   * metadata = dictionary containing product\_id
 * This transformed data will be stored in vectorDB
-*
+
+
+
+<figure><img src="../../.gitbook/assets/{E33A287D-E4BE-4AB8-B21D-B2C32018D19E}.png" alt=""><figcaption></figcaption></figure>
