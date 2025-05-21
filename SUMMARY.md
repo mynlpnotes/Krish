@@ -894,7 +894,7 @@
   * [LangGraph - Human in Loop](nlp/langgraph-human-in-loop.md)
   * [LangGraph - Memory Saver](nlp/langgraph-memory-saver.md)
   * [Multi Agentic](nlp/multi-agentic.md)
-  * [Multi Agent - Collabarative / Network](nlp/multi-agent-collabarative-network.md)
+  * [Multi Agent - Collabarative / Network](nlp/multi-agent-collabarative.md)
   * [Multi Agent - Collabarative / Network - 2](nlp/multi-agent-collabarative-network-2.md)
   * [Multi Agent - Supervisor](nlp/multi-agent-supervisor.md)
   * [Multi Agent - Complete Guide](nlp/multi-agent-complete-guide.md)
