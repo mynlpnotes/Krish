@@ -10,4 +10,4 @@ Tools:
 
 
 
-LanceDB will be used
+Pinecone will be used
