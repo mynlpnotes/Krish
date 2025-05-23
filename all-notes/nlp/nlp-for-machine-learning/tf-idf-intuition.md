@@ -9,7 +9,7 @@ hidden: true
 * <mark style="color:purple;background-color:purple;">**More importance to words which occur rarely**</mark>
 *
 
-    <figure><img src="../../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
 *
 
-    <figure><img src="../../.gitbook/assets/image (240).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (240).png" alt=""><figcaption></figcaption></figure>

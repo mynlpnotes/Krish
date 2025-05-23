@@ -13,4 +13,4 @@ hidden: true
 * <mark style="color:purple;background-color:purple;">**We take average of all the vectors of the words and feed this as input to the model**</mark>
 *
 
-    <figure><img src="../../.gitbook/assets/image (490).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (490).png" alt=""><figcaption></figcaption></figure>

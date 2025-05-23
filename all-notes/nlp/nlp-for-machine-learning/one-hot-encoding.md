@@ -13,4 +13,4 @@ hidden: true
 * The shape of D3 will be 3X7
 *
 
-    <figure><img src="../../.gitbook/assets/image (248).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (248).png" alt=""><figcaption></figcaption></figure>

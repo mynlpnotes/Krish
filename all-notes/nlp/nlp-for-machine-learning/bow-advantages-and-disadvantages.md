@@ -15,4 +15,4 @@ hidden: true
 
 *   Here both the sentence are having similar vector, but they are almost opposite
 
-    <figure><img src="../../.gitbook/assets/image (487).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (487).png" alt=""><figcaption></figcaption></figure>

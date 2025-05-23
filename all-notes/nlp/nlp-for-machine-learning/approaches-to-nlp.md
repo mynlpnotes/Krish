@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 🟢 Approaches to NLP
 
 1. <mark style="color:purple;background-color:purple;">**Heuristics:**</mark>

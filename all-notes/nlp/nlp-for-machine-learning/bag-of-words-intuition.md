@@ -11,4 +11,4 @@ hidden: true
 * BOW we will represent using count
 *   Binary BOW we will represent using 0/1
 
-    <figure><img src="../../.gitbook/assets/image (486).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (486).png" alt=""><figcaption></figcaption></figure>

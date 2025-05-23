@@ -14,4 +14,4 @@
 * 2024 ⇒ OpenAI has come up with multi model GPT4, Google gemini pro 1.5
 *
 
-    <figure><img src="../../.gitbook/assets/{8D290AA3-775D-4CC4-A238-F4E9A6EA9D6D}.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/{8D290AA3-775D-4CC4-A238-F4E9A6EA9D6D}.png" alt=""><figcaption></figcaption></figure>

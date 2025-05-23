@@ -21,4 +21,4 @@ Usecases:
 
 * Difference comes to architecture(transformers) and data
 
-<figure><img src="../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>

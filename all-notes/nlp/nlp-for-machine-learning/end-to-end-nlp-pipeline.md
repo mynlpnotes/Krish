@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 🟢 End to End NLP Pipeline
 
 1. <mark style="color:purple;background-color:purple;">**Data acquisition:**</mark>
