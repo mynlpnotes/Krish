@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 🟢 Word2Vec Cbow Intuition
 
 

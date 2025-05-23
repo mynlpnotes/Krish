@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 🟢 Word2Vec - For your own data
 
 ```python

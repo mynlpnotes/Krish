@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 🟢 Tokenization and Basic Techniques
 
 **Corpus:** Paragraph

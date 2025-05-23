@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Label Encoder
 
 * Encode each word with a unique number

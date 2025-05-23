@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 🟢 Encoding vs Embedding
 
 

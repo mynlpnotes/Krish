@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 🟢 Stopwords
 
 * <mark style="color:purple;background-color:purple;">**Remove the common language words which are not important for the model**</mark>

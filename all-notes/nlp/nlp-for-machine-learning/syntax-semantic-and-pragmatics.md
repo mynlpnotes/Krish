@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 🟢 Syntax, Semantic and Pragmatics
 
 <mark style="color:purple;background-color:purple;">**Syntax:**</mark> <mark style="color:purple;background-color:purple;"></mark><mark style="color:purple;background-color:purple;">Gramatically correct ⇒ POS Tagging</mark>

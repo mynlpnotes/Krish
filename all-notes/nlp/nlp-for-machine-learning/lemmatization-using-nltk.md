@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 🟠 Lemmatization using NLTK
 
 * Lemmatization technique is like stemming.&#x20;

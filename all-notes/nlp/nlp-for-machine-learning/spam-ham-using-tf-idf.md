@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 🟢 Spam Ham using Tf-Idf
 
 ```python

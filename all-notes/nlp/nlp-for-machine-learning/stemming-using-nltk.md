@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 🟢 Stemming using NLTK
 
 * Stemming is the process of <mark style="color:purple;background-color:purple;">**reducing a word to its word stem**</mark>

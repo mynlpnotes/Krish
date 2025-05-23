@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 🟢 Kindle review sentiment analysis
 
 <mark style="color:purple;background-color:purple;">**Steps:**</mark>

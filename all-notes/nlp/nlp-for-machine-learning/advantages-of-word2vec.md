@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 🟢 Advantages of Word2Vec
 
 * <mark style="color:purple;background-color:purple;">**Dense matrix**</mark>

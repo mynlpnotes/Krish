@@ -1,6 +1,6 @@
 # Introduction
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Cannot use proximity to understand/gain info from the sentence
 * We may think Roopali is a person, but if we read entire sentence then she is a cow

@@ -2,11 +2,11 @@
 
 *
 
-    <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * It will predict the probability of the word at each timestamp
 *
 
-    <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Here one to one mapping source and target text is not possible
 * Since machine does not understand text we will encode text into numbers
 * Numbers are not appropriate representation of text

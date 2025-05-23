@@ -260,5 +260,5 @@ for output in app.stream({"messages":["what is a age of donald trump?"]}):
 
 *
 
-    <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 

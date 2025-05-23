@@ -4,7 +4,7 @@
 
 *   &#x20;
 
-    <figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * We encode and embed input 1st, then it will go into encoder in reverse order
 * So in RNN, 1st v3 will go, then v2 and then v1
 * This encoded information will go into Decoder

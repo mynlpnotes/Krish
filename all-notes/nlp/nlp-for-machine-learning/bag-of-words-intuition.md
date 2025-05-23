@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 🟢 Bag of words intuition
 
 * <mark style="color:purple;background-color:purple;">**Lower all the words**</mark>

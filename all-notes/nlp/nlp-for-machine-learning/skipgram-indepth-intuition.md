@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 🟢 Skipgram Indepth Intuition
 
 * <mark style="color:purple;background-color:purple;">**Here input and output is reversed**</mark>

@@ -11,12 +11,12 @@
 * <mark style="color:purple;background-color:purple;">**One to one mapping between the languages is not possible**</mark>
 *
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * In English it is 3 words, If we decode then this will be 4 words in French
 * Similarly for hindi as well
 *
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Embedding layer will convert numbers into vectors
 * This word vectors we will feed to RNN
 * <mark style="color:purple;background-color:purple;">**We have reversed the input sequence here**</mark>
@@ -30,7 +30,7 @@
 * Encoding for English and hindi will be different
 *
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * At x(0) there is no previous input, its output will go as hidden state to x(1)
 * Embedding of drink and hidden state will go to 2nd RNN
 * Its hidden state will go to next RNN and so on
@@ -42,7 +42,7 @@
 * Embedding lookup will be randomly generated
 *
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * (in this diagram it is not group of RNN, it is rolled over time)
 * We compared target and predicted
 * There are only 2 mistakes

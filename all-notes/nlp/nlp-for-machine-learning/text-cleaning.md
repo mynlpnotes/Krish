@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 🟠 Text cleaning
 
 | **Operation**                 | **Example**                                                   | **Code Snippet**                                                                                                                                                              |

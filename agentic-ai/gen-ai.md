@@ -12,7 +12,7 @@
 * Training is done in 3 steps
 *   Deepseek also used Reinforcement along with 3 steps, so it reduced training and increased inferencing also
 
-    <figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * LLM model will only generate output
 * Using model we can make it behave the way we want as lawyer, politician etc.
 * Every LLM model will specify till which date it has been trained
@@ -21,7 +21,7 @@
 * So here we are having external source coming from some API
 *   This we can consider as AI agent
 
-    <figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * If we ask provide me top news of AI in 2025
 * &#x20;There are external APIs like SERAPI, Duckduck search and also an API for Calculator
 * If we ask 2 + 2 ⇒ It wont go to calculator then LLM can answer it
@@ -29,4 +29,4 @@
 * Calculator is tool, remaining are external sources here which can also be converted to tools
 *   If we ask LLM ⇒ What is Attention is all you need ⇒ LLM wont know ⇒ So it will go to DuckDuck search ⇒ Then it will go to Arxiv
 
-    <figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (6) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

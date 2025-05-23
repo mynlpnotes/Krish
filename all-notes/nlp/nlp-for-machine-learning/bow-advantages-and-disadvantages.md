@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 🟢 BOW Advantages and Disadvantages
 
 
