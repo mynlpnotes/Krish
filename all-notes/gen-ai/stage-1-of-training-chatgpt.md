@@ -1,9 +1,9 @@
-# 🟠 Stage 1 of Training ChatGPT
+# 🟢 Stage 1 of Training ChatGPT
 
 **Stage 1: Generative Pre-Training:**
 
 * <mark style="color:purple;background-color:purple;">**For language understanding**</mark>
-* <mark style="color:purple;background-color:purple;">**In pre-training it does next word prediction( it doesnt do MLM — this is done in BERT)**</mark>
+* <mark style="color:purple;background-color:purple;">**In pre-training it does next word prediction( it doesn't do MLM — this is done in BERT)**</mark>
 * Trained on a bunch of data from internet
 * <mark style="color:purple;background-color:purple;">**Decoder only, so there will be no encoder, You pass the full text into the decoder only.**</mark>
 * It predicts the next token at each position based only on previous tokens.

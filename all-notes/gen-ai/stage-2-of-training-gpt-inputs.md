@@ -1,4 +1,4 @@
-# Stage 2 of Training GPT - Inputs
+# 🟢 Stage 2 of Training GPT - Inputs
 
 * Usually cross entropy loss is used
 

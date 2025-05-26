@@ -1,4 +1,4 @@
-# 🟢 List of SFT Tasks
+# 🟠 List of SFT Tasks
 
 | Task                     | Encoder-Decoder Models (T5, BART) | Decoder-Only Models (GPT) | Encoder-Only Models (BERT) |
 | ------------------------ | --------------------------------- | ------------------------- | -------------------------- |

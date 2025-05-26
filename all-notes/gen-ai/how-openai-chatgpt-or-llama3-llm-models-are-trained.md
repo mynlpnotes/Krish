@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 🟠 How OpenAI ChatGPT or Llama3 LLM models are trained
 
 ChatGPT:

@@ -1,4 +1,4 @@
-# Stage 3 of Training ChatGPT
+# 🟠 Stage 3 of Training ChatGPT
 
 **Reinforcement learned human feedback:**
 

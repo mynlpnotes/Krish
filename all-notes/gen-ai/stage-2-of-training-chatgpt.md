@@ -1,4 +1,4 @@
-# Stage 2 of Training ChatGPT
+# 🟢 Stage 2 of Training ChatGPT
 
 * When we download a model its usually pretrained only and not fine tuned for any specific task
 * However, some models on Hugging Face are **already fine-tuned** and tagged accordingly (e.g., `bert-base-uncased-finetuned-sst2` for sentiment analysis). You can look at the model card or description to check if it’s pretrained only or fine-tuned.
