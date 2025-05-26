@@ -1,2 +1,0 @@
-# Deployment of GenAI App
-
