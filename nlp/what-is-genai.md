@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # What is GenAI
 
 * Generates new data based on training sample
