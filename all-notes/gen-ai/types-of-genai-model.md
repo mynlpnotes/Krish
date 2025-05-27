@@ -1,4 +1,4 @@
-# Types of GenAI Model
+# 🟢 Types of GenAI Model
 
 **Unimodal:**
 

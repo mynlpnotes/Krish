@@ -1,4 +1,4 @@
-# Getting started with Groq API
+# 🟢 Getting started with Groq API
 
 * LCEL is used to chain components together
 * [https://groq.com/about-us/](https://groq.com/about-us/) ⇒ To access open source models

@@ -1,4 +1,4 @@
-# Recursive vs Character Text Splitter
+# 🟠 Recursive vs Character Text Splitter
 
 #### 📚 **Input Example**
 

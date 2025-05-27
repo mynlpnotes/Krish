@@ -1,6 +1,10 @@
-# Document Chain
+# 🟢 Document Chain
 
 * [https://api.python.langchain.com/en/latest/chains/langchain.chains.combine\_documents.stuff.create\_stuff\_documents\_chain.html](https://api.python.langchain.com/en/latest/chains/langchain.chains.combine_documents.stuff.create_stuff_documents_chain.html)
+* <mark style="color:purple;background-color:purple;">**Retriever queries the VectorDB to get the most relevant documents for your query.**</mark>
+* <mark style="color:purple;background-color:purple;">**These retrieved documents are then passed to a Document Chain.**</mark>
+* <mark style="color:purple;background-color:purple;">**The Document Chain feeds the documents (usually chunk by chunk) along with the query into the LLM.**</mark>
+* <mark style="color:purple;background-color:purple;">**The LLM processes these inputs and generates the final answer or output.**</mark>
 * Create stuff document chain creates a chain for passing a list of document to a model
 * System ⇒ Message to the LLM ⇒ Instruction to LLM
 * It will be using Chapprompt template, ChatOpenAI and StrOutputParser inside

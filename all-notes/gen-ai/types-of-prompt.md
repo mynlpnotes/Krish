@@ -1,4 +1,4 @@
-# Types of Prompt
+# 🟠 Types of Prompt
 
 * Zero shot
 * Few shot
