@@ -4,7 +4,7 @@
 
 *
 
-    <figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * In Right, if we give sequential data, it will not remember the context
 * In RNN, we have a feedback mechanism, to make it remember things
 

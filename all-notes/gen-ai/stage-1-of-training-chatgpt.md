@@ -11,5 +11,5 @@
 * Cross entropy loss between actual and predicted
 *
 
-    <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 * Model is training to do a lot of things like language modeling, summarization, translation, and sentiment analysis. It’s not trained for a specific task but can handle a bunch of different ones

@@ -8,6 +8,6 @@
 * <mark style="color:purple;background-color:purple;">**During this stage, the model gets trained on specific tasks that are relevant to what the user is looking for, like conversational chat**</mark>
 *
 
-    <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Create training corpus
 * Fine tune the model using this corpus and update the parameters using SGD to learn task

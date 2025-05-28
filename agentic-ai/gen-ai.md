@@ -12,7 +12,7 @@
 * Training is done in 3 steps
 *   Deepseek also used Reinforcement along with 3 steps, so it reduced training and increased inferencing also
 
-    <figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * LLM model will only generate output
 * Using model we can make it behave the way we want as lawyer, politician etc.
 * Every LLM model will specify till which date it has been trained
