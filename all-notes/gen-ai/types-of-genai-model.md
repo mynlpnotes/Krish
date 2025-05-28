@@ -12,3 +12,9 @@
 * Output: Text as well as Image
 * Vision specific
 * Audio specific model also available
+
+
+
+* Text to Text ⇒ GPT, LLama, Mistral
+* Text to Image ⇒ DallE
+* Image to Text ⇒ CLIP, ViT

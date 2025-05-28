@@ -58,4 +58,4 @@ for output in app.stream("what is a agentic ai explain me in very detailed manne
 
 *
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

@@ -10,7 +10,7 @@
   * Initially in ML, as we increase the data , the accuracy used to increase, but then it reached plateau ⇒ Problem of ML
   *   To get a more accurate data, also we increase the dimension of data(No. of input features)
 
-      <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 *   **Multi layer Neural Network:**
 
     * Power of back propagation
@@ -30,5 +30,5 @@
   * When we question ⇒ it is converted into vector and then searched using cosine similarity and then we get output
   *
 
-      <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+      <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # GPT
 
 * GPT Models ⇒ 3, 3,5, 4, 4V, 4o, mini
