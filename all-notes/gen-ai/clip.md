@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # CLIP
 
 * [https://arxiv.org/pdf/2103.00020](https://arxiv.org/pdf/2103.00020)
@@ -21,8 +17,8 @@ hidden: true
 * We will find the cosine similarity of this 2 contextual embeddings
 *
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 *
 
-    <figure><img src="../.gitbook/assets/{01822DC2-4664-4F8F-8016-5F70E3B8205D}.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/{01822DC2-4664-4F8F-8016-5F70E3B8205D}.png" alt=""><figcaption></figcaption></figure>
 * Zero shot capabilities

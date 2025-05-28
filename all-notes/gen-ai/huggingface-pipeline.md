@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # HuggingFace - Pipeline
 
 * distilbert-base-uncases-finetuned-sst-2-english

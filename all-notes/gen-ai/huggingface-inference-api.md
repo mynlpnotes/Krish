@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # HuggingFace - Inference API
 
 * [https://huggingface.co/docs/api-inference/en/index](https://huggingface.co/docs/api-inference/en/index)

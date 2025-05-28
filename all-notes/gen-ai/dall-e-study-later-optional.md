@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Dall-E - Study Later (Optional)
 
 * Text to image generation

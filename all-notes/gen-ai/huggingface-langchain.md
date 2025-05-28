@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # HuggingFace - LangChain
 
 * Access huggingface using langchain

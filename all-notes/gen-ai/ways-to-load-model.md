@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Ways to Load Model
 
 **3 Ways:**

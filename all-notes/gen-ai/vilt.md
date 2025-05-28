@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # ViLT
 
 * Vision and image language transformer
@@ -12,4 +8,4 @@ hidden: true
 * That's why this is called vision image transformer
 *
 
-    <figure><img src="../.gitbook/assets/image (556).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (556).png" alt=""><figcaption></figcaption></figure>

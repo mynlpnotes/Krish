@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # HuggingFace - Auto Class
 
 * Use AutoModelForSequenceClassification and AutoTokenizer to load the pretrained model and it’s associated tokenizer

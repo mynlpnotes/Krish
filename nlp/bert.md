@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # BERT
 
 * Bidirectional Encoder Representation from Transformer

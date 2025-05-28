@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # Data Generation
 
 **Techniques for Data Generation:**
